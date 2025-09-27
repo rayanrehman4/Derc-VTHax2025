@@ -131,17 +131,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </div>
-      </section>
-
-      {/* Key Stats */}
-      <section className="section-padding bg-gray-900">
-        <div className="max-w-7xl mx-auto container-padding">
-          <div className="stats-grid text-center">
-            <div>
-              <div className="text-4xl font-bold text-green-400 mb-2">200+</div>
-              <div className="text-gray-400">Metro Areas</div>
-            </div>
             <div>
               <div className="text-4xl font-bold text-blue-400 mb-2">10M+</div>
               <div className="text-gray-400">Data Points</div>

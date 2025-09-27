@@ -12,7 +12,7 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
   const navigation = [
     { name: 'Dashboard', href: '/dashboard' },
     { name: 'Methodology', href: '/methodology' },
-    { name: 'Blog', href: '/blog' },
+
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
   ];

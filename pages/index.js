@@ -146,7 +146,6 @@ export default function Home() {
               <div className="text-gray-400">Uptime</div>
             </div>
           </div>
-          </div>
         </div>
       </section>
 

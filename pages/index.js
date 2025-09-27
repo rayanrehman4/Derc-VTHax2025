@@ -118,7 +118,7 @@ export default function Home() {
                   Open Dashboard
                 </Link>
               </div>
-            </div>
+           
 
             
               </div>

@@ -178,12 +178,6 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
                         </div>
                       </div>
 
-                      <button
-                        onClick={() => onAddToCompare(county)}
-                        className="btn-secondary text-sm ml-4"
-                      >
-                        Add to Compare
-                      </button>
                     </div>
                   </div>
                 );

@@ -12,19 +12,34 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
     }
   }, [isOpen, city]);
 
-  const loadCounties = async () => {
-    setIsLoading(true);
-    try {
-      const response = await fetch(`/api/recommendations/city?city=${encodeURIComponent(city.name)}`);
-      const data = await response.json();
-      setCounties(data.counties || []);
-    } catch (error) {
-      console.error('Error loading counties:', error);
-      setCounties([]);
-    } finally {
-      setIsLoading(false);
-    }
+const loadCounties = async () => {
+  setIsLoading(true);
+  // Mock data for best counties
+  const mockData = {
+    counties: [
+      {
+        fips: "001",
+        name: "Mock County A",
+        required_income: 50000,
+        price_trend: 0.02,
+      },
+      {
+        fips: "002",
+        name: "Mock County B",
+        required_income: 60000,
+        price_trend: 0.05,
+      },
+      {
+        fips: "003",
+        name: "Mock County C",
+        required_income: 55000,
+        price_trend: -0.01,
+      },
+    ],
   };
+  setCounties(mockData.counties);
+  setIsLoading(false);
+};
 
   const generateSparkline = (trend) => {
     // Generate mock sparkline data based on trend

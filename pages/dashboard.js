@@ -11,7 +11,6 @@ import SearchBar from '../components/SearchBar';
 import CityMultiSelect from '../components/CityMultiSelect';
 import TimeRangeTabs from '../components/TimeRangeTabs';
 import CountyModal from '../components/CountyModal';
-import CountyModal from '../components/CountyModal';
 import AssumptionsDrawer from '../components/AssumptionsDrawer';
 
 // Dynamic import for Heatmap to disable SSR
@@ -35,8 +34,6 @@ export default function Dashboard() {
   const [timeRange, setTimeRange] = useState('5Y');
   const [leaderboardSort, setLeaderboardSort] = useState('affordability');
   const [isLoading, setIsLoading] = useState(true);
-  const [countyModalOpen, setCountyModalOpen] = useState(false);
-  const [selectedCityForModal, setSelectedCityForModal] = useState(null);
   const [countyModalOpen, setCountyModalOpen] = useState(false);
   const [selectedCityForModal, setSelectedCityForModal] = useState(null);
   const [assumptionsDrawerOpen, setAssumptionsDrawerOpen] = useState(false);
@@ -85,21 +82,6 @@ export default function Dashboard() {
 
   const handleCountyClick = (county) => {
     console.log('County clicked:', county);
-    // Mock: add county's primary city to comparison
-    // In real implementation, would map county to cities
-    // Mock: add county's primary city to comparison
-    // In real implementation, would map county to cities
-  };
-
-  const handleCityCardClick = (city) => {
-    setSelectedCityForModal(city);
-    setCountyModalOpen(true);
-  };
-
-  const handleAddCountyToCompare = (county) => {
-    console.log('Adding county to compare:', county);
-    // Mock implementation - in real app would map county to city
-    setCountyModalOpen(false);
   };
 
   const handleCityCardClick = (city) => {
@@ -233,7 +215,6 @@ export default function Dashboard() {
                         key={city.id}
                         city={city}
                         onCardClick={handleCityCardClick}
-                        onCardClick={handleCityCardClick}
                         onClick={(city) => {
                           const isSelected = selectedCities.find(c => c.id === city.id);
                           if (isSelected) {
@@ -328,14 +309,6 @@ export default function Dashboard() {
             </div>
           </div>
         </div>
-
-        {/* Modals and Drawers */}
-        <CountyModal
-          isOpen={countyModalOpen}
-          onClose={() => setCountyModalOpen(false)}
-          city={selectedCityForModal}
-          onAddToCompare={handleAddCountyToCompare}
-        />
 
         {/* Modals and Drawers */}
         <CountyModal

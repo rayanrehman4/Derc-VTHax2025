@@ -210,7 +210,7 @@ export default function Dashboard() {
                     </div>
                   </div>
                   <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-                    {cities.slice(0, 6).map((city) => (
+                    {cities.slice(0, 12).map((city) => (
                       <TickerCard
                         key={city.id}
                         city={city}

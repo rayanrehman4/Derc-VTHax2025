@@ -1,6 +1,7 @@
 import Layout from '../components/Layout';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
+import BlueprintTrendline from '../components/BlueprintTrendline';
 
 const testimonials = [
   {
@@ -133,6 +134,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Blueprint Trendline Visual */}
+      <BlueprintTrendline />
 
       {/* Key Stats */}
       <section className="section-padding bg-gray-900">

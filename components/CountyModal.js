@@ -28,7 +28,6 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
   };
 
   const generateSparkline = (trend) => {
-    // Generate mock sparkline data based on trend
     const points = [];
     let value = 100;
     for (let i = 0; i < 12; i++) {
@@ -52,7 +51,11 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
       .join(" ");
 
     return (
-      <svg width="120" height="40" className="inline-block">
+      <svg
+        viewBox="0 0 120 40"
+        preserveAspectRatio="none"
+        className="w-32 h-10 flex-shrink-0"
+      >
         <polyline
           points={points}
           fill="none"
@@ -61,14 +64,28 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
           className="opacity-80"
         />
         <defs>
-          <linearGradient id={`gradient-${positive ? 'positive' : 'negative'}`} x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stopColor={positive ? "#22c55e" : "#ef4444"} stopOpacity="0.3"/>
-            <stop offset="100%" stopColor={positive ? "#22c55e" : "#ef4444"} stopOpacity="0.1"/>
+          <linearGradient
+            id={`gradient-${positive ? "positive" : "negative"}`}
+            x1="0%"
+            y1="0%"
+            x2="0%"
+            y2="100%"
+          >
+            <stop
+              offset="0%"
+              stopColor={positive ? "#22c55e" : "#ef4444"}
+              stopOpacity="0.3"
+            />
+            <stop
+              offset="100%"
+              stopColor={positive ? "#22c55e" : "#ef4444"}
+              stopOpacity="0.1"
+            />
           </linearGradient>
         </defs>
         <polygon
           points={`0,40 ${points} 120,40`}
-          fill={`url(#gradient-${positive ? 'positive' : 'negative'})`}
+          fill={`url(#gradient-${positive ? "positive" : "negative"})`}
         />
       </svg>
     );
@@ -83,7 +100,7 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
         onClick={onClose}
       />
 
-      <div className="relative bg-gray-900 border border-gray-700 rounded-xl shadow-2xl max-w-2xl w-full mx-4 max-h-[80vh] overflow-hidden">
+      <div className="relative bg-gray-900 border border-gray-700 rounded-xl shadow-2xl max-w-2xl w-full mx-4 max-h-[80vh] overflow-hidden flex flex-col">
         {/* Header */}
         <div className="flex items-center justify-between p-6 border-b border-gray-800">
           <div>
@@ -113,7 +130,7 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
         </div>
 
         {/* Content */}
-        <div className="p-6">
+        <div className="p-6 flex-1 overflow-y-auto">
           {isLoading ? (
             <div className="space-y-4">
               {[...Array(3)].map((_, i) => (
@@ -132,19 +149,19 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
               </div>
             </div>
           ) : (
-            <div className="space-y-4">
+            <div className="space-y-4 pr-2">
               {counties.map((county, index) => {
                 const sparklineData = generateSparkline(
                   county.price_trend || 0.05
                 );
-                const trendPositive = (county.price_trend || 0) < 0.1; // Lower price growth is better
+                const trendPositive = (county.price_trend || 0) < 0.1;
 
                 return (
                   <div
                     key={county.fips}
                     className="bg-gray-800/50 border border-gray-700/50 rounded-lg p-4 hover:border-gray-600/50 transition-all duration-200"
                   >
-                    <div className="flex items-center justify-between">
+                    <div className="flex items-center justify-between space-x-4">
                       <div className="flex-1">
                         <div className="flex items-center space-x-3 mb-2">
                           <div className="flex items-center justify-center w-6 h-6 bg-gradient-to-r from-green-400 to-blue-500 rounded-full text-white text-sm font-bold">
@@ -161,37 +178,31 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
                               Required Income:{" "}
                             </span>
                             <span className="text-white font-medium">
-                              $
-                              {county.required_income?.toLocaleString() ||
-                                "N/A"}
+                              ${county.required_income?.toLocaleString() || "N/A"}
                             </span>
                           </div>
                         </div>
 
-                        <div className="mt-3 flex items-center justify-between">
-                          <div className="flex items-center space-x-3">
-                            <span className="text-gray-400 text-sm">12-Month Trend:</span>
-                            <span
-                              className={`text-sm font-medium ${
-                                trendPositive
-                                  ? "text-green-400"
-                                  : "text-red-400"
-                              }`}
-                            >
-                              {county.price_trend
-                                ? `${(county.price_trend * 100).toFixed(1)}%`
-                                : "N/A"}
-                            </span>
-                          </div>
-                          <div className="flex items-center">
-                            <SparklineChart
-                              data={sparklineData}
-                              positive={trendPositive}
-                            />
-                          </div>
+                        <div className="mt-3 flex items-center space-x-3">
+                          <span className="text-gray-400 text-sm">
+                            12-Month Trend:
+                          </span>
+                          <span
+                            className={`text-sm font-medium ${
+                              trendPositive ? "text-green-400" : "text-red-400"
+                            }`}
+                          >
+                            {county.price_trend
+                              ? `${(county.price_trend * 100).toFixed(1)}%`
+                              : "N/A"}
+                          </span>
                         </div>
                       </div>
 
+                      <SparklineChart
+                        data={sparklineData}
+                        positive={trendPositive}
+                      />
                     </div>
                   </div>
                 );

@@ -131,6 +131,8 @@ export default function Home() {
               </div>
             </div>
           </div>
+          
+          <div className="flex justify-center items-center gap-8 mt-12">
             <div>
               <div className="text-4xl font-bold text-blue-400 mb-2">10M+</div>
               <div className="text-gray-400">Data Points</div>
@@ -143,6 +145,7 @@ export default function Home() {
               <div className="text-4xl font-bold text-yellow-400 mb-2">99.9%</div>
               <div className="text-gray-400">Uptime</div>
             </div>
+          </div>
           </div>
         </div>
       </section>

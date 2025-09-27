@@ -1,18 +1,25 @@
 import { useState, useEffect } from 'react';
+import { useAssumptions } from '../context/AssumptionsContext';
 
 const Leaderboard = ({ cities = [], sortBy = 'affordability', limit = 10 }) => {
   const [sortedCities, setSortedCities] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
+  const { calculateRequiredIncome } = useAssumptions();
 
   useEffect(() => {
-    let sorted = [...cities];
+    // Recalculate required income with current assumptions
+    let sorted = cities.map(city => ({
+      ...city,
+      adjusted_required_income: calculateRequiredIncome(city.median_price),
+      adjusted_affordability_score: Math.min(city.median_income / calculateRequiredIncome(city.median_price), 1.0)
+    }));
     
     switch (sortBy) {
       case 'affordability':
-        sorted.sort((a, b) => b.affordability_score - a.affordability_score);
+        sorted.sort((a, b) => b.adjusted_affordability_score - a.adjusted_affordability_score);
         break;
       case 'required_income':
-        sorted.sort((a, b) => a.required_income - b.required_income);
+        sorted.sort((a, b) => a.adjusted_required_income - b.adjusted_required_income);
         break;
       case 'change_1y':
         sorted.sort((a, b) => a.change_1y - b.change_1y);
@@ -23,7 +30,7 @@ const Leaderboard = ({ cities = [], sortBy = 'affordability', limit = 10 }) => {
     
     setSortedCities(sorted.slice(0, limit));
     setIsLoaded(true);
-  }, [cities, sortBy, limit]);
+  }, [cities, sortBy, limit, calculateRequiredIncome]);
 
   const formatCurrency = (amount) => {
     return new Intl.NumberFormat('en-US', {
@@ -96,7 +103,7 @@ const Leaderboard = ({ cities = [], sortBy = 'affordability', limit = 10 }) => {
 
       <div className="space-y-3">
         {sortedCities.map((city, index) => {
-          const isAffordable = city.affordability_score >= 0.7;
+          const isAffordable = city.adjusted_affordability_score >= 0.7;
           const changePositive = city.change_1y >= 0;
           
           return (
@@ -133,12 +140,12 @@ const Leaderboard = ({ cities = [], sortBy = 'affordability', limit = 10 }) => {
               <div className="text-right">
                 {sortBy === 'affordability' && (
                   <div className={`font-semibold ${isAffordable ? 'text-green-400' : 'text-red-400'}`}>
-                    {(city.affordability_score * 100).toFixed(0)}%
+                    {(city.adjusted_affordability_score * 100).toFixed(0)}%
                   </div>
                 )}
                 {sortBy === 'required_income' && (
                   <div className="font-semibold text-white">
-                    {formatCurrency(city.required_income)}
+                    {formatCurrency(city.adjusted_required_income)}
                   </div>
                 )}
                 {sortBy === 'change_1y' && (
@@ -154,7 +161,7 @@ const Leaderboard = ({ cities = [], sortBy = 'affordability', limit = 10 }) => {
                   <div 
                     className={`h-2 rounded-full transition-all duration-1000 ${isAffordable ? 'bg-green-500' : 'bg-red-500'}`}
                     style={{ 
-                      width: `${Math.min(city.affordability_score * 100, 100)}%`,
+                      width: `${Math.min(city.adjusted_affordability_score * 100, 100)}%`,
                       transitionDelay: `${index * 100 + 500}ms`
                     }}
                   />

@@ -1,0 +1,32 @@
+{
+  "San Francisco, CA": {
+    "state": "CA",
+    "primary_county": "06075",
+    "metro_counties": ["06075", "06081", "06085", "06001", "06013"]
+  },
+  "New York, NY": {
+    "state": "NY", 
+    "primary_county": "36061",
+    "metro_counties": ["36061", "36047", "36081", "36005", "36085"]
+  },
+  "Miami, FL": {
+    "state": "FL",
+    "primary_county": "12086", 
+    "metro_counties": ["12086", "12011", "12099"]
+  },
+  "Austin, TX": {
+    "state": "TX",
+    "primary_county": "48453",
+    "metro_counties": ["48453"]
+  },
+  "Denver, CO": {
+    "state": "CO",
+    "primary_county": "08031",
+    "metro_counties": ["08031", "08001", "08005", "08035", "08059"]
+  },
+  "Atlanta, GA": {
+    "state": "GA",
+    "primary_county": "13121",
+    "metro_counties": ["13121", "13135", "13089", "13097", "13151"]
+  }
+}

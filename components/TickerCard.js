@@ -1,11 +1,17 @@
 import { useState, useEffect } from 'react';
+import { useAssumptions } from '../context/AssumptionsContext';
 
-const TickerCard = ({ city, onClick, isSelected = false }) => {
+const TickerCard = ({ city, onClick, isSelected = false, onCardClick }) => {
   const [isLoaded, setIsLoaded] = useState(false);
+  const { calculateRequiredIncome } = useAssumptions();
   
   useEffect(() => {
     setIsLoaded(true);
   }, []);
+
+  // Calculate required income with current assumptions
+  const adjustedRequiredIncome = calculateRequiredIncome(city.median_price);
+  const adjustedAffordabilityScore = Math.min(city.median_income / adjustedRequiredIncome, 1.0);
 
   const formatCurrency = (amount) => {
     return new Intl.NumberFormat('en-US', {
@@ -21,13 +27,22 @@ const TickerCard = ({ city, onClick, isSelected = false }) => {
     return `${sign}${(value * 100).toFixed(1)}%`;
   };
 
-  const isAffordable = city.affordability_score >= 0.7;
+  const isAffordable = adjustedAffordabilityScore >= 0.7;
   const changePositive = city.change_1y >= 0;
+
+  const handleClick = (e) => {
+    e.stopPropagation();
+    if (onCardClick) {
+      onCardClick(city);
+    } else if (onClick) {
+      onClick(city);
+    }
+  };
 
   return (
     <div 
       className={`ticker-card ${isAffordable ? 'ticker-positive' : 'ticker-negative'} ${isSelected ? 'ring-2 ring-green-500' : ''} ${isLoaded ? 'animate-fade-in' : 'opacity-0'}`}
-      onClick={() => onClick && onClick(city)}
+      onClick={handleClick}
     >
       {/* Header */}
       <div className="flex items-start justify-between mb-3">
@@ -36,14 +51,14 @@ const TickerCard = ({ city, onClick, isSelected = false }) => {
           <p className="text-gray-400 text-sm">{city.state}</p>
         </div>
         <div className={`px-2 py-1 rounded text-xs font-medium ${isAffordable ? 'bg-green-500/20 text-green-400' : 'bg-red-500/20 text-red-400'}`}>
-          {(city.affordability_score * 100).toFixed(0)}% Affordable
+          {(adjustedAffordabilityScore * 100).toFixed(0)}% Affordable
         </div>
       </div>
 
       {/* Main Metric */}
       <div className="mb-4">
         <div className="text-2xl font-bold text-white mb-1">
-          {formatCurrency(city.required_income)}
+          {formatCurrency(adjustedRequiredIncome)}
         </div>
         <div className="text-sm text-gray-400">Required Annual Income</div>
       </div>
@@ -71,7 +86,7 @@ const TickerCard = ({ city, onClick, isSelected = false }) => {
         <div className="w-full bg-gray-800 rounded-full h-2">
           <div 
             className={`h-2 rounded-full transition-all duration-1000 delay-300 ${isAffordable ? 'bg-green-500' : 'bg-red-500'}`}
-            style={{ width: `${Math.min(city.affordability_score * 100, 100)}%` }}
+            style={{ width: `${Math.min(adjustedAffordabilityScore * 100, 100)}%` }}
           />
         </div>
       </div>

@@ -117,9 +117,6 @@ export default function Home() {
                 <Link href="/dashboard" className="btn-primary text-lg px-8 py-4 hover:scale-105">
                   Open Dashboard
                 </Link>
-                <Link href="/contact" className="btn-secondary text-lg px-8 py-4">
-                  Request Demo
-                </Link>
               </div>
             </div>
 
@@ -292,9 +289,6 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/dashboard" className="bg-white text-gray-900 hover:bg-gray-100 font-medium px-8 py-4 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl">
               Start Exploring Data
-            </Link>
-            <Link href="/pricing" className="border-2 border-white text-white hover:bg-white hover:text-gray-900 font-medium px-8 py-4 rounded-lg transition-all duration-200">
-              View Pricing
             </Link>
           </div>
         </div>

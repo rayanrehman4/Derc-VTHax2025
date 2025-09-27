@@ -12,9 +12,8 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
   const navigation = [
     { name: 'Dashboard', href: '/dashboard' },
     { name: 'Methodology', href: '/methodology' },
-    { name: 'Pricing', href: '/pricing' },
-    { name: 'Blog', href: '/blog' },
     { name: 'About', href: '/about' },
+    { name: 'Careers', href: '/careers' },
     { name: 'Contact', href: '/contact' },
   ];
 
@@ -153,7 +152,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
                 <ul className="space-y-2">
                   <li><Link href="/dashboard" className="text-gray-400 hover:text-white transition-colors text-sm">Dashboard</Link></li>
                   <li><Link href="/methodology" className="text-gray-400 hover:text-white transition-colors text-sm">Methodology</Link></li>
-                  <li><Link href="/pricing" className="text-gray-400 hover:text-white transition-colors text-sm">Pricing</Link></li>
                 </ul>
               </div>
 
@@ -163,7 +161,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
                 <ul className="space-y-2">
                   <li><Link href="/about" className="text-gray-400 hover:text-white transition-colors text-sm">About</Link></li>
                   <li><Link href="/careers" className="text-gray-400 hover:text-white transition-colors text-sm">Careers</Link></li>
-                  <li><Link href="/press" className="text-gray-400 hover:text-white transition-colors text-sm">Press</Link></li>
                   <li><Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">Contact</Link></li>
                 </ul>
               </div>
@@ -172,7 +169,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
               <div>
                 <h3 className="text-white font-semibold mb-4">Resources</h3>
                 <ul className="space-y-2">
-                  <li><Link href="/blog" className="text-gray-400 hover:text-white transition-colors text-sm">Blog</Link></li>
                   <li><a href="mailto:support@affordly.com" className="text-gray-400 hover:text-white transition-colors text-sm">Support</a></li>
                   <li><a href="#" className="text-gray-400 hover:text-white transition-colors text-sm">Privacy Policy</a></li>
                   <li><a href="#" className="text-gray-400 hover:text-white transition-colors text-sm">Terms of Service</a></li>

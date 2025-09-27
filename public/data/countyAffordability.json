@@ -1,0 +1,56 @@
+{
+  "CA": [
+    { "fips": "06001", "name": "Alameda County", "required_income": 165000, "wage_growth": 0.045, "price_trend": 0.08 },
+    { "fips": "06013", "name": "Contra Costa County", "required_income": 155000, "wage_growth": 0.042, "price_trend": 0.06 },
+    { "fips": "06075", "name": "San Francisco County", "required_income": 240000, "wage_growth": 0.055, "price_trend": 0.12 },
+    { "fips": "06081", "name": "San Mateo County", "required_income": 220000, "wage_growth": 0.048, "price_trend": 0.10 },
+    { "fips": "06085", "name": "Santa Clara County", "required_income": 210000, "wage_growth": 0.052, "price_trend": 0.09 },
+    { "fips": "06037", "name": "Los Angeles County", "required_income": 125000, "wage_growth": 0.038, "price_trend": 0.07 },
+    { "fips": "06059", "name": "Orange County", "required_income": 145000, "wage_growth": 0.041, "price_trend": 0.08 },
+    { "fips": "06073", "name": "San Diego County", "required_income": 115000, "wage_growth": 0.039, "price_trend": 0.06 }
+  ],
+  "TX": [
+    { "fips": "48453", "name": "Travis County", "required_income": 95000, "wage_growth": 0.055, "price_trend": 0.18 },
+    { "fips": "48201", "name": "Harris County", "required_income": 85000, "wage_growth": 0.048, "price_trend": 0.12 },
+    { "fips": "48113", "name": "Dallas County", "required_income": 88000, "wage_growth": 0.045, "price_trend": 0.14 },
+    { "fips": "48029", "name": "Bexar County", "required_income": 72000, "wage_growth": 0.042, "price_trend": 0.10 },
+    { "fips": "48439", "name": "Tarrant County", "required_income": 82000, "wage_growth": 0.044, "price_trend": 0.13 },
+    { "fips": "48157", "name": "Fort Bend County", "required_income": 92000, "wage_growth": 0.050, "price_trend": 0.15 }
+  ],
+  "FL": [
+    { "fips": "12086", "name": "Miami-Dade County", "required_income": 110000, "wage_growth": 0.035, "price_trend": 0.15 },
+    { "fips": "12011", "name": "Broward County", "required_income": 95000, "wage_growth": 0.032, "price_trend": 0.12 },
+    { "fips": "12099", "name": "Palm Beach County", "required_income": 88000, "wage_growth": 0.030, "price_trend": 0.10 },
+    { "fips": "12103", "name": "Pinellas County", "required_income": 75000, "wage_growth": 0.028, "price_trend": 0.08 },
+    { "fips": "12057", "name": "Hillsborough County", "required_income": 78000, "wage_growth": 0.035, "price_trend": 0.09 },
+    { "fips": "12095", "name": "Orange County", "required_income": 82000, "wage_growth": 0.038, "price_trend": 0.11 }
+  ],
+  "NY": [
+    { "fips": "36061", "name": "New York County", "required_income": 180000, "wage_growth": 0.042, "price_trend": 0.08 },
+    { "fips": "36047", "name": "Kings County", "required_income": 145000, "wage_growth": 0.038, "price_trend": 0.10 },
+    { "fips": "36081", "name": "Queens County", "required_income": 125000, "wage_growth": 0.035, "price_trend": 0.09 },
+    { "fips": "36005", "name": "Bronx County", "required_income": 95000, "wage_growth": 0.032, "price_trend": 0.07 },
+    { "fips": "36085", "name": "Richmond County", "required_income": 115000, "wage_growth": 0.034, "price_trend": 0.08 },
+    { "fips": "36119", "name": "Westchester County", "required_income": 135000, "wage_growth": 0.040, "price_trend": 0.06 }
+  ],
+  "WA": [
+    { "fips": "53033", "name": "King County", "required_income": 135000, "wage_growth": 0.052, "price_trend": 0.12 },
+    { "fips": "53061", "name": "Snohomish County", "required_income": 115000, "wage_growth": 0.048, "price_trend": 0.10 },
+    { "fips": "53053", "name": "Pierce County", "required_income": 95000, "wage_growth": 0.045, "price_trend": 0.08 },
+    { "fips": "53035", "name": "Kitsap County", "required_income": 85000, "wage_growth": 0.042, "price_trend": 0.06 }
+  ],
+  "CO": [
+    { "fips": "08031", "name": "Denver County", "required_income": 105000, "wage_growth": 0.048, "price_trend": 0.08 },
+    { "fips": "08001", "name": "Adams County", "required_income": 88000, "wage_growth": 0.045, "price_trend": 0.10 },
+    { "fips": "08005", "name": "Arapahoe County", "required_income": 95000, "wage_growth": 0.047, "price_trend": 0.09 },
+    { "fips": "08035", "name": "Douglas County", "required_income": 115000, "wage_growth": 0.050, "price_trend": 0.11 },
+    { "fips": "08059", "name": "Jefferson County", "required_income": 92000, "wage_growth": 0.046, "price_trend": 0.08 }
+  ],
+  "GA": [
+    { "fips": "13121", "name": "Fulton County", "required_income": 68000, "wage_growth": 0.045, "price_trend": 0.06 },
+    { "fips": "13135", "name": "Gwinnett County", "required_income": 65000, "wage_growth": 0.042, "price_trend": 0.08 },
+    { "fips": "13089", "name": "DeKalb County", "required_income": 62000, "wage_growth": 0.040, "price_trend": 0.05 },
+    { "fips": "13097", "name": "Douglas County", "required_income": 58000, "wage_growth": 0.038, "price_trend": 0.07 },
+    { "fips": "13151", "name": "Henry County", "required_income": 60000, "wage_growth": 0.041, "price_trend": 0.09 }
+  ]
+}

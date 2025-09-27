@@ -440,21 +440,8 @@ export default function Forecasting() {
         labels: {
           color: '#f9fafb',
           font: { size: 12 },
-          usePointStyle: false,
-          boxWidth: 12,
-          boxHeight: 12,
+          usePointStyle: true,
           padding: 15,
-          generateLabels: function(chart) {
-            const original = ChartJS.defaults.plugins.legend.labels.generateLabels;
-            const labels = original.call(this, chart);
-            
-            labels.forEach((label) => {
-              label.fillStyle = label.borderColor;
-              label.strokeStyle = label.borderColor;
-            });
-            
-            return labels;
-          }
         },
       },
       tooltip: {
@@ -590,7 +577,7 @@ export default function Forecasting() {
                     </div>
                     {selectedCounties.length > 0 ? (
                       <div className="h-96">
-                        {chartData && <Line key={selectedCounties.map(c => c.region).join('-')} data={chartData} options={chartOptions} />}
+                        {chartData && <Line data={chartData} options={chartOptions} />}
                       </div>
                     ) : (
                       <div className="h-96 flex items-center justify-center">

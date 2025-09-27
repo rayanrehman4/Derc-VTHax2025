@@ -23,18 +23,6 @@ const Heatmap = dynamic(
   }
 );
 
-// Dynamic import for ForecastPanel to disable SSR
-const ForecastPanel = dynamic(
-  () => import('../components/ForecastPanel'),
-  { 
-    ssr: false,
-    loading: () => (
-      <div className="bg-gray-900/30 border border-gray-800/30 rounded-lg p-4 h-96 flex items-center justify-center">
-        <div className="loading-shimmer w-full h-full rounded" />
-      </div>
-    )
-  }
-);
 export default function Dashboard() {
   const [cities, setCities] = useState([]);
   const [stateData, setStateData] = useState({});
@@ -289,17 +277,6 @@ export default function Dashboard() {
           </div>
         </div>
       </div>
-
-      {/* Forecast Section */}
-      <section className="mt-12">
-        <div className="mb-6">
-          <h2 className="text-2xl font-bold text-white mb-2">Forecast</h2>
-          <p className="text-gray-400">
-            12-month outlook for median home price and required annual income. Adjust assumptions to see scenarios.
-          </p>
-        </div>
-        <ForecastPanel cities={cities} />
-      </section>
     </Layout>
   );
 }

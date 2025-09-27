@@ -12,7 +12,8 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
   const navigation = [
     { name: 'Dashboard', href: '/dashboard' },
     { name: 'Methodology', href: '/methodology' },
-
+    { name: 'Pricing', href: '/pricing' },
+    { name: 'Blog', href: '/blog' },
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
   ];
@@ -181,7 +182,7 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
 
             <div className="border-t border-gray-800/50 mt-8 pt-8 text-center">
               <p className="text-gray-400 text-sm">
-                © {new Date().getFullYear()} Affordly. All rights reserved. Founded 2025.
+                © {new Date().getFullYear()} Affordly. All rights reserved. Founded 2019.
               </p>
             </div>
           </div>

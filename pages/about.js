@@ -2,32 +2,32 @@ import Layout from '../components/Layout';
 
 const timeline = [
   {
-    year: '2025',
+    year: '2019',
     title: 'Founded',
     description: 'Affordly was founded with a mission to make housing data accessible to everyone.'
   },
   {
-    year: '2025',
+    year: '2020',
     title: 'First Dashboard',
     description: 'Launched our flagship Housing Affordability Dashboard with data from 50 major metros.'
   },
   {
-    year: '2025',
+    year: '2021',
     title: 'Series A',
     description: 'Raised $10M Series A to expand coverage and build predictive analytics capabilities.'
   },
   {
-    year: '2025',
+    year: '2022',
     title: 'API Launch',
     description: 'Released public API, enabling developers and enterprises to integrate our data.'
   },
   {
-    year: '2025',
+    year: '2023',
     title: 'National Coverage',
     description: 'Achieved complete coverage of all US metropolitan areas with 200+ markets.'
   },
   {
-    year: '2025',
+    year: '2024',
     title: 'AI Integration',
     description: 'Introduced machine learning models for market predictions and affordability forecasting.'
   }
@@ -35,28 +35,28 @@ const timeline = [
 
 const leadership = [
   {
-    name: 'Rayan Rehman',
+    name: 'Sarah Chen',
     role: 'CEO & Co-Founder',
-    bio: 'Former Cybersecurity analyst with 2+ years in housing finance.',
-    image: 'RR'
+    bio: 'Former Goldman Sachs real estate analyst with 10+ years in housing finance.',
+    image: 'SC'
   },
   {
-    name: 'Dhruv Shah',
+    name: 'Michael Rodriguez',
     role: 'CTO & Co-Founder',
-    bio: 'Ex-Fidelity software engineer specializing in large-scale data systems and analytics.',
-    image: 'DS'
+    bio: 'Ex-Google engineer specializing in large-scale data systems and analytics.',
+    image: 'MR'
   },
   {
-    name: 'Charan Sama',
-    role: 'VP of Engineering & Co-Founder',
-    bio: 'Ex-TALA Software Engineer, with experience in the Federal Reserve research economy.',
-    image: 'CS'
+    name: 'Emily Johnson',
+    role: 'VP of Data Science',
+    bio: 'PhD in Economics from MIT, former Federal Reserve research economist.',
+    image: 'EJ'
   },
   {
-    name: 'Eshaan Salvi',
-    role: 'VP of DERC & Co-Founder',
-    bio: 'Former Meta Senior Software Engineer with expertise in real estate technology.',
-    image: 'ES'
+    name: 'David Park',
+    role: 'VP of Product',
+    bio: 'Former Zillow product leader with expertise in real estate technology.',
+    image: 'DP'
   }
 ];
 

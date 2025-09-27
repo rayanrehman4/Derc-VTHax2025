@@ -150,8 +150,8 @@
         { "year": 2024, "required_income": 64000 }
       ]
     }
-  },
-  {
+  ],
+  "boston-ma": {
     "id": "boston-ma",
     "name": "Boston, MA",
     "state": "Massachusetts",
@@ -176,7 +176,7 @@
       { "year": 2024, "required_income": 185000 }
     ]
   },
-  {
+  "dallas-tx": {
     "id": "dallas-tx",
     "name": "Dallas, TX",
     "state": "Texas",
@@ -201,7 +201,7 @@
       { "year": 2024, "required_income": 84000 }
     ]
   },
-  {
+  "houston-tx": {
     "id": "houston-tx",
     "name": "Houston, TX",
     "state": "Texas",
@@ -226,7 +226,7 @@
       { "year": 2024, "required_income": 77000 }
     ]
   },
-  {
+  "philadelphia-pa": {
     "id": "philadelphia-pa",
     "name": "Philadelphia, PA",
     "state": "Pennsylvania",
@@ -251,7 +251,7 @@
       { "year": 2024, "required_income": 59000 }
     ]
   },
-  {
+  "portland-or": {
     "id": "portland-or",
     "name": "Portland, OR",
     "state": "Oregon",
@@ -276,7 +276,7 @@
       { "year": 2024, "required_income": 105000 }
     ]
   },
-  {
+  "las-vegas-nv": {
     "id": "las-vegas-nv",
     "name": "Las Vegas, NV",
     "state": "Nevada",
@@ -301,7 +301,7 @@
       { "year": 2024, "required_income": 83000 }
     ]
   },
-  {
+  "washington-dc": {
     "id": "washington-dc",
     "name": "Washington, DC",
     "state": "District of Columbia",
@@ -325,5 +325,6 @@
       { "year": 2023, "required_income": 135000 },
       { "year": 2024, "required_income": 137000 }
     ]
+  ]
   ]
 }

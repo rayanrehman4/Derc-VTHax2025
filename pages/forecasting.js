@@ -440,8 +440,21 @@ export default function Forecasting() {
         labels: {
           color: '#f9fafb',
           font: { size: 12 },
-          usePointStyle: true,
+          usePointStyle: false,
+          boxWidth: 12,
+          boxHeight: 12,
           padding: 15,
+          generateLabels: function(chart) {
+            const original = Chart.defaults.plugins.legend.labels.generateLabels;
+            const labels = original.call(this, chart);
+            
+            labels.forEach((label) => {
+              label.fillStyle = label.borderColor;
+              label.strokeStyle = label.borderColor;
+            });
+            
+            return labels;
+          }
         },
       },
       tooltip: {

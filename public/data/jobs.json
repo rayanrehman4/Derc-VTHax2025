@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Data Scientist",
+      "department": "Data & Analytics",
+      "location": "San Francisco, CA / Remote",
+      "type": "Full-time",
+      "description": "Join our team to build predictive models for housing market trends and develop innovative affordability metrics.",
+      "requirements": ["PhD in Statistics, Economics, or related field", "5+ years experience in real estate analytics", "Proficiency in Python, R, and SQL"],
+      "posted": "2024-01-20"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Engineer",
+      "department": "Engineering",
+      "location": "New York, NY / Remote",
+      "type": "Full-time",
+      "description": "Build beautiful, responsive user interfaces for our housing affordability dashboard and consumer-facing products.",
+      "requirements": ["Bachelor's in Computer Science or equivalent", "3+ years React/Next.js experience", "Strong design sensibility"],
+      "posted": "2024-01-18"
+    },
+    {
+      "id": 3,
+      "title": "Product Marketing Manager",
+      "department": "Marketing",
+      "location": "Austin, TX / Remote",
+      "type": "Full-time",
+      "description": "Drive go-to-market strategy for new product launches and establish Affordly as the trusted source for housing data.",
+      "requirements": ["MBA or equivalent experience", "5+ years in B2B SaaS marketing", "Experience in fintech or proptech"],
+      "posted": "2024-01-15"
+    }
+  ]
+}

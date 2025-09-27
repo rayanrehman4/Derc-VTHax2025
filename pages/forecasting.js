@@ -22,6 +22,187 @@ ChartJS.register(
   Legend
 );
 
+const CountyMultiSelect = ({ counties = [], selectedCounties = [], onSelectionChange, maxSelection = 6 }) => {
+  const [query, setQuery] = useState('');
+  const [isOpen, setIsOpen] = useState(false);
+
+  const filteredCounties = counties.filter(county => {
+    const matchesQuery = county.region.toLowerCase().includes(query.toLowerCase());
+    const notSelected = !selectedCounties.find(sc => sc.region === county.region);
+    return matchesQuery && notSelected;
+  });
+
+  const handleCountyToggle = (county) => {
+    if (selectedCounties.find(sc => sc.region === county.region)) {
+      const newSelection = selectedCounties.filter(sc => sc.region !== county.region);
+      onSelectionChange && onSelectionChange(newSelection);
+    } else if (selectedCounties.length < maxSelection) {
+      const newSelection = [...selectedCounties, county];
+      onSelectionChange && onSelectionChange(newSelection);
+    }
+    setQuery('');
+    setIsOpen(false);
+  };
+
+  const handleRemoveCounty = (countyRegion) => {
+    const newSelection = selectedCounties.filter(sc => sc.region !== countyRegion);
+    onSelectionChange && onSelectionChange(newSelection);
+  };
+
+  const formatCurrency = (amount) => {
+    return new Intl.NumberFormat('en-US', {
+      style: 'currency',
+      currency: 'USD',
+      minimumFractionDigits: 0,
+      maximumFractionDigits: 0,
+    }).format(amount);
+  };
+
+  return (
+    <div className="space-y-4">
+      {/* Selected Counties */}
+      {selectedCounties.length > 0 && (
+        <div className="flex flex-wrap gap-2">
+          {selectedCounties.map((county) => (
+            <div
+              key={county.region}
+              className="flex items-center space-x-2 bg-gray-800/50 border border-gray-700 rounded-lg px-3 py-2"
+            >
+              <span className="text-sm font-medium text-white">{county.region.replace(', CA metro area', '')}</span>
+              <span className="text-xs text-gray-400">{formatCurrency(county[2028])}</span>
+              <button
+                onClick={() => handleRemoveCounty(county.region)}
+                className="text-gray-400 hover:text-red-400 transition-colors"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Search Input */}
+      <div className="relative">
+        <input
+          type="text"
+          value={query}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            setIsOpen(true);
+          }}
+          onFocus={() => setIsOpen(true)}
+          placeholder={
+            selectedCounties.length >= maxSelection 
+              ? `Maximum ${maxSelection} counties selected`
+              : "Add counties to compare..."
+          }
+          disabled={selectedCounties.length >= maxSelection}
+          className="form-input w-full pl-10 disabled:opacity-50 disabled:cursor-not-allowed"
+        />
+        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+          <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+          </svg>
+        </div>
+      </div>
+
+      {/* Dropdown */}
+      {isOpen && query.length > 0 && filteredCounties.length > 0 && selectedCounties.length < maxSelection && (
+        <div className="absolute z-50 w-full bg-gray-900 border border-gray-700 rounded-lg shadow-2xl max-h-96 overflow-y-auto">
+          {filteredCounties.slice(0, 10).map((county) => (
+            <button
+              key={county.region}
+              onClick={() => handleCountyToggle(county)}
+              className="w-full text-left px-4 py-3 hover:bg-gray-800 transition-colors border-b border-gray-800 last:border-b-0"
+            >
+              <div className="flex items-center justify-between">
+                <div>
+                  <div className="font-medium text-white">{county.region.replace(', CA metro area', '')}</div>
+                  <div className="text-sm text-gray-400">2028 Forecast</div>
+                </div>
+                <div className="text-right">
+                  <div className="text-sm font-medium text-white">
+                    {formatCurrency(county[2028])}
+                  </div>
+                  <div className="text-xs text-green-400">
+                    +{(((county[2028] - county[2026]) / county[2026]) * 100).toFixed(1)}% growth
+                  </div>
+                </div>
+              </div>
+            </button>
+          ))}
+        </div>
+      )}
+
+      {/* Selection Info */}
+      <div className="text-sm text-gray-400">
+        {selectedCounties.length} of {maxSelection} counties selected
+      </div>
+    </div>
+  );
+};
+
+const PresetButtons = ({ counties, onPresetSelect }) => {
+  const presets = [
+    {
+      label: 'Top 5 Most Expensive',
+      action: () => {
+        const sorted = [...counties].sort((a, b) => b[2028] - a[2028]).slice(0, 5);
+        onPresetSelect(sorted);
+      }
+    },
+    {
+      label: 'Top 5 Cheapest',
+      action: () => {
+        const sorted = [...counties].sort((a, b) => a[2028] - b[2028]).slice(0, 5);
+        onPresetSelect(sorted);
+      }
+    },
+    {
+      label: 'Top 5 Fastest Growth',
+      action: () => {
+        const sorted = [...counties]
+          .map(county => ({
+            ...county,
+            growth: ((county[2028] - county[2026]) / county[2026])
+          }))
+          .sort((a, b) => b.growth - a.growth)
+          .slice(0, 5);
+        onPresetSelect(sorted);
+      }
+    },
+    {
+      label: 'Top 5 Slowest Growth',
+      action: () => {
+        const sorted = [...counties]
+          .map(county => ({
+            ...county,
+            growth: ((county[2028] - county[2026]) / county[2026])
+          }))
+          .sort((a, b) => a.growth - b.growth)
+          .slice(0, 5);
+        onPresetSelect(sorted);
+      }
+    }
+  ];
+
+  return (
+    <div className="flex flex-wrap gap-2">
+      {presets.map((preset) => (
+        <button
+          key={preset.label}
+          onClick={preset.action}
+          className="btn-secondary text-sm py-2 px-4"
+        >
+          {preset.label}
+        </button>
+      ))}
+    </div>
+  );
+};
+
 const californiaData = [
   { "Region": "Anaheim, CA metro area", "Year": 2026, "Avg Predicted Median Sale Price": 1225293.0714474719 },
   { "Region": "Anaheim, CA metro area", "Year": 2027, "Avg Predicted Median Sale Price": 1262744.0408474093 },
@@ -153,6 +334,8 @@ export default function Forecasting() {
   const [showDropdown, setShowDropdown] = useState(false);
   const [forecastData, setForecastData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [selectedCounties, setSelectedCounties] = useState([]);
+  const [processedCounties, setProcessedCounties] = useState([]);
 
   useEffect(() => {
     if (searchQuery.length > 0) {
@@ -177,9 +360,16 @@ export default function Forecasting() {
     setTimeout(() => {
       if (state.toLowerCase() === 'california') {
         setForecastData(californiaData);
+        // Process data for county selection
+        const processed = processCountyData(californiaData);
+        setProcessedCounties(processed);
+        // Auto-select top 3 most expensive for demo
+        const top3 = processed.sort((a, b) => b[2028] - a[2028]).slice(0, 3);
+        setSelectedCounties(top3);
       } else {
         // For other states, show no data message
         setForecastData([]);
+        setProcessedCounties([]);
       }
       setIsLoading(false);
     }, 1000);
@@ -194,33 +384,34 @@ export default function Forecasting() {
     }).format(amount);
   };
 
-  // Process data for chart
-  const processChartData = () => {
-    if (!forecastData.length) return null;
-
-    // Group data by region
+  const processCountyData = (data) => {
     const regionData = {};
-    forecastData.forEach(item => {
-      const region = item.Region.replace(', CA metro area', '');
+    data.forEach(item => {
+      const region = item.Region;
       if (!regionData[region]) {
-        regionData[region] = { 2026: 0, 2027: 0, 2028: 0 };
+        regionData[region] = { region, 2026: 0, 2027: 0, 2028: 0 };
       }
       regionData[region][item.Year] = item['Avg Predicted Median Sale Price'];
     });
+    return Object.values(regionData);
+  };
 
-    // Get top 10 most expensive regions for better visualization
-    const sortedRegions = Object.entries(regionData)
-      .sort((a, b) => b[1][2028] - a[1][2028])
-      .slice(0, 10);
+  const handlePresetSelect = (counties) => {
+    setSelectedCounties(counties);
+  };
+
+  // Process data for chart
+  const processChartData = () => {
+    if (!selectedCounties.length) return null;
 
     const colors = [
       '#22c55e', '#3b82f6', '#f59e0b', '#ef4444', '#8b5cf6',
       '#f97316', '#06b6d4', '#84cc16', '#ec4899', '#6366f1'
     ];
 
-    const datasets = sortedRegions.map(([region, data], index) => ({
-      label: region,
-      data: [data[2026], data[2027], data[2028]],
+    const datasets = selectedCounties.map((county, index) => ({
+      label: county.region.replace(', CA metro area', ''),
+      data: [county[2026], county[2027], county[2028]],
       borderColor: colors[index % colors.length],
       backgroundColor: colors[index % colors.length] + '20',
       borderWidth: 2,
@@ -358,19 +549,44 @@ export default function Forecasting() {
                 </div>
               ) : forecastData.length > 0 ? (
                 <>
+                  {/* County Selection Controls */}
+                  <div className="space-y-6">
+                    <div>
+                      <h3 className="text-lg font-semibold text-white mb-4">Select Counties to Compare</h3>
+                      <CountyMultiSelect
+                        counties={processedCounties}
+                        selectedCounties={selectedCounties}
+                        onSelectionChange={setSelectedCounties}
+                        maxSelection={6}
+                      />
+                    </div>
+                    
+                    <div>
+                      <h4 className="text-md font-medium text-white mb-3">Quick Select:</h4>
+                      <PresetButtons counties={processedCounties} onPresetSelect={handlePresetSelect} />
+                    </div>
+                  </div>
+
                   {/* Chart */}
                   <div className="card">
                     <div className="mb-6">
-                      <h3 className="text-xl font-bold text-white mb-2">
-                        Top 10 Metro Areas - Price Forecasts
-                      </h3>
+                      <h3 className="text-xl font-bold text-white mb-2">Price Forecasts Comparison</h3>
                       <p className="text-gray-400 text-sm">
-                        Showing the most expensive metro areas by 2028 predicted prices
+                        {selectedCounties.length} counties selected for comparison
                       </p>
                     </div>
-                    <div className="h-96">
-                      {chartData && <Line data={chartData} options={chartOptions} />}
-                    </div>
+                    {selectedCounties.length > 0 ? (
+                      <div className="h-96">
+                        {chartData && <Line data={chartData} options={chartOptions} />}
+                      </div>
+                    ) : (
+                      <div className="h-96 flex items-center justify-center">
+                        <div className="text-center">
+                          <div className="text-gray-400 text-lg mb-2">No counties selected</div>
+                          <div className="text-gray-500 text-sm">Select counties above to view their forecast trends</div>
+                        </div>
+                      </div>
+                    )}
                   </div>
 
                   {/* Data Table */}
@@ -396,30 +612,22 @@ export default function Forecasting() {
                           </tr>
                         </thead>
                         <tbody>
-                          {Object.entries(
-                            forecastData.reduce((acc, item) => {
-                              const region = item.Region.replace(', CA metro area', '');
-                              if (!acc[region]) {
-                                acc[region] = { 2026: 0, 2027: 0, 2028: 0 };
-                              }
-                              acc[region][item.Year] = item['Avg Predicted Median Sale Price'];
-                              return acc;
-                            }, {})
-                          )
-                          .sort((a, b) => b[1][2028] - a[1][2028])
-                          .map(([region, data]) => {
-                            const growth = ((data[2028] - data[2026]) / data[2026] * 100);
+                          {processedCounties
+                          .sort((a, b) => b[2028] - a[2028])
+                          .map((county) => {
+                            const growth = ((county[2028] - county[2026]) / county[2026] * 100);
+                            const region = county.region.replace(', CA metro area', '');
                             return (
                               <tr key={region} className="border-b border-gray-800 hover:bg-gray-800/30">
                                 <td className="py-3 px-4 text-white font-medium">{region}</td>
                                 <td className="py-3 px-4 text-right text-gray-300">
-                                  {formatCurrency(data[2026])}
+                                  {formatCurrency(county[2026])}
                                 </td>
                                 <td className="py-3 px-4 text-right text-gray-300">
-                                  {formatCurrency(data[2027])}
+                                  {formatCurrency(county[2027])}
                                 </td>
                                 <td className="py-3 px-4 text-right text-gray-300">
-                                  {formatCurrency(data[2028])}
+                                  {formatCurrency(county[2028])}
                                 </td>
                                 <td className={`py-3 px-4 text-right font-semibold ${
                                   growth >= 0 ? 'text-green-400' : 'text-red-400'

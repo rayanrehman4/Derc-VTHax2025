@@ -1,0 +1,86 @@
+{
+  "san-francisco-ca": {
+    "counties": [
+      { "fips": "06041", "name": "Marin County, CA", "required_income": 220000, "price_trend": 0.02 },
+      { "fips": "06055", "name": "Napa County, CA", "required_income": 200000, "price_trend": 0.018 },
+      { "fips": "06097", "name": "Sonoma County, CA", "required_income": 195000, "price_trend": 0.015 }
+    ]
+  },
+  "new-york-ny": {
+    "counties": [
+      { "fips": "36085", "name": "Richmond County (Staten Island), NY", "required_income": 95000, "price_trend": 0.01 },
+      { "fips": "36059", "name": "Nassau County, NY", "required_income": 110000, "price_trend": 0.012 },
+      { "fips": "36103", "name": "Suffolk County, NY", "required_income": 115000, "price_trend": 0.014 }
+    ]
+  },
+  "miami-fl": {
+    "counties": [
+      { "fips": "12011", "name": "Broward County, FL", "required_income": 85000, "price_trend": 0.02 },
+      { "fips": "12099", "name": "Palm Beach County, FL", "required_income": 90000, "price_trend": 0.018 },
+      { "fips": "12086", "name": "Miami-Dade County, FL", "required_income": 95000, "price_trend": 0.022 }
+    ]
+  },
+  "austin-tx": {
+    "counties": [
+      { "fips": "48491", "name": "Williamson County, TX", "required_income": 80000, "price_trend": 0.017 },
+      { "fips": "48453", "name": "Travis County, TX", "required_income": 85000, "price_trend": 0.018 },
+      { "fips": "48021", "name": "Bastrop County, TX", "required_income": 78000, "price_trend": 0.015 }
+    ]
+  },
+  "denver-co": {
+    "counties": [
+      { "fips": "08059", "name": "Jefferson County, CO", "required_income": 95000, "price_trend": 0.016 },
+      { "fips": "08035", "name": "Douglas County, CO", "required_income": 100000, "price_trend": 0.018 },
+      { "fips": "08005", "name": "Arapahoe County, CO", "required_income": 98000, "price_trend": 0.017 }
+    ]
+  },
+  "atlanta-ga": {
+    "counties": [
+      { "fips": "13135", "name": "Gwinnett County, GA", "required_income": 70000, "price_trend": 0.012 },
+      { "fips": "13121", "name": "Fulton County, GA", "required_income": 75000, "price_trend": 0.013 },
+      { "fips": "13089", "name": "DeKalb County, GA", "required_income": 73000, "price_trend": 0.011 }
+    ]
+  },
+  "washington-dc": {
+    "counties": [
+      { "fips": "24031", "name": "Montgomery County, MD", "required_income": 98000, "price_trend": 0.014 },
+      { "fips": "24033", "name": "Prince George's County, MD", "required_income": 90000, "price_trend": 0.013 },
+      { "fips": "51013", "name": "Arlington County, VA", "required_income": 97000, "price_trend": 0.015 }
+    ]
+  },
+  "los-angeles-ca": {
+    "counties": [
+      { "fips": "06037", "name": "Los Angeles County, CA", "required_income": 120000, "price_trend": 0.022 },
+      { "fips": "06059", "name": "Orange County, CA", "required_income": 130000, "price_trend": 0.023 },
+      { "fips": "06071", "name": "San Bernardino County, CA", "required_income": 95000, "price_trend": 0.017 }
+    ]
+  },
+  "boston-ma": {
+    "counties": [
+      { "fips": "25017", "name": "Middlesex County, MA", "required_income": 105000, "price_trend": 0.019 },
+      { "fips": "25025", "name": "Suffolk County, MA", "required_income": 115000, "price_trend": 0.021 },
+      { "fips": "25021", "name": "Norfolk County, MA", "required_income": 110000, "price_trend": 0.018 }
+    ]
+  },
+  "chicago-il": {
+    "counties": [
+      { "fips": "17031", "name": "Cook County, IL", "required_income": 72000, "price_trend": 0.012 },
+      { "fips": "17043", "name": "DuPage County, IL", "required_income": 68000, "price_trend": 0.011 },
+      { "fips": "17097", "name": "Lake County, IL", "required_income": 70000, "price_trend": 0.010 }
+    ]
+  },
+  "las-vegas-nv": {
+    "counties": [
+      { "fips": "32003", "name": "Clark County, NV", "required_income": 75000, "price_trend": 0.014 },
+      { "fips": "32031", "name": "Washoe County, NV", "required_income": 82000, "price_trend": 0.015 },
+      { "fips": "32023", "name": "Nye County, NV", "required_income": 70000, "price_trend": 0.012 }
+    ]
+  },
+  "philadelphia-pa": {
+    "counties": [
+      { "fips": "42101", "name": "Philadelphia County, PA", "required_income": 72000, "price_trend": 0.013 },
+      { "fips": "42017", "name": "Bucks County, PA", "required_income": 76000, "price_trend": 0.014 },
+      { "fips": "42029", "name": "Chester County, PA", "required_income": 78000, "price_trend": 0.015 }
+    ]
+  }
+}

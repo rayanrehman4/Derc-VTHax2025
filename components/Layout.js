@@ -11,6 +11,7 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
   
   const navigation = [
     { name: 'Dashboard', href: '/dashboard' },
+    { name: 'Forecasting', href: '/forecasting' },
     { name: 'Methodology', href: '/methodology' },
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },

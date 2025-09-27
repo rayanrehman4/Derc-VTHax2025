@@ -159,7 +159,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
                 <h3 className="text-white font-semibold mb-4">Company</h3>
                 <ul className="space-y-2">
                   <li><Link href="/about" className="text-gray-400 hover:text-white transition-colors text-sm">About</Link></li>
-                  <li><Link href="/careers" className="text-gray-400 hover:text-white transition-colors text-sm">Careers</Link></li>
                   <li><Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">Contact</Link></li>
                 </ul>
               </div>

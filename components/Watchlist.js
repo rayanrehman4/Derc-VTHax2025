@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 
 const Watchlist = ({ cities = [], onCityRemove, onCityAdd }) => {
   const [watchlistCities, setWatchlistCities] = useState([]);
-  const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
     // Load watchlist from localStorage
@@ -15,14 +14,11 @@ const Watchlist = ({ cities = [], onCityRemove, onCityAdd }) => {
         console.error('Error loading watchlist:', error);
       }
     }
-    setIsLoaded(true);
   }, []);
 
   useEffect(() => {
     // Save watchlist to localStorage
-    if (isLoaded) {
-      localStorage.setItem('affordly-watchlist', JSON.stringify(watchlistCities));
-    }
+    localStorage.setItem('affordly-watchlist', JSON.stringify(watchlistCities));
   }, [watchlistCities, isLoaded]);
 
   const addToWatchlist = (city) => {
@@ -52,25 +48,6 @@ const Watchlist = ({ cities = [], onCityRemove, onCityAdd }) => {
     const sign = value >= 0 ? '+' : '';
     return `${sign}${(value * 100).toFixed(1)}%`;
   };
-
-  if (!isLoaded) {
-    return (
-      <div className="card">
-        <div className="loading-shimmer h-6 w-32 rounded mb-4" />
-        <div className="space-y-3">
-          {[...Array(3)].map((_, i) => (
-            <div key={i} className="flex items-center justify-between p-3 bg-gray-800/30 rounded-lg">
-              <div className="flex-1">
-                <div className="loading-shimmer h-4 w-24 rounded mb-1" />
-                <div className="loading-shimmer h-3 w-16 rounded" />
-              </div>
-              <div className="loading-shimmer h-8 w-8 rounded" />
-            </div>
-          ))}
-        </div>
-      </div>
-    );
-  }
 
   return (
     <div className="card">
@@ -109,8 +86,8 @@ const Watchlist = ({ cities = [], onCityRemove, onCityAdd }) => {
                 className="flex items-center justify-between p-3 bg-gray-800/30 rounded-lg border border-gray-700/30 hover:border-gray-600/30 transition-all duration-200"
                 style={{ 
                   animationDelay: `${index * 100}ms`,
-                  opacity: isLoaded ? 1 : 0,
-                  transform: isLoaded ? 'translateY(0)' : 'translateY(20px)',
+                  opacity: 1,
+                  transform: 'translateY(0)',
                   transition: 'all 0.5s ease-out'
                 }}
               >

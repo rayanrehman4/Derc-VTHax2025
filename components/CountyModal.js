@@ -45,20 +45,30 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
 
     const points = data
       .map((value, index) => {
-        const x = (index / (data.length - 1)) * 60;
-        const y = 20 - ((value - min) / range) * 15;
+        const x = (index / (data.length - 1)) * 120;
+        const y = 40 - ((value - min) / range) * 30;
         return `${x},${y}`;
       })
       .join(" ");
 
     return (
-      <svg width="60" height="20" className="inline-block">
+      <svg width="120" height="40" className="inline-block">
         <polyline
           points={points}
           fill="none"
           stroke={positive ? "#22c55e" : "#ef4444"}
-          strokeWidth="1.5"
+          strokeWidth="2"
           className="opacity-80"
+        />
+        <defs>
+          <linearGradient id={`gradient-${positive ? 'positive' : 'negative'}`} x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stopColor={positive ? "#22c55e" : "#ef4444"} stopOpacity="0.3"/>
+            <stop offset="100%" stopColor={positive ? "#22c55e" : "#ef4444"} stopOpacity="0.1"/>
+          </linearGradient>
+        </defs>
+        <polygon
+          points={`0,40 ${points} 120,40`}
+          fill={`url(#gradient-${positive ? 'positive' : 'negative'})`}
         />
       </svg>
     );
@@ -156,15 +166,13 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
                                 "N/A"}
                             </span>
                           </div>
+                        </div>
 
-                          <div className="flex items-center space-x-2">
-                            <span className="text-gray-400">Trend: </span>
-                            <SparklineChart
-                              data={sparklineData}
-                              positive={trendPositive}
-                            />
+                        <div className="mt-3 flex items-center justify-between">
+                          <div className="flex items-center space-x-3">
+                            <span className="text-gray-400 text-sm">12-Month Trend:</span>
                             <span
-                              className={`text-sm ${
+                              className={`text-sm font-medium ${
                                 trendPositive
                                   ? "text-green-400"
                                   : "text-red-400"
@@ -174,6 +182,12 @@ const CountyModal = ({ isOpen, onClose, city, onAddToCompare }) => {
                                 ? `${(county.price_trend * 100).toFixed(1)}%`
                                 : "N/A"}
                             </span>
+                          </div>
+                          <div className="flex items-center">
+                            <SparklineChart
+                              data={sparklineData}
+                              positive={trendPositive}
+                            />
                           </div>
                         </div>
                       </div>

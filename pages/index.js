@@ -118,12 +118,9 @@ export default function Home() {
                   Open Dashboard
                 </Link>
               </div>
-           
-
-            
-              </div>
             </div>
           </div>
+        </div>
       </section>
 
       {/* Key Stats */}

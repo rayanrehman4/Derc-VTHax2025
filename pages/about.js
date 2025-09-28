@@ -37,7 +37,7 @@ const leadership = [
   {
     name: 'Charan Sama',
     role: 'Senior Computer Engineering',
-    ge
+    
     image: 'CS'
   },
   {

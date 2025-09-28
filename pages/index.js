@@ -7,19 +7,19 @@ const testimonials = [
     name: "Farooq Khan",
     role: "Real Estate Agent",
     content: "Affordly has become my go-to resource for helping clients understand market conditions. The data is clear, accurate, and always up-to-date.",
-    avatar: "SC"
+    avatar: "FK"
   },
   {
     name: "Neal Shah",
     role: "Financial Advisor",
     content: "The affordability insights help me guide my clients' investment decisions. The dashboard makes complex housing data accessible and actionable.",
-    avatar: "MR"
+    avatar: "NS"
   },
   {
     name: "Lebron James",
     role: "First-Time Homebuyer & Local Basketball Player",
     content: "I found my affordable market using Affordly's data. The platform showed me exactly where my income could support homeownership.",
-    avatar: "EJ"
+    avatar: "LJ"
   }
 ];
 

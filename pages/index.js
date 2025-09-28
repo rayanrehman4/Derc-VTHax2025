@@ -118,16 +118,6 @@ export default function Home() {
                   Open Dashboard
                 </Link>
               </div>
-            </div>
-
-            {/* Trust Indicators */}
-            <div className="animate-slide-up">
-              <p className="text-gray-400 text-sm mb-4">Trusted by professionals at</p>
-              <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
-                <div className="text-2xl font-bold text-gray-500">Goldman Sachs</div>
-                <div className="text-2xl font-bold text-gray-500">Zillow</div>
-                <div className="text-2xl font-bold text-gray-500">Redfin</div>
-                <div className="text-2xl font-bold text-gray-500">JPMorgan</div>
               </div>
             </div>
           </div>

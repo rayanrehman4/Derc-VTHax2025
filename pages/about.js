@@ -116,8 +116,8 @@ export default function About() {
               </p>
               <div className="flex items-center space-x-8">
                 <div>
-                  <div className="text-3xl font-bold text-green-400">50K+</div>
-                  <div className="text-gray-400">Monthly Users</div>
+                  <div className="text-3xl font-bold text-green-400">500+</div>
+                  <div className="text-gray-400">Counties Supported</div>
                 </div>
                 <div>
                   <div className="text-3xl font-bold text-blue-400">200+</div>

@@ -37,26 +37,22 @@ const leadership = [
   {
     name: 'Charan Sama',
     role: 'Senior Computer Engineering',
-    
     image: 'CS'
   },
   {
     name: 'Rayan Rehman',
-    role: 'CTO & Co-Founder',
-    bio: 'Ex-Google engineer specializing in large-scale data systems and analytics.',
-    image: 'MR'
+    role: 'Senior Cybersecurity',
+    image: 'RR'
   },
   {
     name: 'Dhruv Shah',
-    role: 'VP of Data Science',
-    bio: 'PhD in Economics from MIT, former Federal Reserve research economist.',
-    image: 'EJ'
+    role: 'Senior Computer Science',
+    image: 'DS'
   },
   {
     name: 'Eshaan Salvi',
-    role: 'VP of Product',
-    bio: 'Former Zillow product leader with expertise in real estate technology.',
-    image: 'DP'
+    role: 'Senior Computer Engineering',
+    image: 'ES'
   }
 ];
 

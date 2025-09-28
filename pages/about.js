@@ -36,22 +36,22 @@ const timeline = [
 const leadership = [
   {
     name: 'Charan Sama',
-    role: 'Co-Founder',
+    role: 'CEO & Co-Founder with 3+ years in the Maching Learning Business',
     image: 'CS'
   },
   {
     name: 'Rayan Rehman',
-    role: 'Co-Founder',
+    role: 'CEO & Co-Founder with 3+ Years in the Cybersecurity Industry',
     image: 'RR'
   },
   {
     name: 'Dhruv Shah',
-    role: 'Co-Founder',
+    role: 'CTO & Co-Founder with 3+ Years in the Software Engineering Market',
     image: 'DS'
   },
   {
     name: 'Eshaan Salvi',
-    role: 'Co-Founder',
+    role: 'CFO & Co-Founder with 3+ years in the Machine Learning Inudstry',
     image: 'ES'
   }
 ];

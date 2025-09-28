@@ -154,33 +154,6 @@ export default function About() {
         </div>
       </section>
 
-      {/* Timeline */}
-      <section className="section-padding bg-gray-900">
-        <div className="max-w-4xl mx-auto container-padding">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-white mb-4">Our Journey</h2>
-            <p className="text-xl text-gray-400">Key milestones in making housing data accessible</p>
-          </div>
-
-          <div className="relative">
-            <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-green-400 to-blue-500" />
-            
-            <div className="space-y-12">
-              {timeline.map((item, index) => (
-                <div key={item.year} className="relative flex items-start">
-                  <div className="flex-shrink-0 w-16 h-16 bg-gradient-to-r from-green-400 to-blue-500 rounded-full flex items-center justify-center">
-                    <span className="text-white font-bold">{item.year}</span>
-                  </div>
-                  <div className="ml-8">
-                    <h3 className="text-xl font-semibold text-white mb-2">{item.title}</h3>
-                    <p className="text-gray-400 leading-relaxed">{item.description}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Leadership */}
       <section className="section-padding">

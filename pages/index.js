@@ -7,19 +7,19 @@ const testimonials = [
     name: "Farooq Khan",
     role: "Real Estate Agent",
     content: "Affordly has become my go-to resource for helping clients understand market conditions. The data is clear, accurate, and always up-to-date.",
-    avatar: "SC"
+    avatar: "FK"
   },
   {
     name: "Neal Shah",
     role: "Financial Advisor",
     content: "The affordability insights help me guide my clients' investment decisions. The dashboard makes complex housing data accessible and actionable.",
-    avatar: "MR"
+    avatar: "NS"
   },
   {
     name: "Lebron James",
     role: "First-Time Homebuyer & Local Basketball Player",
     content: "I found my affordable market using Affordly's data. The platform showed me exactly where my income could support homeownership.",
-    avatar: "EJ"
+    avatar: "LBJ"
   }
 ];
 
@@ -150,7 +150,7 @@ export default function Home() {
                 )}
               </h1>
               <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-                Track income requirements to buy homes across America. Each city is a "ticker," each price tells a story.
+                Track affordability across America's housing markets. Each city is an opportunity, each price tells a story.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
                 <Link href="/dashboard" className="btn-primary text-lg px-8 py-4 hover:scale-105">

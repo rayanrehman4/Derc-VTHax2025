@@ -1,0 +1,7722 @@
+[
+  {
+    "Region":"Abbs Valley, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":136144.0776225196
+  },
+  {
+    "Region":"Abbs Valley, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":159956.0576158949
+  },
+  {
+    "Region":"Abbs Valley, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":163068.5363434118
+  },
+  {
+    "Region":"Abingdon, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":381183.8859386621
+  },
+  {
+    "Region":"Abingdon, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":415065.136703994
+  },
+  {
+    "Region":"Abingdon, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":450137.1913002111
+  },
+  {
+    "Region":"Accomack County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":335006.5848509201
+  },
+  {
+    "Region":"Accomack County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":360960.6924349183
+  },
+  {
+    "Region":"Accomack County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":378730.0231032026
+  },
+  {
+    "Region":"Afton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":654396.5428496607
+  },
+  {
+    "Region":"Afton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1074523.4053496907
+  },
+  {
+    "Region":"Afton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":767694.51090785
+  },
+  {
+    "Region":"Albemarle County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":556908.3890768957
+  },
+  {
+    "Region":"Albemarle County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":576070.8772488876
+  },
+  {
+    "Region":"Albemarle County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":594001.2477841132
+  },
+  {
+    "Region":"Aldie, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1217850.8604086486
+  },
+  {
+    "Region":"Aldie, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1483279.5597982523
+  },
+  {
+    "Region":"Alexandria, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":710278.100795378
+  },
+  {
+    "Region":"Alexandria, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":734178.664757145
+  },
+  {
+    "Region":"Alexandria, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":779171.4719826533
+  },
+  {
+    "Region":"Alleghany County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":148574.4151064622
+  },
+  {
+    "Region":"Alleghany County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":155575.7470721589
+  },
+  {
+    "Region":"Alleghany County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":164244.5532229844
+  },
+  {
+    "Region":"Altavista, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":222341.383742809
+  },
+  {
+    "Region":"Altavista, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":239302.090823001
+  },
+  {
+    "Region":"Altavista, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":252914.3799306547
+  },
+  {
+    "Region":"Amelia County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":419299.8141647016
+  },
+  {
+    "Region":"Amelia County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":450748.0628621462
+  },
+  {
+    "Region":"Amelia County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":463632.2829445578
+  },
+  {
+    "Region":"Amelia Court House, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":398393.8635881576
+  },
+  {
+    "Region":"Amelia Court House, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":428443.8895085249
+  },
+  {
+    "Region":"Amelia Court House, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":439599.1690537371
+  },
+  {
+    "Region":"Amherst County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":285928.9078852762
+  },
+  {
+    "Region":"Amherst County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":299869.4964653701
+  },
+  {
+    "Region":"Amherst County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":316625.6033252417
+  },
+  {
+    "Region":"Amherst, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":300505.6275697628
+  },
+  {
+    "Region":"Amherst, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":323414.0209222321
+  },
+  {
+    "Region":"Amherst, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":337735.8266892994
+  },
+  {
+    "Region":"Annandale, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":785274.3816045456
+  },
+  {
+    "Region":"Annandale, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":820281.1410662004
+  },
+  {
+    "Region":"Annandale, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":868125.2607420494
+  },
+  {
+    "Region":"Appalachia, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":92532.3010394355
+  },
+  {
+    "Region":"Appalachia, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":101590.124579632
+  },
+  {
+    "Region":"Appalachia, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":110669.3465744434
+  },
+  {
+    "Region":"Apple Mountain Lake, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":496057.0085175041
+  },
+  {
+    "Region":"Apple Mountain Lake, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":542614.2605866028
+  },
+  {
+    "Region":"Apple Mountain Lake, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":568399.295544448
+  },
+  {
+    "Region":"Appomattox County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":324993.1257253482
+  },
+  {
+    "Region":"Appomattox County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":348015.9289269244
+  },
+  {
+    "Region":"Appomattox County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":360032.1829931793
+  },
+  {
+    "Region":"Appomattox, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":305680.9551113432
+  },
+  {
+    "Region":"Appomattox, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":330398.1705945057
+  },
+  {
+    "Region":"Appomattox, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":348645.114162737
+  },
+  {
+    "Region":"Aquia Harbour, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":561475.1463002093
+  },
+  {
+    "Region":"Aquia Harbour, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":580470.1283526908
+  },
+  {
+    "Region":"Aquia Harbour, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":599760.5544763294
+  },
+  {
+    "Region":"Arcola, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":713206.6622718388
+  },
+  {
+    "Region":"Arcola, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":741834.5579546626
+  },
+  {
+    "Region":"Arcola, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":766253.200046731
+  },
+  {
+    "Region":"Arlington County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":792985.6570447363
+  },
+  {
+    "Region":"Arlington County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":819614.8427333906
+  },
+  {
+    "Region":"Arlington County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":853422.643843983
+  },
+  {
+    "Region":"Arlington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":793856.6245305516
+  },
+  {
+    "Region":"Arlington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":820554.2968329497
+  },
+  {
+    "Region":"Arlington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":853784.4904899247
+  },
+  {
+    "Region":"Arrington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":329639.1298288515
+  },
+  {
+    "Region":"Arrington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":368900.7087005658
+  },
+  {
+    "Region":"Arrington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":394903.0759500706
+  },
+  {
+    "Region":"Ashburn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":742671.8060731197
+  },
+  {
+    "Region":"Ashburn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":779821.5492744226
+  },
+  {
+    "Region":"Ashburn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":820773.7422188094
+  },
+  {
+    "Region":"Ashland, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":488637.4970826046
+  },
+  {
+    "Region":"Ashland, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":524156.3618939052
+  },
+  {
+    "Region":"Ashland, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":553621.4336356884
+  },
+  {
+    "Region":"Augusta County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":341170.170729947
+  },
+  {
+    "Region":"Augusta County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":354820.7627134721
+  },
+  {
+    "Region":"Augusta County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":363525.3675692722
+  },
+  {
+    "Region":"Bailey's Crossroads, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":416305.3523246439
+  },
+  {
+    "Region":"Bailey's Crossroads, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":428088.1696060928
+  },
+  {
+    "Region":"Bailey's Crossroads, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":439850.4216977124
+  },
+  {
+    "Region":"Bassett, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":151531.964160486
+  },
+  {
+    "Region":"Bassett, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":163843.8972194903
+  },
+  {
+    "Region":"Bassett, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":168422.9833761482
+  },
+  {
+    "Region":"Bath County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":323580.0504638428
+  },
+  {
+    "Region":"Bath County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":334803.453292655
+  },
+  {
+    "Region":"Bath County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":361301.1888747404
+  },
+  {
+    "Region":"Bealeton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":573815.9883116134
+  },
+  {
+    "Region":"Bealeton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":616294.2061892296
+  },
+  {
+    "Region":"Bealeton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":649842.2292978205
+  },
+  {
+    "Region":"Bedford County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":422207.9416492024
+  },
+  {
+    "Region":"Bedford County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":442005.6451901055
+  },
+  {
+    "Region":"Bedford County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":450624.4226965657
+  },
+  {
+    "Region":"Bedford, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":290766.010710069
+  },
+  {
+    "Region":"Bedford, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":309348.3214158306
+  },
+  {
+    "Region":"Bedford, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":327132.5732064236
+  },
+  {
+    "Region":"Belle Haven, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":487685.4539580255
+  },
+  {
+    "Region":"Belle Haven, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":512350.6065118225
+  },
+  {
+    "Region":"Belle Haven, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":532846.8831253359
+  },
+  {
+    "Region":"Bellwood, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":331215.9635204726
+  },
+  {
+    "Region":"Bellwood, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":352876.7960593196
+  },
+  {
+    "Region":"Bellwood, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":373440.6645796207
+  },
+  {
+    "Region":"Belmont Estates, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":494723.4733671856
+  },
+  {
+    "Region":"Belmont Estates, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":542399.9826833375
+  },
+  {
+    "Region":"Belmont Estates, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":575138.1929091826
+  },
+  {
+    "Region":"Belmont, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":788680.4138708366
+  },
+  {
+    "Region":"Belmont, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":806738.253031057
+  },
+  {
+    "Region":"Belmont, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":861609.2176374861
+  },
+  {
+    "Region":"Belview, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":389856.4767240231
+  },
+  {
+    "Region":"Belview, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":455300.9035614379
+  },
+  {
+    "Region":"Belview, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":489367.7750340806
+  },
+  {
+    "Region":"Benns Church, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":448202.6473850875
+  },
+  {
+    "Region":"Benns Church, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":478035.21083966
+  },
+  {
+    "Region":"Benns Church, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":500614.4286791527
+  },
+  {
+    "Region":"Bensley, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":277691.7070952721
+  },
+  {
+    "Region":"Bensley, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":294627.8753161793
+  },
+  {
+    "Region":"Bensley, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":316017.7950880546
+  },
+  {
+    "Region":"Berryville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":839696.9038753421
+  },
+  {
+    "Region":"Berryville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1052129.9802463183
+  },
+  {
+    "Region":"Berryville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1262984.5592731615
+  },
+  {
+    "Region":"Big Island, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":224097.5766270999
+  },
+  {
+    "Region":"Big Island, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":206435.1612897048
+  },
+  {
+    "Region":"Big Island, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":124901.4299860059
+  },
+  {
+    "Region":"Big Stone Gap East, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":63536.5157068592
+  },
+  {
+    "Region":"Big Stone Gap East, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":84817.9929559796
+  },
+  {
+    "Region":"Big Stone Gap East, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":87251.85471005
+  },
+  {
+    "Region":"Big Stone Gap, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":181278.9924008684
+  },
+  {
+    "Region":"Big Stone Gap, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":198688.7431069498
+  },
+  {
+    "Region":"Big Stone Gap, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":208072.3837683418
+  },
+  {
+    "Region":"Big Stone Gap, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":165571.1721196312
+  },
+  {
+    "Region":"Big Stone Gap, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":177659.7070691921
+  },
+  {
+    "Region":"Big Stone Gap, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":184344.5364547877
+  },
+  {
+    "Region":"Blacksburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":435119.0562663886
+  },
+  {
+    "Region":"Blacksburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":455509.527144674
+  },
+  {
+    "Region":"Blacksburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":486404.8198103727
+  },
+  {
+    "Region":"Blacksburg, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":340862.2106282861
+  },
+  {
+    "Region":"Blacksburg, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":362816.3382544416
+  },
+  {
+    "Region":"Blacksburg, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":388208.3729407936
+  },
+  {
+    "Region":"Blairs, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":250268.913161328
+  },
+  {
+    "Region":"Blairs, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":277104.5320633718
+  },
+  {
+    "Region":"Blairs, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":290705.4023167651
+  },
+  {
+    "Region":"Bland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":343282.5533444726
+  },
+  {
+    "Region":"Bland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":388758.8174662343
+  },
+  {
+    "Region":"Bland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":433530.2238886655
+  },
+  {
+    "Region":"Blue Ridge, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":396222.3859754886
+  },
+  {
+    "Region":"Blue Ridge, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":418194.6511672751
+  },
+  {
+    "Region":"Blue Ridge, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":447516.2329768975
+  },
+  {
+    "Region":"Bluefield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":166773.4133486684
+  },
+  {
+    "Region":"Bluefield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":168797.4530173995
+  },
+  {
+    "Region":"Bluefield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":155425.6427355306
+  },
+  {
+    "Region":"Bon Air, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":429700.5617042822
+  },
+  {
+    "Region":"Bon Air, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":448639.3748743353
+  },
+  {
+    "Region":"Bon Air, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":471103.1305523107
+  },
+  {
+    "Region":"Boones Mill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":222223.7530559493
+  },
+  {
+    "Region":"Boones Mill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":282230.2942292949
+  },
+  {
+    "Region":"Boones Mill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":264682.0023421595
+  },
+  {
+    "Region":"Boswell's Corner, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":379318.114266084
+  },
+  {
+    "Region":"Boswell's Corner, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":394537.6736179491
+  },
+  {
+    "Region":"Boswell's Corner, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":420945.6788315075
+  },
+  {
+    "Region":"Botetourt County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":360653.4323068956
+  },
+  {
+    "Region":"Botetourt County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":366193.3514583493
+  },
+  {
+    "Region":"Botetourt County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":375004.3152855309
+  },
+  {
+    "Region":"Boyce, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":757195.3675635889
+  },
+  {
+    "Region":"Boyce, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":793116.0412659398
+  },
+  {
+    "Region":"Boyce, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":831644.7725369625
+  },
+  {
+    "Region":"Boykins, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":45921.878016077
+  },
+  {
+    "Region":"Braddock, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1285593.5930280557
+  },
+  {
+    "Region":"Braddock, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1351655.6754221902
+  },
+  {
+    "Region":"Braddock, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1421258.5823356509
+  },
+  {
+    "Region":"Brambleton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":898616.8990017431
+  },
+  {
+    "Region":"Brambleton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":934662.5120887123
+  },
+  {
+    "Region":"Brambleton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":969602.669014615
+  },
+  {
+    "Region":"Brandermill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":442331.1364387637
+  },
+  {
+    "Region":"Brandermill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":465588.0882863234
+  },
+  {
+    "Region":"Brandermill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":488780.8134710516
+  },
+  {
+    "Region":"Brandy Station, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":596779.2641222858
+  },
+  {
+    "Region":"Brandy Station, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":792553.9793709045
+  },
+  {
+    "Region":"Brandy Station, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":966884.8965370855
+  },
+  {
+    "Region":"Bridgewater, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":416287.3307893011
+  },
+  {
+    "Region":"Bridgewater, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":435180.5413224152
+  },
+  {
+    "Region":"Bridgewater, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":454363.451076247
+  },
+  {
+    "Region":"Brightwood, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":455408.4143467536
+  },
+  {
+    "Region":"Brightwood, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":498363.6513311768
+  },
+  {
+    "Region":"Brightwood, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":488303.1572496604
+  },
+  {
+    "Region":"Bristol, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":238073.2112372615
+  },
+  {
+    "Region":"Bristol, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":254661.8724918965
+  },
+  {
+    "Region":"Bristol, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":268522.273500633
+  },
+  {
+    "Region":"Bristow, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":628925.3725313634
+  },
+  {
+    "Region":"Bristow, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":652404.9433527956
+  },
+  {
+    "Region":"Bristow, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":661278.3249526756
+  },
+  {
+    "Region":"Broadlands, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":921541.0194545834
+  },
+  {
+    "Region":"Broadlands, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":961667.8542804167
+  },
+  {
+    "Region":"Broadlands, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1013311.714484335
+  },
+  {
+    "Region":"Broadway, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":359490.6936022558
+  },
+  {
+    "Region":"Broadway, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":378588.8017078869
+  },
+  {
+    "Region":"Broadway, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":392512.8130464134
+  },
+  {
+    "Region":"Brookneal, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":197728.9890852715
+  },
+  {
+    "Region":"Brookneal, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":220712.4366052288
+  },
+  {
+    "Region":"Brookneal, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":244740.8181203727
+  },
+  {
+    "Region":"Brucetown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":690454.5838802921
+  },
+  {
+    "Region":"Brucetown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":840812.5710435921
+  },
+  {
+    "Region":"Brucetown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":899391.4403685934
+  },
+  {
+    "Region":"Brunswick County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":292372.2656206982
+  },
+  {
+    "Region":"Brunswick County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":324622.4074280364
+  },
+  {
+    "Region":"Brunswick County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":346332.9284049984
+  },
+  {
+    "Region":"Buchanan County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":171097.7582497306
+  },
+  {
+    "Region":"Buchanan County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":190989.2919988439
+  },
+  {
+    "Region":"Buchanan County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":207972.9559734419
+  },
+  {
+    "Region":"Buchanan, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":215365.9793086684
+  },
+  {
+    "Region":"Buchanan, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":228141.7213057589
+  },
+  {
+    "Region":"Buchanan, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":239212.0887231151
+  },
+  {
+    "Region":"Buckhall, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":697354.6732053707
+  },
+  {
+    "Region":"Buckhall, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":714502.6629361613
+  },
+  {
+    "Region":"Buckhall, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":733433.2058093076
+  },
+  {
+    "Region":"Buckingham County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":310788.8523093422
+  },
+  {
+    "Region":"Buckingham County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":325642.7092077598
+  },
+  {
+    "Region":"Buckingham County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":339625.4830395313
+  },
+  {
+    "Region":"Buena Vista, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":225560.0560622452
+  },
+  {
+    "Region":"Buena Vista, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":241217.3173166502
+  },
+  {
+    "Region":"Buena Vista, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":250707.7678145439
+  },
+  {
+    "Region":"Bull Run Mountain Estates, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":642081.4922697187
+  },
+  {
+    "Region":"Bull Run Mountain Estates, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":668930.8818441282
+  },
+  {
+    "Region":"Bull Run Mountain Estates, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":676057.8397774755
+  },
+  {
+    "Region":"Bull Run, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":724655.5991773444
+  },
+  {
+    "Region":"Bull Run, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":754770.0315887687
+  },
+  {
+    "Region":"Bull Run, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":779112.1245147774
+  },
+  {
+    "Region":"Burke Centre, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":667714.2231910857
+  },
+  {
+    "Region":"Burke Centre, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":691937.3290376439
+  },
+  {
+    "Region":"Burke Centre, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":759865.8853254927
+  },
+  {
+    "Region":"Burke, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":810996.5831549182
+  },
+  {
+    "Region":"Burke, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":845240.849044389
+  },
+  {
+    "Region":"Burke, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":893802.8786411498
+  },
+  {
+    "Region":"Calverton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":525070.9859436465
+  },
+  {
+    "Region":"Calverton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":648936.4084225203
+  },
+  {
+    "Region":"Calverton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":724504.6017634948
+  },
+  {
+    "Region":"Campbell County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":304347.8112139038
+  },
+  {
+    "Region":"Campbell County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":315313.7291990414
+  },
+  {
+    "Region":"Campbell County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":328358.7660414844
+  },
+  {
+    "Region":"Camptown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":442930.2859888675
+  },
+  {
+    "Region":"Camptown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":748969.0882878414
+  },
+  {
+    "Region":"Camptown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1172962.9005357958
+  },
+  {
+    "Region":"Caroline County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":385628.9617112156
+  },
+  {
+    "Region":"Caroline County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":400422.721212791
+  },
+  {
+    "Region":"Caroline County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":413524.3535378142
+  },
+  {
+    "Region":"Carroll County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":256696.1796124141
+  },
+  {
+    "Region":"Carroll County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":273447.6901776941
+  },
+  {
+    "Region":"Carroll County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":286604.4888776941
+  },
+  {
+    "Region":"Carrollton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":392738.1053813037
+  },
+  {
+    "Region":"Carrollton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":403624.2987928332
+  },
+  {
+    "Region":"Carrollton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":423914.9756743774
+  },
+  {
+    "Region":"Carrsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":345598.9718391969
+  },
+  {
+    "Region":"Carrsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":397156.7644111495
+  },
+  {
+    "Region":"Carrsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":457145.2445283477
+  },
+  {
+    "Region":"Cascades, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":699073.540468932
+  },
+  {
+    "Region":"Cascades, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":727025.8567357437
+  },
+  {
+    "Region":"Cascades, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":753305.0852368873
+  },
+  {
+    "Region":"Catlett, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":774584.0305511961
+  },
+  {
+    "Region":"Catlett, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":877697.0787392234
+  },
+  {
+    "Region":"Catlett, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":920784.341308305
+  },
+  {
+    "Region":"Cave Spring, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":385196.9695365023
+  },
+  {
+    "Region":"Cave Spring, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":406412.7000116564
+  },
+  {
+    "Region":"Cave Spring, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":421546.5364910459
+  },
+  {
+    "Region":"Cedar Bluff, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":245935.4620620733
+  },
+  {
+    "Region":"Cedar Bluff, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":298587.6484223306
+  },
+  {
+    "Region":"Cedar Bluff, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":343856.8539934872
+  },
+  {
+    "Region":"Central Garage, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":373231.8854881965
+  },
+  {
+    "Region":"Central Garage, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":392962.9161759808
+  },
+  {
+    "Region":"Central Garage, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":413965.6926064653
+  },
+  {
+    "Region":"Centreville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":615863.252713372
+  },
+  {
+    "Region":"Centreville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":637132.8255398283
+  },
+  {
+    "Region":"Centreville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":667428.9080506008
+  },
+  {
+    "Region":"Chamberlayne, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":395276.6438698278
+  },
+  {
+    "Region":"Chamberlayne, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":413715.8017472511
+  },
+  {
+    "Region":"Chamberlayne, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":435353.7593997802
+  },
+  {
+    "Region":"Chantilly, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":636740.2814284653
+  },
+  {
+    "Region":"Chantilly, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":632320.059077164
+  },
+  {
+    "Region":"Chantilly, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":652788.938536805
+  },
+  {
+    "Region":"Charles City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":382192.5553090235
+  },
+  {
+    "Region":"Charles City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":435106.2969368215
+  },
+  {
+    "Region":"Charles City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":465887.0417936126
+  },
+  {
+    "Region":"Charlotte County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":248162.2170508103
+  },
+  {
+    "Region":"Charlotte County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":263175.2317249046
+  },
+  {
+    "Region":"Charlotte County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":269706.2645592352
+  },
+  {
+    "Region":"Charlottesville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":539805.7635941559
+  },
+  {
+    "Region":"Charlottesville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":562902.0093714606
+  },
+  {
+    "Region":"Charlottesville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":587811.5162374175
+  },
+  {
+    "Region":"Charlottesville, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":493093.6205951535
+  },
+  {
+    "Region":"Charlottesville, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":506384.9604189796
+  },
+  {
+    "Region":"Charlottesville, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":520343.7751072635
+  },
+  {
+    "Region":"Chatham, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":256661.513992377
+  },
+  {
+    "Region":"Chatham, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":280503.4769966425
+  },
+  {
+    "Region":"Chatham, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":303256.3329415079
+  },
+  {
+    "Region":"Chatmoss, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":370828.6705824356
+  },
+  {
+    "Region":"Chatmoss, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":393000.862377262
+  },
+  {
+    "Region":"Chatmoss, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":414255.4549190913
+  },
+  {
+    "Region":"Cherry Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":640467.2549851151
+  },
+  {
+    "Region":"Cherry Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":673149.6127047798
+  },
+  {
+    "Region":"Cherry Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":707164.4873944282
+  },
+  {
+    "Region":"Chesapeake, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":426220.870340867
+  },
+  {
+    "Region":"Chesapeake, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443290.7662324808
+  },
+  {
+    "Region":"Chesapeake, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":460827.9014716386
+  },
+  {
+    "Region":"Chester Gap, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":384092.2571895132
+  },
+  {
+    "Region":"Chester Gap, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":422010.4000942461
+  },
+  {
+    "Region":"Chester Gap, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":457393.1272440271
+  },
+  {
+    "Region":"Chester, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":389219.6309610288
+  },
+  {
+    "Region":"Chester, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":403550.2419864425
+  },
+  {
+    "Region":"Chester, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":416947.4416788376
+  },
+  {
+    "Region":"Chesterfield County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":440517.5384319469
+  },
+  {
+    "Region":"Chesterfield County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":456624.1561110564
+  },
+  {
+    "Region":"Chesterfield County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":474524.729566373
+  },
+  {
+    "Region":"Christiansburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":348063.2248095576
+  },
+  {
+    "Region":"Christiansburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":366481.4506395041
+  },
+  {
+    "Region":"Christiansburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":384473.4334257132
+  },
+  {
+    "Region":"Churchville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":351057.894508309
+  },
+  {
+    "Region":"Churchville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":408603.2090238233
+  },
+  {
+    "Region":"Churchville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":445250.4398355854
+  },
+  {
+    "Region":"Clarke County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":625477.2657606145
+  },
+  {
+    "Region":"Clarke County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":668020.5458696644
+  },
+  {
+    "Region":"Clarke County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":696389.4587483639
+  },
+  {
+    "Region":"Claypool Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":279818.0621911603
+  },
+  {
+    "Region":"Claypool Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":305078.1004725007
+  },
+  {
+    "Region":"Claypool Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":307080.1905604413
+  },
+  {
+    "Region":"Clifton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":935578.6023500491
+  },
+  {
+    "Region":"Clifton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1027539.4566762201
+  },
+  {
+    "Region":"Clifton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1086021.9155448305
+  },
+  {
+    "Region":"Cloverdale, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":409958.9576282105
+  },
+  {
+    "Region":"Cloverdale, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":425197.9373656369
+  },
+  {
+    "Region":"Cloverdale, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":432824.5576477356
+  },
+  {
+    "Region":"Coeburn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":160069.2689564444
+  },
+  {
+    "Region":"Coeburn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":167811.6087513766
+  },
+  {
+    "Region":"Coeburn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":173800.0819917367
+  },
+  {
+    "Region":"Collinsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":211174.2368843438
+  },
+  {
+    "Region":"Collinsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":228251.6270324829
+  },
+  {
+    "Region":"Collinsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":244695.1504210126
+  },
+  {
+    "Region":"Colonial Heights, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":300590.6018403526
+  },
+  {
+    "Region":"Colonial Heights, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":315198.5103982866
+  },
+  {
+    "Region":"Colonial Heights, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":327676.192515859
+  },
+  {
+    "Region":"Concord, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":337367.811227506
+  },
+  {
+    "Region":"Concord, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":373323.0276380337
+  },
+  {
+    "Region":"Concord, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":398270.5272672359
+  },
+  {
+    "Region":"Countryside, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":572333.9480382741
+  },
+  {
+    "Region":"Countryside, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":588712.428405127
+  },
+  {
+    "Region":"Countryside, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":612276.9324365807
+  },
+  {
+    "Region":"County Center, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":694479.5381602041
+  },
+  {
+    "Region":"County Center, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":770102.1432331875
+  },
+  {
+    "Region":"County Center, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":833495.5658061387
+  },
+  {
+    "Region":"Courtland, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":288532.9192525402
+  },
+  {
+    "Region":"Courtland, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":353244.0156902282
+  },
+  {
+    "Region":"Courtland, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":322528.2961410945
+  },
+  {
+    "Region":"Covington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":142812.2295516543
+  },
+  {
+    "Region":"Covington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":155840.531889335
+  },
+  {
+    "Region":"Covington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":170036.0820835422
+  },
+  {
+    "Region":"Craig County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":358531.1409052526
+  },
+  {
+    "Region":"Craig County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":394615.4468355964
+  },
+  {
+    "Region":"Craig County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":426495.8928546814
+  },
+  {
+    "Region":"Craigsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":216696.8385151544
+  },
+  {
+    "Region":"Craigsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":239739.9163829423
+  },
+  {
+    "Region":"Craigsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":256198.8119166174
+  },
+  {
+    "Region":"Crimora, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":383058.1330978376
+  },
+  {
+    "Region":"Crimora, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":411826.4946657603
+  },
+  {
+    "Region":"Crimora, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":434964.512891506
+  },
+  {
+    "Region":"Crosspointe, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1154000.5722476812
+  },
+  {
+    "Region":"Crosspointe, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1193695.3219580292
+  },
+  {
+    "Region":"Crosspointe, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1238807.909671091
+  },
+  {
+    "Region":"Crozet, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":583673.0311613703
+  },
+  {
+    "Region":"Crozet, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":606840.686895108
+  },
+  {
+    "Region":"Crozet, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":616364.1242618676
+  },
+  {
+    "Region":"Culpeper County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":539852.9851847448
+  },
+  {
+    "Region":"Culpeper County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":565348.3281683078
+  },
+  {
+    "Region":"Culpeper County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":584078.0318919634
+  },
+  {
+    "Region":"Culpeper, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":440323.1774936959
+  },
+  {
+    "Region":"Culpeper, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":458345.8402647663
+  },
+  {
+    "Region":"Culpeper, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":473150.0144360648
+  },
+  {
+    "Region":"Cumberland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":364716.7305435436
+  },
+  {
+    "Region":"Cumberland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":396770.6211551874
+  },
+  {
+    "Region":"Cumberland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":426883.2891724635
+  },
+  {
+    "Region":"Dale City, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":511895.9350748096
+  },
+  {
+    "Region":"Dale City, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":528368.745439677
+  },
+  {
+    "Region":"Dale City, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":544275.9120439879
+  },
+  {
+    "Region":"Daleville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":451827.0195837817
+  },
+  {
+    "Region":"Daleville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":470759.3088924208
+  },
+  {
+    "Region":"Daleville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":481010.0319051617
+  },
+  {
+    "Region":"Damascus, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":325067.1261280096
+  },
+  {
+    "Region":"Damascus, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":366126.0779750035
+  },
+  {
+    "Region":"Damascus, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":384184.6697919841
+  },
+  {
+    "Region":"Danville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":160570.5950756938
+  },
+  {
+    "Region":"Danville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":170807.6634855655
+  },
+  {
+    "Region":"Danville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":179296.5662829282
+  },
+  {
+    "Region":"Danville, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":199455.3250705468
+  },
+  {
+    "Region":"Danville, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":211548.9739057298
+  },
+  {
+    "Region":"Danville, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":223638.0960573358
+  },
+  {
+    "Region":"Dayton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":413435.8552253846
+  },
+  {
+    "Region":"Dayton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":433043.800265168
+  },
+  {
+    "Region":"Dayton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":459893.789092853
+  },
+  {
+    "Region":"Dickenson County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":158226.2754770984
+  },
+  {
+    "Region":"Dickenson County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":176710.1390676758
+  },
+  {
+    "Region":"Dickenson County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":191596.8195299485
+  },
+  {
+    "Region":"Difficult Run, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1327120.6245132245
+  },
+  {
+    "Region":"Difficult Run, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1395939.519646761
+  },
+  {
+    "Region":"Difficult Run, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1498164.2607348121
+  },
+  {
+    "Region":"Dinwiddie County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":324808.411558101
+  },
+  {
+    "Region":"Dinwiddie County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":341266.8362868052
+  },
+  {
+    "Region":"Dinwiddie County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":350502.3449259846
+  },
+  {
+    "Region":"Dinwiddie, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":420494.3212540485
+  },
+  {
+    "Region":"Dinwiddie, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":493958.8592626853
+  },
+  {
+    "Region":"Dinwiddie, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":554428.1408887461
+  },
+  {
+    "Region":"Disputanta, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":393623.2496350925
+  },
+  {
+    "Region":"Disputanta, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":444883.1550349989
+  },
+  {
+    "Region":"Disputanta, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":462303.668297385
+  },
+  {
+    "Region":"Dooms, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":391899.7296483587
+  },
+  {
+    "Region":"Dooms, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":440258.20410453
+  },
+  {
+    "Region":"Dooms, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":470826.612758562
+  },
+  {
+    "Region":"Dranesville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":926490.5864633658
+  },
+  {
+    "Region":"Dranesville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":974675.3472621897
+  },
+  {
+    "Region":"Dranesville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1016859.8433428478
+  },
+  {
+    "Region":"Draper, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":497964.9011546991
+  },
+  {
+    "Region":"Draper, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":624359.0227447691
+  },
+  {
+    "Region":"Draper, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":745083.4092611121
+  },
+  {
+    "Region":"Dublin, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":285118.9499959068
+  },
+  {
+    "Region":"Dublin, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":337494.3197878642
+  },
+  {
+    "Region":"Dublin, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":380773.671657396
+  },
+  {
+    "Region":"Dulles Town Center, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":697207.7684662449
+  },
+  {
+    "Region":"Dulles Town Center, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":734334.30487428
+  },
+  {
+    "Region":"Dulles Town Center, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":765639.8487741718
+  },
+  {
+    "Region":"Dulles, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1196867.6490200476
+  },
+  {
+    "Region":"Dumbarton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":374725.5077895385
+  },
+  {
+    "Region":"Dumbarton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":399529.7001628471
+  },
+  {
+    "Region":"Dumbarton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":421724.0078062074
+  },
+  {
+    "Region":"Dumfries, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":430354.4917635038
+  },
+  {
+    "Region":"Dumfries, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":453389.7862240946
+  },
+  {
+    "Region":"Dumfries, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":481522.9062598324
+  },
+  {
+    "Region":"Dunn Loring, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1100582.5531629415
+  },
+  {
+    "Region":"Dunn Loring, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1139243.4749330163
+  },
+  {
+    "Region":"Dunn Loring, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1195589.4176019712
+  },
+  {
+    "Region":"Eagle Rock, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1035558.8188896133
+  },
+  {
+    "Region":"Earlysville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":632687.1476620644
+  },
+  {
+    "Region":"Earlysville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":683023.2511569263
+  },
+  {
+    "Region":"Earlysville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":705158.3966833682
+  },
+  {
+    "Region":"East Highland Park, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":324598.9083522988
+  },
+  {
+    "Region":"East Highland Park, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":342881.1979690256
+  },
+  {
+    "Region":"East Highland Park, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":353908.1036011599
+  },
+  {
+    "Region":"Elkton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":362340.9805205501
+  },
+  {
+    "Region":"Elkton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":395112.7893223434
+  },
+  {
+    "Region":"Elkton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":424538.2070632105
+  },
+  {
+    "Region":"Elliston, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":308111.8529936865
+  },
+  {
+    "Region":"Elliston, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":335792.0630049088
+  },
+  {
+    "Region":"Elliston, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":362981.4454675149
+  },
+  {
+    "Region":"Emory, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":571062.23993533
+  },
+  {
+    "Region":"Emory, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":674189.8386135084
+  },
+  {
+    "Region":"Emory, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":746179.385213052
+  },
+  {
+    "Region":"Emporia, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":236277.1447439248
+  },
+  {
+    "Region":"Emporia, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":263710.3601936494
+  },
+  {
+    "Region":"Emporia, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":281639.5527904322
+  },
+  {
+    "Region":"Enon, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":386981.0260635596
+  },
+  {
+    "Region":"Enon, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":407836.1936127226
+  },
+  {
+    "Region":"Enon, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":442918.8798333684
+  },
+  {
+    "Region":"Esmont, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":396113.8789866241
+  },
+  {
+    "Region":"Esmont, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":471699.7757085328
+  },
+  {
+    "Region":"Essex County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":367420.716162228
+  },
+  {
+    "Region":"Essex County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":402182.605424378
+  },
+  {
+    "Region":"Essex County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":434565.6813230223
+  },
+  {
+    "Region":"Ettrick, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":284457.8447873599
+  },
+  {
+    "Region":"Ettrick, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":302304.7018490979
+  },
+  {
+    "Region":"Ettrick, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":318878.5130930934
+  },
+  {
+    "Region":"Fair Lakes, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":718467.2481935658
+  },
+  {
+    "Region":"Fair Lakes, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":761678.6785327242
+  },
+  {
+    "Region":"Fair Lakes, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":775347.2513486298
+  },
+  {
+    "Region":"Fair Oaks, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":608545.9888533269
+  },
+  {
+    "Region":"Fair Oaks, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":612764.010714914
+  },
+  {
+    "Region":"Fair Oaks, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":620790.2157620521
+  },
+  {
+    "Region":"Fairfax City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":883941.8332358953
+  },
+  {
+    "Region":"Fairfax City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":937667.7377899219
+  },
+  {
+    "Region":"Fairfax City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":990967.721889214
+  },
+  {
+    "Region":"Fairfax County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":770981.2054926548
+  },
+  {
+    "Region":"Fairfax County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":795539.289281766
+  },
+  {
+    "Region":"Fairfax County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":835843.2512057405
+  },
+  {
+    "Region":"Fairfax Station, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":988958.3095345859
+  },
+  {
+    "Region":"Fairfax Station, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1021238.5586066409
+  },
+  {
+    "Region":"Fairfax Station, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1088042.8204245276
+  },
+  {
+    "Region":"Fairfax, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":818575.703761527
+  },
+  {
+    "Region":"Fairfax, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":868444.5187447631
+  },
+  {
+    "Region":"Fairfax, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":932490.4556022329
+  },
+  {
+    "Region":"Fairlawn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":456248.8894037615
+  },
+  {
+    "Region":"Fairlawn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":591125.7371831383
+  },
+  {
+    "Region":"Fairlawn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":704064.6442137158
+  },
+  {
+    "Region":"Falls Church, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":977614.1607790272
+  },
+  {
+    "Region":"Falls Church, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1022983.1501537837
+  },
+  {
+    "Region":"Falls Church, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1091573.9006647009
+  },
+  {
+    "Region":"Falmouth, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":528771.9801710475
+  },
+  {
+    "Region":"Falmouth, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":563904.7949620172
+  },
+  {
+    "Region":"Falmouth, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":590705.1679708787
+  },
+  {
+    "Region":"Fauquier County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":689754.9311635141
+  },
+  {
+    "Region":"Fauquier County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":730210.7562697834
+  },
+  {
+    "Region":"Fauquier County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":759017.7148371941
+  },
+  {
+    "Region":"Ferrum, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":361862.5761374191
+  },
+  {
+    "Region":"Ferrum, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":409784.9847077397
+  },
+  {
+    "Region":"Ferrum, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":446713.061422868
+  },
+  {
+    "Region":"Fieldale, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":108056.4828412679
+  },
+  {
+    "Region":"Fieldale, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":117594.2653737669
+  },
+  {
+    "Region":"Fieldale, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":124279.5313601939
+  },
+  {
+    "Region":"Fincastle, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":370263.6243940178
+  },
+  {
+    "Region":"Fincastle, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":389721.933867864
+  },
+  {
+    "Region":"Fincastle, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":408242.6550257456
+  },
+  {
+    "Region":"Fishersville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":382674.7132255497
+  },
+  {
+    "Region":"Fishersville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":388842.6823968007
+  },
+  {
+    "Region":"Fishersville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":396015.6774495561
+  },
+  {
+    "Region":"Flint Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":803846.2140658246
+  },
+  {
+    "Region":"Flint Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":932863.2407725094
+  },
+  {
+    "Region":"Floris, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1007948.7226005684
+  },
+  {
+    "Region":"Floris, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1052004.8949745304
+  },
+  {
+    "Region":"Floris, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1116629.5677820938
+  },
+  {
+    "Region":"Floyd County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":317425.6024388756
+  },
+  {
+    "Region":"Floyd County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":331078.4803429396
+  },
+  {
+    "Region":"Floyd County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":337987.1866486024
+  },
+  {
+    "Region":"Fluvanna County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":388246.6340234008
+  },
+  {
+    "Region":"Fluvanna County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":403376.3463023251
+  },
+  {
+    "Region":"Fluvanna County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":413817.4980800982
+  },
+  {
+    "Region":"Forest, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":412803.0157819926
+  },
+  {
+    "Region":"Forest, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":436576.9773454151
+  },
+  {
+    "Region":"Forest, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":458344.6144111585
+  },
+  {
+    "Region":"Fort Hunt, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1007196.6686800852
+  },
+  {
+    "Region":"Fort Hunt, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1037090.4593588081
+  },
+  {
+    "Region":"Fort Hunt, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1081492.4239553292
+  },
+  {
+    "Region":"Franconia, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":572502.0390548719
+  },
+  {
+    "Region":"Franconia, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":588798.9103582409
+  },
+  {
+    "Region":"Franconia, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":605448.4289368788
+  },
+  {
+    "Region":"Franklin City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":277512.3280961304
+  },
+  {
+    "Region":"Franklin City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":298045.4256507289
+  },
+  {
+    "Region":"Franklin City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":312573.6386592746
+  },
+  {
+    "Region":"Franklin County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":441377.1927043188
+  },
+  {
+    "Region":"Franklin County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":463530.0088441722
+  },
+  {
+    "Region":"Franklin County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":477264.0430742259
+  },
+  {
+    "Region":"Franklin Farm, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":962358.7359889656
+  },
+  {
+    "Region":"Franklin Farm, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":993853.0584983291
+  },
+  {
+    "Region":"Franklin Farm, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1041780.0347170242
+  },
+  {
+    "Region":"Franklin, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":273650.2968896245
+  },
+  {
+    "Region":"Franklin, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":294233.3431770569
+  },
+  {
+    "Region":"Franklin, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":310119.2240223332
+  },
+  {
+    "Region":"Frederick County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":454839.0763297868
+  },
+  {
+    "Region":"Frederick County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":474571.1000331846
+  },
+  {
+    "Region":"Frederick County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":495492.8356802163
+  },
+  {
+    "Region":"Fredericksburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":472675.8542692531
+  },
+  {
+    "Region":"Fredericksburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":487689.6198856756
+  },
+  {
+    "Region":"Fredericksburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":505240.7973559102
+  },
+  {
+    "Region":"Front Royal, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":377170.4870367835
+  },
+  {
+    "Region":"Front Royal, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":395460.8374183298
+  },
+  {
+    "Region":"Front Royal, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":416452.0232379524
+  },
+  {
+    "Region":"Gainesville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":787588.7636003867
+  },
+  {
+    "Region":"Gainesville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":829763.5737369959
+  },
+  {
+    "Region":"Gainesville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":865707.5467466805
+  },
+  {
+    "Region":"Galax, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":208190.5324482919
+  },
+  {
+    "Region":"Galax, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":233238.9822343339
+  },
+  {
+    "Region":"Galax, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":253743.3178829069
+  },
+  {
+    "Region":"Gate City, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":259026.4705622612
+  },
+  {
+    "Region":"Gate City, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":283709.8168143572
+  },
+  {
+    "Region":"Gate City, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":305625.7058492309
+  },
+  {
+    "Region":"George Mason, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":989015.3081514878
+  },
+  {
+    "Region":"George Mason, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1045777.3153981105
+  },
+  {
+    "Region":"George Mason, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1068043.5373394929
+  },
+  {
+    "Region":"Giles County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":252721.7586478953
+  },
+  {
+    "Region":"Giles County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":278428.4388517647
+  },
+  {
+    "Region":"Giles County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":300987.7596861809
+  },
+  {
+    "Region":"Glade Spring, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":315521.1575076293
+  },
+  {
+    "Region":"Glade Spring, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":360341.0909132823
+  },
+  {
+    "Region":"Glade Spring, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":384617.3925308866
+  },
+  {
+    "Region":"Glen Allen, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":409895.1296334327
+  },
+  {
+    "Region":"Glen Allen, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":424681.9477246494
+  },
+  {
+    "Region":"Glen Allen, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":438204.2143257642
+  },
+  {
+    "Region":"Glenvar, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":330134.2531454139
+  },
+  {
+    "Region":"Glenvar, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":364455.9452046617
+  },
+  {
+    "Region":"Glenvar, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":398207.307606954
+  },
+  {
+    "Region":"Gloucester County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":388600.1794247351
+  },
+  {
+    "Region":"Gloucester County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":404119.8036333043
+  },
+  {
+    "Region":"Gloucester County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":415992.3678521283
+  },
+  {
+    "Region":"Gloucester Courthouse, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":358359.3440903483
+  },
+  {
+    "Region":"Gloucester Courthouse, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":367604.0770930522
+  },
+  {
+    "Region":"Gloucester Courthouse, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":377898.7193480508
+  },
+  {
+    "Region":"Gloucester Point, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":418395.9110865807
+  },
+  {
+    "Region":"Gloucester Point, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":440051.1324650298
+  },
+  {
+    "Region":"Gloucester Point, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":455314.9025373872
+  },
+  {
+    "Region":"Goochland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":683789.6669241912
+  },
+  {
+    "Region":"Goochland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":725448.8066592445
+  },
+  {
+    "Region":"Goochland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":760717.2545551719
+  },
+  {
+    "Region":"Goochland, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":625529.0559265678
+  },
+  {
+    "Region":"Goochland, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":659753.6354988618
+  },
+  {
+    "Region":"Goochland, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":688169.6633957011
+  },
+  {
+    "Region":"Goose Creek Village, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":607894.6906636871
+  },
+  {
+    "Region":"Goose Creek Village, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":615567.5087800057
+  },
+  {
+    "Region":"Goose Creek Village, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":610512.8917542238
+  },
+  {
+    "Region":"Gore, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":316030.7512420164
+  },
+  {
+    "Region":"Gore, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":377908.8499663139
+  },
+  {
+    "Region":"Gore, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":495085.8449469212
+  },
+  {
+    "Region":"Gratton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":196356.1727713897
+  },
+  {
+    "Region":"Gratton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":210311.3774613336
+  },
+  {
+    "Region":"Gratton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":218085.0613721083
+  },
+  {
+    "Region":"Grayson County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":268710.2006668054
+  },
+  {
+    "Region":"Grayson County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":298928.1590181219
+  },
+  {
+    "Region":"Grayson County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":327267.8348423839
+  },
+  {
+    "Region":"Great Falls Crossing, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1484904.2554841631
+  },
+  {
+    "Region":"Great Falls Crossing, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1572180.1630251613
+  },
+  {
+    "Region":"Great Falls Crossing, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1624014.9686830577
+  },
+  {
+    "Region":"Great Falls, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1813135.2677585434
+  },
+  {
+    "Region":"Great Falls, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1889122.8957577895
+  },
+  {
+    "Region":"Great Falls, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1949915.4958560492
+  },
+  {
+    "Region":"Greenbriar, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":839377.4340392593
+  },
+  {
+    "Region":"Greenbriar, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":887960.2781100731
+  },
+  {
+    "Region":"Greenbriar, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":941746.9985290518
+  },
+  {
+    "Region":"Greene County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":427993.1224132007
+  },
+  {
+    "Region":"Greene County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":447169.4071858748
+  },
+  {
+    "Region":"Greene County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":465976.8894980146
+  },
+  {
+    "Region":"Greensville County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":243868.0409673211
+  },
+  {
+    "Region":"Greensville County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":264688.6935761541
+  },
+  {
+    "Region":"Greensville County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":271611.9104984146
+  },
+  {
+    "Region":"Greenville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":469168.9013847876
+  },
+  {
+    "Region":"Greenville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":538305.9216331594
+  },
+  {
+    "Region":"Greenville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":581644.1576647948
+  },
+  {
+    "Region":"Gretna, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":226226.2361173751
+  },
+  {
+    "Region":"Gretna, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":251260.6836213578
+  },
+  {
+    "Region":"Gretna, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":275011.7188241001
+  },
+  {
+    "Region":"Grottoes, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":315242.9715733606
+  },
+  {
+    "Region":"Grottoes, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":330680.7680330458
+  },
+  {
+    "Region":"Grottoes, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":342018.3928452217
+  },
+  {
+    "Region":"Groveton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":672310.8988926652
+  },
+  {
+    "Region":"Groveton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":698428.0004150969
+  },
+  {
+    "Region":"Groveton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":745382.3151531992
+  },
+  {
+    "Region":"Gwynn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":450953.9903099381
+  },
+  {
+    "Region":"Gwynn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":480709.776598596
+  },
+  {
+    "Region":"Gwynn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":494187.0058506145
+  },
+  {
+    "Region":"Halifax County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":213276.1664232278
+  },
+  {
+    "Region":"Halifax County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":225501.2773168003
+  },
+  {
+    "Region":"Halifax County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":235378.4709340609
+  },
+  {
+    "Region":"Hamilton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":901635.4899549745
+  },
+  {
+    "Region":"Hamilton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":972309.1252565319
+  },
+  {
+    "Region":"Hamilton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1036909.4395112315
+  },
+  {
+    "Region":"Hampton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":303940.6597891662
+  },
+  {
+    "Region":"Hampton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":318179.9335676723
+  },
+  {
+    "Region":"Hampton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":331895.5036704771
+  },
+  {
+    "Region":"Hanover County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":496020.0365864211
+  },
+  {
+    "Region":"Hanover County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":512278.3061282262
+  },
+  {
+    "Region":"Hanover County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":531720.2295844159
+  },
+  {
+    "Region":"Harrisonburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":323068.9139842397
+  },
+  {
+    "Region":"Harrisonburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":335966.9975827181
+  },
+  {
+    "Region":"Harrisonburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":345938.942197118
+  },
+  {
+    "Region":"Harrisonburg, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":363132.3613959225
+  },
+  {
+    "Region":"Harrisonburg, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":375939.6289250933
+  },
+  {
+    "Region":"Harrisonburg, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":386726.5244772872
+  },
+  {
+    "Region":"Harriston, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":329440.2161777969
+  },
+  {
+    "Region":"Harriston, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":366096.308882194
+  },
+  {
+    "Region":"Harriston, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":391505.0221678875
+  },
+  {
+    "Region":"Hayfield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":819060.206596632
+  },
+  {
+    "Region":"Hayfield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":863130.1157708447
+  },
+  {
+    "Region":"Hayfield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":921684.6963489465
+  },
+  {
+    "Region":"Haymarket, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":637323.3494912167
+  },
+  {
+    "Region":"Haymarket, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":646733.4728025513
+  },
+  {
+    "Region":"Haymarket, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":666671.6885738249
+  },
+  {
+    "Region":"Henrico County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":409863.7968758505
+  },
+  {
+    "Region":"Henrico County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":420709.9516114695
+  },
+  {
+    "Region":"Henrico County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":433006.1575217599
+  },
+  {
+    "Region":"Henry County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":182935.952756206
+  },
+  {
+    "Region":"Henry County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":194662.860572002
+  },
+  {
+    "Region":"Henry County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":203820.5459896206
+  },
+  {
+    "Region":"Henry Fork, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":243347.5367222462
+  },
+  {
+    "Region":"Henry Fork, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":288444.342832262
+  },
+  {
+    "Region":"Henry Fork, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":326025.398551581
+  },
+  {
+    "Region":"Herndon, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":639903.0768378767
+  },
+  {
+    "Region":"Herndon, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":663365.3387551436
+  },
+  {
+    "Region":"Herndon, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":690599.2858929875
+  },
+  {
+    "Region":"Highland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":399656.0631450913
+  },
+  {
+    "Region":"Highland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":464009.540514203
+  },
+  {
+    "Region":"Highland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":528108.3203170155
+  },
+  {
+    "Region":"Highland Springs, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":277197.7785431824
+  },
+  {
+    "Region":"Highland Springs, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":288599.9828980752
+  },
+  {
+    "Region":"Highland Springs, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":297634.4059038652
+  },
+  {
+    "Region":"Hillsboro, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1326708.3568066098
+  },
+  {
+    "Region":"Hillsboro, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1563490.6984659079
+  },
+  {
+    "Region":"Hillsboro, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1633220.9132408656
+  },
+  {
+    "Region":"Hiwassee, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":465695.6192768773
+  },
+  {
+    "Region":"Hiwassee, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":593042.805877435
+  },
+  {
+    "Region":"Hiwassee, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":670755.8629678928
+  },
+  {
+    "Region":"Hollins, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":333325.7032989754
+  },
+  {
+    "Region":"Hollins, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":353757.1140927198
+  },
+  {
+    "Region":"Hollins, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":374973.4026844783
+  },
+  {
+    "Region":"Hollymead, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":671712.3577694307
+  },
+  {
+    "Region":"Hollymead, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":737669.8838392688
+  },
+  {
+    "Region":"Hollymead, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":799577.1816628969
+  },
+  {
+    "Region":"Hopewell, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":266110.1347005317
+  },
+  {
+    "Region":"Hopewell, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":283969.0658988823
+  },
+  {
+    "Region":"Hopewell, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":299456.234646583
+  },
+  {
+    "Region":"Horse Pasture, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":187016.7587001405
+  },
+  {
+    "Region":"Horse Pasture, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":223884.7870994248
+  },
+  {
+    "Region":"Horse Pasture, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":257734.9637875578
+  },
+  {
+    "Region":"Huntington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":462326.5083301715
+  },
+  {
+    "Region":"Huntington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":465186.7027900332
+  },
+  {
+    "Region":"Huntington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":496987.3725213414
+  },
+  {
+    "Region":"Hurt, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":250594.7774219745
+  },
+  {
+    "Region":"Hurt, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":290422.6458089491
+  },
+  {
+    "Region":"Hurt, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":319297.6878503271
+  },
+  {
+    "Region":"Hutchison, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":533353.2903218576
+  },
+  {
+    "Region":"Hutchison, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":562827.0390144354
+  },
+  {
+    "Region":"Hutchison, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":594010.3840329172
+  },
+  {
+    "Region":"Hybla Valley, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":619912.0189142484
+  },
+  {
+    "Region":"Hybla Valley, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":651252.8763784691
+  },
+  {
+    "Region":"Hybla Valley, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":687824.496104761
+  },
+  {
+    "Region":"Idylwood, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":826634.0690769199
+  },
+  {
+    "Region":"Idylwood, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":885712.2166258526
+  },
+  {
+    "Region":"Idylwood, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":968618.5630720829
+  },
+  {
+    "Region":"Independent Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":837850.4710117736
+  },
+  {
+    "Region":"Independent Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":882141.4161478566
+  },
+  {
+    "Region":"Independent Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":928750.3014376499
+  },
+  {
+    "Region":"Innsbrook, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":551697.6031381005
+  },
+  {
+    "Region":"Innsbrook, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":582892.4834976263
+  },
+  {
+    "Region":"Innsbrook, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":601089.7001970278
+  },
+  {
+    "Region":"Isle of Wight County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":463829.6515725201
+  },
+  {
+    "Region":"Isle of Wight County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":492900.7081704694
+  },
+  {
+    "Region":"Isle of Wight County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":529040.4632393878
+  },
+  {
+    "Region":"Ivor, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":793318.7765517505
+  },
+  {
+    "Region":"Ivor, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1313871.824944613
+  },
+  {
+    "Region":"Ivor, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1720132.1833885955
+  },
+  {
+    "Region":"Ivy, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1433489.4161642611
+  },
+  {
+    "Region":"Ivy, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1614098.4307140207
+  },
+  {
+    "Region":"Ivy, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1800449.5158188266
+  },
+  {
+    "Region":"James City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":519701.1669100297
+  },
+  {
+    "Region":"James City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":546335.6156443618
+  },
+  {
+    "Region":"James City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":574921.3317514206
+  },
+  {
+    "Region":"Jarratt, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":313796.1873058071
+  },
+  {
+    "Region":"Jarratt, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":360177.4819695957
+  },
+  {
+    "Region":"Jarratt, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":414115.8713015167
+  },
+  {
+    "Region":"Jefferson, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":794551.9538409407
+  },
+  {
+    "Region":"Jefferson, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":820799.4067764635
+  },
+  {
+    "Region":"Jefferson, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":842574.0016166376
+  },
+  {
+    "Region":"Jolivue, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":302505.1012114161
+  },
+  {
+    "Region":"Jolivue, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":323057.3899164147
+  },
+  {
+    "Region":"Jolivue, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":337015.8888555526
+  },
+  {
+    "Region":"Keezletown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":246386.5954412903
+  },
+  {
+    "Region":"Keezletown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":269690.5402764486
+  },
+  {
+    "Region":"Keezletown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":303161.8345054751
+  },
+  {
+    "Region":"Keswick, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":2242333.9014286869
+  },
+  {
+    "Region":"Keswick, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":2713488.2862091446
+  },
+  {
+    "Region":"Keswick, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":3092419.9683801061
+  },
+  {
+    "Region":"King & Queen County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":350440.7875682568
+  },
+  {
+    "Region":"King & Queen County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":366013.2472748242
+  },
+  {
+    "Region":"King & Queen County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":378644.6709865615
+  },
+  {
+    "Region":"King George County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":550669.0148538953
+  },
+  {
+    "Region":"King George County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":582075.0736749662
+  },
+  {
+    "Region":"King George County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":607914.3947300744
+  },
+  {
+    "Region":"King William County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":391203.805060433
+  },
+  {
+    "Region":"King William County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":411600.1629712954
+  },
+  {
+    "Region":"King William County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":428721.80813357
+  },
+  {
+    "Region":"King William, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":430620.5705293259
+  },
+  {
+    "Region":"King William, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":467049.8538028179
+  },
+  {
+    "Region":"King William, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":502336.8611169332
+  },
+  {
+    "Region":"Kings Park West, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":831882.159360303
+  },
+  {
+    "Region":"Kings Park West, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":866131.5331218977
+  },
+  {
+    "Region":"Kings Park West, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":912875.8747152117
+  },
+  {
+    "Region":"Kings Park, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":770829.4744589921
+  },
+  {
+    "Region":"Kings Park, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":801517.0791817838
+  },
+  {
+    "Region":"Kings Park, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":839254.9257736395
+  },
+  {
+    "Region":"Kingstowne, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":714113.6636152287
+  },
+  {
+    "Region":"Kingstowne, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":740427.5186037207
+  },
+  {
+    "Region":"Kingstowne, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":767260.6273784984
+  },
+  {
+    "Region":"Lake Barcroft, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":967587.2578524294
+  },
+  {
+    "Region":"Lake Barcroft, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1003089.6877424979
+  },
+  {
+    "Region":"Lake Barcroft, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1054607.9503500222
+  },
+  {
+    "Region":"Lake Holiday, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":498467.0456825973
+  },
+  {
+    "Region":"Lake Holiday, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":534950.7697571748
+  },
+  {
+    "Region":"Lake Holiday, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":572542.2110875363
+  },
+  {
+    "Region":"Lake Monticello, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":383782.2368925309
+  },
+  {
+    "Region":"Lake Monticello, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":399694.9265664672
+  },
+  {
+    "Region":"Lake Monticello, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":406600.209557775
+  },
+  {
+    "Region":"Lake Ridge, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":495352.1719204595
+  },
+  {
+    "Region":"Lake Ridge, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":501888.0903936702
+  },
+  {
+    "Region":"Lake Ridge, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":520727.86727263
+  },
+  {
+    "Region":"Lake Wilderness, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":429215.6971007437
+  },
+  {
+    "Region":"Lake Wilderness, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443634.3401404188
+  },
+  {
+    "Region":"Lake Wilderness, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":457823.3396954555
+  },
+  {
+    "Region":"Lakeside, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":374732.4546259972
+  },
+  {
+    "Region":"Lakeside, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":392353.2126081313
+  },
+  {
+    "Region":"Lakeside, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":409191.4028352452
+  },
+  {
+    "Region":"Lancaster County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":454999.0228322789
+  },
+  {
+    "Region":"Lancaster County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":493638.4379203762
+  },
+  {
+    "Region":"Lancaster County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":527883.2553187422
+  },
+  {
+    "Region":"Lansdowne, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":708897.2961702774
+  },
+  {
+    "Region":"Lansdowne, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":736533.7795172692
+  },
+  {
+    "Region":"Lansdowne, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":787143.8184388716
+  },
+  {
+    "Region":"Laurel Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":802998.0107780882
+  },
+  {
+    "Region":"Laurel Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":846642.9772174587
+  },
+  {
+    "Region":"Laurel Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":902531.3617616262
+  },
+  {
+    "Region":"Laurel Park, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":368681.0807169087
+  },
+  {
+    "Region":"Laurel Park, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":331838.053784048
+  },
+  {
+    "Region":"Laurel, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":379875.2290936409
+  },
+  {
+    "Region":"Laurel, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":398132.1361017504
+  },
+  {
+    "Region":"Laurel, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":422104.1997260168
+  },
+  {
+    "Region":"Laymantown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":368581.2613727851
+  },
+  {
+    "Region":"Laymantown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":386389.3344220051
+  },
+  {
+    "Region":"Laymantown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":406830.0724404018
+  },
+  {
+    "Region":"Lee County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":186060.4848050124
+  },
+  {
+    "Region":"Lee County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":205158.356068919
+  },
+  {
+    "Region":"Lee County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":222184.1138278157
+  },
+  {
+    "Region":"Leesburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":730585.1561924304
+  },
+  {
+    "Region":"Leesburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":763881.0109856059
+  },
+  {
+    "Region":"Leesburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":799287.3154667327
+  },
+  {
+    "Region":"Leesylvania, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":529704.5737865226
+  },
+  {
+    "Region":"Leesylvania, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":541696.7723522763
+  },
+  {
+    "Region":"Leesylvania, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":560475.2681717239
+  },
+  {
+    "Region":"Lexington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":462679.1609241503
+  },
+  {
+    "Region":"Lexington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":487207.2687671455
+  },
+  {
+    "Region":"Lexington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":481771.1464769443
+  },
+  {
+    "Region":"Lincolnia, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":707469.7248054594
+  },
+  {
+    "Region":"Lincolnia, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":730916.7171845537
+  },
+  {
+    "Region":"Lincolnia, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":751025.0762050344
+  },
+  {
+    "Region":"Linton Hall, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":743584.7052956364
+  },
+  {
+    "Region":"Linton Hall, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":781091.3193834509
+  },
+  {
+    "Region":"Linton Hall, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":833670.7404309136
+  },
+  {
+    "Region":"Linville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":561151.7966925423
+  },
+  {
+    "Region":"Linville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":743055.1890239919
+  },
+  {
+    "Region":"Linville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":944008.6945381043
+  },
+  {
+    "Region":"Loch Lomond, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":551556.8254973417
+  },
+  {
+    "Region":"Loch Lomond, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":581923.3741253848
+  },
+  {
+    "Region":"Loch Lomond, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":604960.8329012409
+  },
+  {
+    "Region":"Long Branch, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":946746.428909428
+  },
+  {
+    "Region":"Long Branch, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":997424.5650672795
+  },
+  {
+    "Region":"Long Branch, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1051800.2932037737
+  },
+  {
+    "Region":"Lorton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":657908.2904302728
+  },
+  {
+    "Region":"Lorton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":678327.9886248914
+  },
+  {
+    "Region":"Lorton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":707516.4225847145
+  },
+  {
+    "Region":"Loudoun County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":809267.653796109
+  },
+  {
+    "Region":"Loudoun County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":845701.5507568341
+  },
+  {
+    "Region":"Loudoun County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":890260.8701959781
+  },
+  {
+    "Region":"Loudoun Valley Estates, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":709489.4704735453
+  },
+  {
+    "Region":"Loudoun Valley Estates, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":725525.3202223062
+  },
+  {
+    "Region":"Loudoun Valley Estates, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":737104.4177684393
+  },
+  {
+    "Region":"Louisa County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":455269.5153826492
+  },
+  {
+    "Region":"Louisa County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":480161.6849800664
+  },
+  {
+    "Region":"Louisa County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":494514.7576666152
+  },
+  {
+    "Region":"Lovettsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":603070.1694425679
+  },
+  {
+    "Region":"Lovettsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":628475.2158949667
+  },
+  {
+    "Region":"Lovettsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":653429.0992025584
+  },
+  {
+    "Region":"Lovingston, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1493209.2979405287
+  },
+  {
+    "Region":"Lovingston, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1892305.2991867319
+  },
+  {
+    "Region":"Lowes Island, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":873881.3492318423
+  },
+  {
+    "Region":"Lowes Island, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":915579.0849013951
+  },
+  {
+    "Region":"Lowes Island, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":954752.2272851042
+  },
+  {
+    "Region":"Lunenburg County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":217053.2784151769
+  },
+  {
+    "Region":"Lunenburg County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":226238.9792649021
+  },
+  {
+    "Region":"Lunenburg County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":232602.7448593063
+  },
+  {
+    "Region":"Lynchburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":296234.0161452047
+  },
+  {
+    "Region":"Lynchburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":314433.5473685486
+  },
+  {
+    "Region":"Lynchburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":332114.7700182726
+  },
+  {
+    "Region":"Lynchburg, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":323370.2174545973
+  },
+  {
+    "Region":"Lynchburg, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":337975.7211666513
+  },
+  {
+    "Region":"Lynchburg, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":351139.4436524335
+  },
+  {
+    "Region":"Lyndhurst, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":494788.8875848085
+  },
+  {
+    "Region":"Lyndhurst, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":570425.8390162023
+  },
+  {
+    "Region":"Lyndhurst, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":610594.5343198794
+  },
+  {
+    "Region":"Madison County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":457029.4776760822
+  },
+  {
+    "Region":"Madison County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":482830.6625339196
+  },
+  {
+    "Region":"Madison County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":512791.0330706791
+  },
+  {
+    "Region":"Madison Heights, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":260624.369515036
+  },
+  {
+    "Region":"Madison Heights, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":272517.8186506987
+  },
+  {
+    "Region":"Madison Heights, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":288701.4613602573
+  },
+  {
+    "Region":"Madison, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":823736.1235059039
+  },
+  {
+    "Region":"Madison, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":978490.8932025444
+  },
+  {
+    "Region":"Manassas Park, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":513713.7156129354
+  },
+  {
+    "Region":"Manassas Park, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":541760.8283060932
+  },
+  {
+    "Region":"Manassas Park, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":570797.4135959017
+  },
+  {
+    "Region":"Manassas, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":522287.6133314329
+  },
+  {
+    "Region":"Manassas, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":549400.2249032805
+  },
+  {
+    "Region":"Manassas, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":572068.8688767563
+  },
+  {
+    "Region":"Manchester, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":384052.0961997942
+  },
+  {
+    "Region":"Manchester, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":403714.6937114981
+  },
+  {
+    "Region":"Manchester, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":426777.0678406341
+  },
+  {
+    "Region":"Mantua, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1243320.7480004912
+  },
+  {
+    "Region":"Mantua, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1310135.7851595029
+  },
+  {
+    "Region":"Mantua, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1384691.1393037715
+  },
+  {
+    "Region":"Marshall, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":737521.2193579786
+  },
+  {
+    "Region":"Marshall, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":843777.9077780773
+  },
+  {
+    "Region":"Marshall, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":934509.8417402562
+  },
+  {
+    "Region":"Martinsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":174592.7159926861
+  },
+  {
+    "Region":"Martinsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":186475.9005730191
+  },
+  {
+    "Region":"Martinsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":197453.2998882072
+  },
+  {
+    "Region":"Martinsville, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":182822.3503158248
+  },
+  {
+    "Region":"Martinsville, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":194476.0192388132
+  },
+  {
+    "Region":"Martinsville, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":203711.0861783409
+  },
+  {
+    "Region":"Marumsco, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":474456.9569423241
+  },
+  {
+    "Region":"Marumsco, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":494499.3700124102
+  },
+  {
+    "Region":"Marumsco, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":517599.4503260822
+  },
+  {
+    "Region":"Mason Neck, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1065053.2755654054
+  },
+  {
+    "Region":"Mason Neck, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1232174.7791012514
+  },
+  {
+    "Region":"Mason Neck, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1356904.1481877647
+  },
+  {
+    "Region":"Massanetta Springs, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":444181.2134543571
+  },
+  {
+    "Region":"Massanetta Springs, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":461867.0624378813
+  },
+  {
+    "Region":"Massanetta Springs, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":495889.0162710765
+  },
+  {
+    "Region":"Massanutten, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":610313.8251589682
+  },
+  {
+    "Region":"Massanutten, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":661633.8656368883
+  },
+  {
+    "Region":"Massanutten, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":711521.5805674331
+  },
+  {
+    "Region":"Mathews County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":372146.2513915419
+  },
+  {
+    "Region":"Mathews County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":382659.3359847889
+  },
+  {
+    "Region":"Mathews County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":393243.5563445565
+  },
+  {
+    "Region":"Mathews, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":359199.1018948489
+  },
+  {
+    "Region":"Mathews, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":350268.7153461457
+  },
+  {
+    "Region":"Mathews, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":386288.6369862045
+  },
+  {
+    "Region":"Matoaca, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":323174.9074897313
+  },
+  {
+    "Region":"Matoaca, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":347248.6369772535
+  },
+  {
+    "Region":"Matoaca, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":364850.563291315
+  },
+  {
+    "Region":"McGaheysville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":503934.4911456474
+  },
+  {
+    "Region":"McGaheysville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":560482.5782764376
+  },
+  {
+    "Region":"McGaheysville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":611253.6745403243
+  },
+  {
+    "Region":"McKenney, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":292265.2681066048
+  },
+  {
+    "Region":"McKenney, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":340053.7425026075
+  },
+  {
+    "Region":"McKenney, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":388715.3134725013
+  },
+  {
+    "Region":"McLean, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1818611.8039752056
+  },
+  {
+    "Region":"McLean, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1873907.8159626562
+  },
+  {
+    "Region":"McLean, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1932095.205215147
+  },
+  {
+    "Region":"McNair, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":610367.8040192494
+  },
+  {
+    "Region":"McNair, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":626564.3898241722
+  },
+  {
+    "Region":"McNair, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":637142.1567442102
+  },
+  {
+    "Region":"Meadow View, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":377052.7222363441
+  },
+  {
+    "Region":"Meadow View, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":212736.2332520306
+  },
+  {
+    "Region":"Meadow View, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":518881.1445297367
+  },
+  {
+    "Region":"Meadowbrook, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":369011.5209590534
+  },
+  {
+    "Region":"Meadowbrook, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":383394.6602154018
+  },
+  {
+    "Region":"Meadowbrook, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":395726.2288770362
+  },
+  {
+    "Region":"Meadowview, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":342000.373834972
+  },
+  {
+    "Region":"Meadowview, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":198754.3238059781
+  },
+  {
+    "Region":"Meadowview, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":398606.9097992877
+  },
+  {
+    "Region":"Mechanicsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":433225.0148526607
+  },
+  {
+    "Region":"Mechanicsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":452875.5194411778
+  },
+  {
+    "Region":"Mechanicsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":472340.5299625828
+  },
+  {
+    "Region":"Mecklenburg County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":298705.396668507
+  },
+  {
+    "Region":"Mecklenburg County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":316160.1622698767
+  },
+  {
+    "Region":"Mecklenburg County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":330935.5899624475
+  },
+  {
+    "Region":"Merrifield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":613088.8629510376
+  },
+  {
+    "Region":"Merrifield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":626376.4526463734
+  },
+  {
+    "Region":"Merrifield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":634751.1908494484
+  },
+  {
+    "Region":"Merrimac, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":393154.874431344
+  },
+  {
+    "Region":"Merrimac, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":884185.113404875
+  },
+  {
+    "Region":"Middleburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1676898.8593783572
+  },
+  {
+    "Region":"Middleburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1510204.9016021751
+  },
+  {
+    "Region":"Middleburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1663028.8361123274
+  },
+  {
+    "Region":"Middlesex County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":404609.1364020386
+  },
+  {
+    "Region":"Middlesex County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":424313.1323269879
+  },
+  {
+    "Region":"Middlesex County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":434689.2505572109
+  },
+  {
+    "Region":"Middletown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":500892.123367908
+  },
+  {
+    "Region":"Middletown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":544092.9388001162
+  },
+  {
+    "Region":"Middletown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":579696.4519253882
+  },
+  {
+    "Region":"Midland, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":743540.7936157958
+  },
+  {
+    "Region":"Midland, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":887152.0048131188
+  },
+  {
+    "Region":"Midland, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1023435.3267640899
+  },
+  {
+    "Region":"Midlothian, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":435728.4558337349
+  },
+  {
+    "Region":"Midlothian, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443787.8596171555
+  },
+  {
+    "Region":"Midlothian, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":454278.0067789384
+  },
+  {
+    "Region":"Moneta, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":311041.3159340148
+  },
+  {
+    "Region":"Moneta, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":337250.7334263793
+  },
+  {
+    "Region":"Moneta, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":362378.8146929927
+  },
+  {
+    "Region":"Montclair, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":626031.8808721803
+  },
+  {
+    "Region":"Montclair, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":650531.5209734292
+  },
+  {
+    "Region":"Montclair, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":687141.7727882534
+  },
+  {
+    "Region":"Montgomery County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":426266.8654123112
+  },
+  {
+    "Region":"Montgomery County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":473361.7314678202
+  },
+  {
+    "Region":"Montgomery County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":519519.4152434276
+  },
+  {
+    "Region":"Montrose, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":300145.259167814
+  },
+  {
+    "Region":"Montrose, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":318169.6533062122
+  },
+  {
+    "Region":"Montrose, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":333634.7212273473
+  },
+  {
+    "Region":"Montvale, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":371091.1736870402
+  },
+  {
+    "Region":"Montvale, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":358780.4990864874
+  },
+  {
+    "Region":"Moorefield Station, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":677416.1893678117
+  },
+  {
+    "Region":"Moorefield Station, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":659189.6130473955
+  },
+  {
+    "Region":"Moorefield Station, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":654484.9601382083
+  },
+  {
+    "Region":"Moorefield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":677416.1893678117
+  },
+  {
+    "Region":"Moorefield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":659189.6130473955
+  },
+  {
+    "Region":"Moorefield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":654484.9601382083
+  },
+  {
+    "Region":"Motley, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":215522.9285951152
+  },
+  {
+    "Region":"Motley, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":240447.6469484993
+  },
+  {
+    "Region":"Motley, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":256682.3592379171
+  },
+  {
+    "Region":"Mount Hermon, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":305572.3774242739
+  },
+  {
+    "Region":"Mount Hermon, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":321179.7126358575
+  },
+  {
+    "Region":"Mount Hermon, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":323658.1666028863
+  },
+  {
+    "Region":"Mount Sidney, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":369862.8894170777
+  },
+  {
+    "Region":"Mount Sidney, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":405530.5908944483
+  },
+  {
+    "Region":"Mount Sidney, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":441582.1955958334
+  },
+  {
+    "Region":"Mount Vernon, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":898373.201922136
+  },
+  {
+    "Region":"Mount Vernon, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":932289.8755738297
+  },
+  {
+    "Region":"Mount Vernon, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":975295.8163166862
+  },
+  {
+    "Region":"Narrows, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":186994.4557514004
+  },
+  {
+    "Region":"Narrows, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":205880.7554813638
+  },
+  {
+    "Region":"Narrows, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":222626.1107051201
+  },
+  {
+    "Region":"Navy, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1279769.7597976283
+  },
+  {
+    "Region":"Navy, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1343541.8167294797
+  },
+  {
+    "Region":"Navy, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1345773.1306967193
+  },
+  {
+    "Region":"Neabsco, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":529868.6955648075
+  },
+  {
+    "Region":"Neabsco, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":541862.4227658057
+  },
+  {
+    "Region":"Neabsco, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":560804.7628536184
+  },
+  {
+    "Region":"Nellysford, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":705530.5301727349
+  },
+  {
+    "Region":"Nellysford, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":745684.1082284231
+  },
+  {
+    "Region":"Nellysford, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":780329.4868246043
+  },
+  {
+    "Region":"Nelson County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":497249.5025752993
+  },
+  {
+    "Region":"Nelson County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":532730.3187321317
+  },
+  {
+    "Region":"Nelson County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":559105.7236860007
+  },
+  {
+    "Region":"New Baltimore, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":847754.0703330794
+  },
+  {
+    "Region":"New Baltimore, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":885493.8479143613
+  },
+  {
+    "Region":"New Baltimore, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":919442.1177881671
+  },
+  {
+    "Region":"New Hope, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":337873.3722236985
+  },
+  {
+    "Region":"New Hope, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":345911.7235607425
+  },
+  {
+    "Region":"New Hope, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":349191.8568318099
+  },
+  {
+    "Region":"New Kent County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":478576.0264926472
+  },
+  {
+    "Region":"New Kent County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":503507.6101736323
+  },
+  {
+    "Region":"New Kent County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":537017.3800489958
+  },
+  {
+    "Region":"New Kent, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":495270.7434908655
+  },
+  {
+    "Region":"New Kent, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":529903.7005012647
+  },
+  {
+    "Region":"New Kent, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":557571.8758175157
+  },
+  {
+    "Region":"Newington Forest, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":584503.3569287682
+  },
+  {
+    "Region":"Newington Forest, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":585759.2650080004
+  },
+  {
+    "Region":"Newington Forest, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":623448.6682978469
+  },
+  {
+    "Region":"Newington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":700092.821407518
+  },
+  {
+    "Region":"Newington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":731528.4296678881
+  },
+  {
+    "Region":"Newington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":768955.0396267251
+  },
+  {
+    "Region":"Newport News, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":314847.9343724771
+  },
+  {
+    "Region":"Newport News, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":329509.8632277739
+  },
+  {
+    "Region":"Newport News, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":344912.3452813762
+  },
+  {
+    "Region":"Nokesville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1216063.3466902249
+  },
+  {
+    "Region":"Nokesville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1335058.1759786205
+  },
+  {
+    "Region":"Nokesville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1408294.5386795443
+  },
+  {
+    "Region":"Norfolk, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":341390.1186676084
+  },
+  {
+    "Region":"Norfolk, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":357315.3830747898
+  },
+  {
+    "Region":"Norfolk, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":371141.2766359688
+  },
+  {
+    "Region":"North Garden, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1357836.8355643691
+  },
+  {
+    "Region":"North Garden, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1495200.4502508314
+  },
+  {
+    "Region":"North Garden, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":2140433.1752279378
+  },
+  {
+    "Region":"North Shore, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":793150.9394553675
+  },
+  {
+    "Region":"North Shore, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":864512.8392210705
+  },
+  {
+    "Region":"North Shore, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":922388.111502648
+  },
+  {
+    "Region":"North Springfield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":722124.4084492825
+  },
+  {
+    "Region":"North Springfield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":742430.0915589813
+  },
+  {
+    "Region":"North Springfield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":769948.7264065526
+  },
+  {
+    "Region":"Northampton County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":567404.0108095953
+  },
+  {
+    "Region":"Northampton County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":601636.9315829655
+  },
+  {
+    "Region":"Northampton County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":589850.0683836088
+  },
+  {
+    "Region":"Northumberland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":409480.511550469
+  },
+  {
+    "Region":"Northumberland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":426176.26673776
+  },
+  {
+    "Region":"Northumberland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":447113.7373388545
+  },
+  {
+    "Region":"Norton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":195856.0439802935
+  },
+  {
+    "Region":"Norton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":214805.2380603557
+  },
+  {
+    "Region":"Norton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":213950.5691031228
+  },
+  {
+    "Region":"Nottoway County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":274678.5827568333
+  },
+  {
+    "Region":"Nottoway County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":295482.3176091365
+  },
+  {
+    "Region":"Nottoway County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":307750.4061989231
+  },
+  {
+    "Region":"Oak Grove, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":600670.2585765334
+  },
+  {
+    "Region":"Oak Grove, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":619874.5917989754
+  },
+  {
+    "Region":"Oak Grove, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":640817.7117180013
+  },
+  {
+    "Region":"Oak Level, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":318512.2311241792
+  },
+  {
+    "Region":"Oak Level, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":374680.3816191534
+  },
+  {
+    "Region":"Oak Level, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":427850.3234942838
+  },
+  {
+    "Region":"Oakton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":845569.4620992966
+  },
+  {
+    "Region":"Oakton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":894352.9819107106
+  },
+  {
+    "Region":"Oakton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":950110.3473808529
+  },
+  {
+    "Region":"Occoquan, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":713603.4297530502
+  },
+  {
+    "Region":"Occoquan, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":760466.6182980823
+  },
+  {
+    "Region":"Occoquan, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":796636.3508205183
+  },
+  {
+    "Region":"One Loudoun, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1028267.4987237194
+  },
+  {
+    "Region":"One Loudoun, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1088221.0926147483
+  },
+  {
+    "Region":"One Loudoun, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1211720.8103081957
+  },
+  {
+    "Region":"Opal, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":680119.6602376316
+  },
+  {
+    "Region":"Opal, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":738633.4604111627
+  },
+  {
+    "Region":"Opal, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":798698.0087599205
+  },
+  {
+    "Region":"Orange County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":445266.308662879
+  },
+  {
+    "Region":"Orange County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":466257.6301976214
+  },
+  {
+    "Region":"Orange County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":482946.0269057225
+  },
+  {
+    "Region":"Page County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":322101.3579200241
+  },
+  {
+    "Region":"Page County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":341023.7990493034
+  },
+  {
+    "Region":"Page County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":358396.4657259471
+  },
+  {
+    "Region":"Pamplin City, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":81437.1343881104
+  },
+  {
+    "Region":"Pamplin City, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":79961.7758300557
+  },
+  {
+    "Region":"Pantops, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":604356.4969792685
+  },
+  {
+    "Region":"Pantops, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":638763.9976178654
+  },
+  {
+    "Region":"Pantops, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":674584.2836957556
+  },
+  {
+    "Region":"Paris, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":563677.1329181727
+  },
+  {
+    "Region":"Paris, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":607482.1818871144
+  },
+  {
+    "Region":"Paris, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":712722.2290936693
+  },
+  {
+    "Region":"Patrick County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":254194.3421934435
+  },
+  {
+    "Region":"Patrick County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":272425.2001822782
+  },
+  {
+    "Region":"Patrick County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":280943.6823035266
+  },
+  {
+    "Region":"Pearisburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":254886.8677054239
+  },
+  {
+    "Region":"Pearisburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":279945.1940474539
+  },
+  {
+    "Region":"Pearisburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":308328.3545168972
+  },
+  {
+    "Region":"Pembroke, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":199133.9698978155
+  },
+  {
+    "Region":"Pembroke, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":228602.3691592999
+  },
+  {
+    "Region":"Pembroke, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":236515.8474515199
+  },
+  {
+    "Region":"Penhook, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1373425.9088145865
+  },
+  {
+    "Region":"Penhook, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1520134.0268305568
+  },
+  {
+    "Region":"Penhook, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1659816.4772896767
+  },
+  {
+    "Region":"Petersburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":239829.7881466403
+  },
+  {
+    "Region":"Petersburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":257495.9830182204
+  },
+  {
+    "Region":"Petersburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":276026.4182203569
+  },
+  {
+    "Region":"Pimmit Hills, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1493509.7728561116
+  },
+  {
+    "Region":"Pimmit Hills, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1602066.1941172539
+  },
+  {
+    "Region":"Pimmit Hills, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1710076.53315432
+  },
+  {
+    "Region":"Piney Mountain, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":420564.7408258084
+  },
+  {
+    "Region":"Piney Mountain, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":439560.0890334647
+  },
+  {
+    "Region":"Piney Mountain, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":472555.2259694667
+  },
+  {
+    "Region":"Pittsylvania County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":237380.8373166283
+  },
+  {
+    "Region":"Pittsylvania County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":247276.32775387
+  },
+  {
+    "Region":"Pittsylvania County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":256087.3676374946
+  },
+  {
+    "Region":"Plum Creek, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":263683.725247071
+  },
+  {
+    "Region":"Plum Creek, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":403157.597636844
+  },
+  {
+    "Region":"Plum Creek, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1490832.8673382108
+  },
+  {
+    "Region":"Poquoson, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":582126.7705692296
+  },
+  {
+    "Region":"Poquoson, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":628010.0217237392
+  },
+  {
+    "Region":"Poquoson, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":656622.2681612697
+  },
+  {
+    "Region":"Port Republic, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":352860.0028643294
+  },
+  {
+    "Region":"Port Republic, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":431648.5215622673
+  },
+  {
+    "Region":"Port Republic, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":463420.3078447714
+  },
+  {
+    "Region":"Portsmouth, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":272702.2121704834
+  },
+  {
+    "Region":"Portsmouth, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":281178.63955925
+  },
+  {
+    "Region":"Portsmouth, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":288619.7816724001
+  },
+  {
+    "Region":"Potomac Mills, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":625570.19997679
+  },
+  {
+    "Region":"Potomac Mills, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":668384.0617396178
+  },
+  {
+    "Region":"Potomac Mills, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":694081.7698546255
+  },
+  {
+    "Region":"Pound, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":156661.6854996924
+  },
+  {
+    "Region":"Pound, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":187870.4688576985
+  },
+  {
+    "Region":"Pound, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":207251.3526068512
+  },
+  {
+    "Region":"Powhatan County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":549581.8370364156
+  },
+  {
+    "Region":"Powhatan County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":583148.2324188648
+  },
+  {
+    "Region":"Powhatan County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":622951.6856830064
+  },
+  {
+    "Region":"Powhatan, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":519903.0897168422
+  },
+  {
+    "Region":"Powhatan, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":541821.7120106207
+  },
+  {
+    "Region":"Powhatan, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":566513.4074283906
+  },
+  {
+    "Region":"Prices Fork, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":614899.9285726775
+  },
+  {
+    "Region":"Prices Fork, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":719125.927501015
+  },
+  {
+    "Region":"Prices Fork, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":817009.4851005343
+  },
+  {
+    "Region":"Prince Edward County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":306288.6460930096
+  },
+  {
+    "Region":"Prince Edward County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":329524.3003743363
+  },
+  {
+    "Region":"Prince Edward County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":352497.7422669708
+  },
+  {
+    "Region":"Prince George County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":374556.1523840404
+  },
+  {
+    "Region":"Prince George County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":389119.9847120005
+  },
+  {
+    "Region":"Prince George County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":401178.1507740523
+  },
+  {
+    "Region":"Prince George, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":401505.0656745064
+  },
+  {
+    "Region":"Prince George, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":446640.0624818993
+  },
+  {
+    "Region":"Prince George, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":483325.677891592
+  },
+  {
+    "Region":"Prince William County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":570824.0688775965
+  },
+  {
+    "Region":"Prince William County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":581623.6968720565
+  },
+  {
+    "Region":"Prince William County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":603862.3124030206
+  },
+  {
+    "Region":"Pulaski County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":250806.5346823171
+  },
+  {
+    "Region":"Pulaski County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":263445.8083771089
+  },
+  {
+    "Region":"Pulaski County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":280129.3045946058
+  },
+  {
+    "Region":"Pulaski, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":214443.1188142416
+  },
+  {
+    "Region":"Pulaski, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":230513.9110156318
+  },
+  {
+    "Region":"Pulaski, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":245229.6586970429
+  },
+  {
+    "Region":"Purcellville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":806067.3020331253
+  },
+  {
+    "Region":"Purcellville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":852713.7860419325
+  },
+  {
+    "Region":"Purcellville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":899041.5906056974
+  },
+  {
+    "Region":"Quantico, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":492033.1339180278
+  },
+  {
+    "Region":"Quantico, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":569221.0412329511
+  },
+  {
+    "Region":"Radford, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":320077.8704962743
+  },
+  {
+    "Region":"Radford, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":340733.630789614
+  },
+  {
+    "Region":"Radford, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":362232.6044000505
+  },
+  {
+    "Region":"Rappahannock County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":778209.7857698546
+  },
+  {
+    "Region":"Rappahannock County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":851599.6586200359
+  },
+  {
+    "Region":"Rappahannock County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":913529.697829554
+  },
+  {
+    "Region":"Raven, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":126532.2409876483
+  },
+  {
+    "Region":"Raven, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":145104.9572127934
+  },
+  {
+    "Region":"Raven, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":161890.9024996395
+  },
+  {
+    "Region":"Ravensworth, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":800048.3515606145
+  },
+  {
+    "Region":"Ravensworth, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":837563.2954693529
+  },
+  {
+    "Region":"Ravensworth, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":855281.1034631942
+  },
+  {
+    "Region":"Rectortown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1516714.6758156593
+  },
+  {
+    "Region":"Rectortown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1910621.8114733088
+  },
+  {
+    "Region":"Rectortown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":2242560.675655527
+  },
+  {
+    "Region":"Remington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":448795.1408919508
+  },
+  {
+    "Region":"Remington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":486172.0958850719
+  },
+  {
+    "Region":"Remington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":510788.1078801161
+  },
+  {
+    "Region":"Reston, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":632435.1617522676
+  },
+  {
+    "Region":"Reston, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":661249.6521245912
+  },
+  {
+    "Region":"Reston, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":688866.5671846773
+  },
+  {
+    "Region":"Rich Creek, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":158171.4056967867
+  },
+  {
+    "Region":"Rich Creek, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":158725.8081847944
+  },
+  {
+    "Region":"Rich Creek, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":147997.7182988849
+  },
+  {
+    "Region":"Richlands, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":215991.6963908677
+  },
+  {
+    "Region":"Richlands, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":228694.6755176418
+  },
+  {
+    "Region":"Richlands, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":246988.7229933144
+  },
+  {
+    "Region":"Richmond City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":442221.232711005
+  },
+  {
+    "Region":"Richmond City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":467909.3971257
+  },
+  {
+    "Region":"Richmond City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":492762.873901449
+  },
+  {
+    "Region":"Richmond County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":361790.172057529
+  },
+  {
+    "Region":"Richmond County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":416562.8531265556
+  },
+  {
+    "Region":"Richmond County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":454018.9509934065
+  },
+  {
+    "Region":"Richmond, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":435239.4378851994
+  },
+  {
+    "Region":"Richmond, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":459280.2550936748
+  },
+  {
+    "Region":"Richmond, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":482106.7338088797
+  },
+  {
+    "Region":"Richmond, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":417621.4726223925
+  },
+  {
+    "Region":"Richmond, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":429788.3559086332
+  },
+  {
+    "Region":"Richmond, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":443145.1663455376
+  },
+  {
+    "Region":"Riner, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":749195.1409677207
+  },
+  {
+    "Region":"Riner, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":901027.7032431263
+  },
+  {
+    "Region":"Riner, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1005815.3053337805
+  },
+  {
+    "Region":"Rio, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":435906.0657358228
+  },
+  {
+    "Region":"Rio, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":496368.7653397393
+  },
+  {
+    "Region":"Rio, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":560283.6066029993
+  },
+  {
+    "Region":"Rivanna, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":975475.3147802199
+  },
+  {
+    "Region":"Rivanna, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1014347.593711502
+  },
+  {
+    "Region":"Rivanna, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1054864.4149321057
+  },
+  {
+    "Region":"Riverview, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":223090.6201970252
+  },
+  {
+    "Region":"Riverview, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":256210.4181665216
+  },
+  {
+    "Region":"Riverview, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":315668.0520768112
+  },
+  {
+    "Region":"Roanoke City County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":263827.6963115142
+  },
+  {
+    "Region":"Roanoke City County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":280843.7357381182
+  },
+  {
+    "Region":"Roanoke City County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":299690.3206870839
+  },
+  {
+    "Region":"Roanoke County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":319247.4635153755
+  },
+  {
+    "Region":"Roanoke County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":338455.2476015548
+  },
+  {
+    "Region":"Roanoke County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":357046.329623998
+  },
+  {
+    "Region":"Roanoke, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":264249.8911580017
+  },
+  {
+    "Region":"Roanoke, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":281581.4772327339
+  },
+  {
+    "Region":"Roanoke, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":300888.2173929125
+  },
+  {
+    "Region":"Roanoke, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":336081.5335718989
+  },
+  {
+    "Region":"Roanoke, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":355028.7116653105
+  },
+  {
+    "Region":"Roanoke, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":373545.3621872616
+  },
+  {
+    "Region":"Rockbridge County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":338310.4416029334
+  },
+  {
+    "Region":"Rockbridge County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":358655.3666623197
+  },
+  {
+    "Region":"Rockbridge County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":374781.0841515829
+  },
+  {
+    "Region":"Rockingham County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":363720.0949189483
+  },
+  {
+    "Region":"Rockingham County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":376720.8899928305
+  },
+  {
+    "Region":"Rockingham County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":387560.0862351082
+  },
+  {
+    "Region":"Rockwood, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":431194.4466012561
+  },
+  {
+    "Region":"Rockwood, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":452166.8781398226
+  },
+  {
+    "Region":"Rockwood, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":466655.2562979381
+  },
+  {
+    "Region":"Rocky Mount, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":296535.0066283965
+  },
+  {
+    "Region":"Rocky Mount, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":320997.2119458055
+  },
+  {
+    "Region":"Rocky Mount, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":341842.8506510495
+  },
+  {
+    "Region":"Rose Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":783302.9656193698
+  },
+  {
+    "Region":"Rose Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":822153.5491932892
+  },
+  {
+    "Region":"Rose Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":867212.1844165568
+  },
+  {
+    "Region":"Round Hill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":915226.7917455734
+  },
+  {
+    "Region":"Round Hill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":997654.7788062111
+  },
+  {
+    "Region":"Round Hill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1053478.4371374033
+  },
+  {
+    "Region":"Ruckersville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":496007.3223811029
+  },
+  {
+    "Region":"Ruckersville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":530685.2757031195
+  },
+  {
+    "Region":"Ruckersville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":550123.6342649944
+  },
+  {
+    "Region":"Rushmere, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":574163.797655394
+  },
+  {
+    "Region":"Rushmere, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":642819.8382626154
+  },
+  {
+    "Region":"Rushmere, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":706844.0469172448
+  },
+  {
+    "Region":"Russell County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":185965.1835854365
+  },
+  {
+    "Region":"Russell County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":200021.2259695983
+  },
+  {
+    "Region":"Russell County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":209596.3486093977
+  },
+  {
+    "Region":"Rustburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":358882.0055297329
+  },
+  {
+    "Region":"Rustburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":422090.7492483019
+  },
+  {
+    "Region":"Rustburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":471184.379463823
+  },
+  {
+    "Region":"Salem, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":304320.7219155484
+  },
+  {
+    "Region":"Salem, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":319406.5943728724
+  },
+  {
+    "Region":"Salem, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":329501.0887209378
+  },
+  {
+    "Region":"Sandston, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":312574.5462537337
+  },
+  {
+    "Region":"Sandston, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":331906.7333268989
+  },
+  {
+    "Region":"Sandston, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":347013.1581501244
+  },
+  {
+    "Region":"Schuyler, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":194184.1700539541
+  },
+  {
+    "Region":"Schuyler, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":448751.7338349556
+  },
+  {
+    "Region":"Scott County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":205339.3771309359
+  },
+  {
+    "Region":"Scott County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":218011.1414846991
+  },
+  {
+    "Region":"Scott County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":231171.4025023026
+  },
+  {
+    "Region":"Scottsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":411194.7943507437
+  },
+  {
+    "Region":"Scottsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443909.9794247655
+  },
+  {
+    "Region":"Scottsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":461599.5948128611
+  },
+  {
+    "Region":"Seven Corners, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":366624.7431307699
+  },
+  {
+    "Region":"Seven Corners, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":391476.999406093
+  },
+  {
+    "Region":"Seven Corners, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":422700.9638987579
+  },
+  {
+    "Region":"Shawneeland, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":352495.3745065001
+  },
+  {
+    "Region":"Shawneeland, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":371397.5659287765
+  },
+  {
+    "Region":"Shawneeland, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":379552.8353865266
+  },
+  {
+    "Region":"Shawsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":493714.8253916258
+  },
+  {
+    "Region":"Shawsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":638765.9467613294
+  },
+  {
+    "Region":"Shawsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":787131.7603472822
+  },
+  {
+    "Region":"Shenandoah County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":358037.7120240665
+  },
+  {
+    "Region":"Shenandoah County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":377016.4278108883
+  },
+  {
+    "Region":"Shenandoah County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":393384.6110603848
+  },
+  {
+    "Region":"Shenandoah Farms, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":414821.0182614378
+  },
+  {
+    "Region":"Shenandoah Farms, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":436869.8610653848
+  },
+  {
+    "Region":"Shenandoah Farms, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":458273.3617897063
+  },
+  {
+    "Region":"Shenandoah Retreat, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":621772.0097761113
+  },
+  {
+    "Region":"Shenandoah Retreat, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":760107.9085655493
+  },
+  {
+    "Region":"Shenandoah Retreat, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":848196.7882471135
+  },
+  {
+    "Region":"Shenandoah Shores, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":390102.0950955363
+  },
+  {
+    "Region":"Shenandoah Shores, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":419360.0340031788
+  },
+  {
+    "Region":"Shenandoah Shores, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":452277.6628145971
+  },
+  {
+    "Region":"Shipman, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":146966.5437013498
+  },
+  {
+    "Region":"Shipman, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":112623.2779948392
+  },
+  {
+    "Region":"Short Pump, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":549878.3517978805
+  },
+  {
+    "Region":"Short Pump, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":555390.5783754989
+  },
+  {
+    "Region":"Short Pump, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":574354.3856341244
+  },
+  {
+    "Region":"Skyland Estates, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":421692.2173674227
+  },
+  {
+    "Region":"Skyland Estates, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":453405.9540521176
+  },
+  {
+    "Region":"Skyland Estates, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":473651.2934999145
+  },
+  {
+    "Region":"Smithfield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":501175.5862492078
+  },
+  {
+    "Region":"Smithfield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":528701.266412325
+  },
+  {
+    "Region":"Smithfield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":544611.4860009818
+  },
+  {
+    "Region":"Smyth County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":204601.2879654738
+  },
+  {
+    "Region":"Smyth County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":226830.0935052448
+  },
+  {
+    "Region":"Smyth County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":249757.0351345635
+  },
+  {
+    "Region":"South Riding, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":758830.0603781557
+  },
+  {
+    "Region":"South Riding, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":784129.3839865319
+  },
+  {
+    "Region":"South Riding, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":836675.6337334067
+  },
+  {
+    "Region":"South Run, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1225335.4170835011
+  },
+  {
+    "Region":"South Run, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1283010.0603541937
+  },
+  {
+    "Region":"South Run, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1358858.741165384
+  },
+  {
+    "Region":"Southampton County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":355646.4019702841
+  },
+  {
+    "Region":"Southampton County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":390286.5044259087
+  },
+  {
+    "Region":"Southampton County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":421981.997923526
+  },
+  {
+    "Region":"Southern Gateway, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":475406.3005606175
+  },
+  {
+    "Region":"Southern Gateway, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":511375.3766095398
+  },
+  {
+    "Region":"Southern Gateway, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":539776.5177670199
+  },
+  {
+    "Region":"Sperryville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":693656.6084652945
+  },
+  {
+    "Region":"Sperryville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":740382.4501296263
+  },
+  {
+    "Region":"Sperryville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":783763.3787454759
+  },
+  {
+    "Region":"Spotsylvania County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":475970.8861453452
+  },
+  {
+    "Region":"Spotsylvania County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":491657.4117368553
+  },
+  {
+    "Region":"Spotsylvania County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":507576.8842184105
+  },
+  {
+    "Region":"Spotsylvania Courthouse, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":506932.3054966789
+  },
+  {
+    "Region":"Spotsylvania Courthouse, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":531295.2665445295
+  },
+  {
+    "Region":"Spotsylvania Courthouse, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":551711.6819170287
+  },
+  {
+    "Region":"Springfield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":691574.0814444212
+  },
+  {
+    "Region":"Springfield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":708933.0337706725
+  },
+  {
+    "Region":"Springfield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":741602.2072235501
+  },
+  {
+    "Region":"Springville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":541549.1435924369
+  },
+  {
+    "Region":"Springville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":903565.7018043339
+  },
+  {
+    "Region":"St. Paul, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":304680.1926610713
+  },
+  {
+    "Region":"St. Paul, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":408902.1081803705
+  },
+  {
+    "Region":"St. Paul, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":426250.7372123935
+  },
+  {
+    "Region":"Stafford County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":568026.1440101187
+  },
+  {
+    "Region":"Stafford County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":590590.7854998619
+  },
+  {
+    "Region":"Stafford County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":615961.604992282
+  },
+  {
+    "Region":"Stafford Courthouse, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":490371.252142725
+  },
+  {
+    "Region":"Stafford Courthouse, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":501949.9028896703
+  },
+  {
+    "Region":"Stafford Courthouse, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":517633.6620127706
+  },
+  {
+    "Region":"Stanardsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":382667.9376613505
+  },
+  {
+    "Region":"Stanardsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":453504.5579676013
+  },
+  {
+    "Region":"Stanardsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":499257.2272614733
+  },
+  {
+    "Region":"Stanleytown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":212486.4650129201
+  },
+  {
+    "Region":"Stanleytown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":242467.5864324548
+  },
+  {
+    "Region":"Stanleytown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":267544.2819569267
+  },
+  {
+    "Region":"Staunton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":305443.7739059492
+  },
+  {
+    "Region":"Staunton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":321641.4384626421
+  },
+  {
+    "Region":"Staunton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":335174.976796074
+  },
+  {
+    "Region":"Staunton, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":338190.7149583354
+  },
+  {
+    "Region":"Staunton, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":350861.0573297094
+  },
+  {
+    "Region":"Staunton, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":359339.5990599825
+  },
+  {
+    "Region":"Stephens City, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":458121.9619552179
+  },
+  {
+    "Region":"Stephens City, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":485999.8659347792
+  },
+  {
+    "Region":"Stephens City, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":510696.7329049021
+  },
+  {
+    "Region":"Sterling, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":600989.2012168983
+  },
+  {
+    "Region":"Sterling, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":615875.3190332669
+  },
+  {
+    "Region":"Sterling, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":632937.888055018
+  },
+  {
+    "Region":"Stewartsville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":533340.92966254
+  },
+  {
+    "Region":"Stewartsville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":650690.5054130416
+  },
+  {
+    "Region":"Stewartsville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":751633.3461555579
+  },
+  {
+    "Region":"Stone Ridge, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":678712.0845830946
+  },
+  {
+    "Region":"Stone Ridge, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":708901.0556203503
+  },
+  {
+    "Region":"Stone Ridge, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":745128.6882465185
+  },
+  {
+    "Region":"Stony Creek, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":229723.8998897881
+  },
+  {
+    "Region":"Stony Creek, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":248368.4682224484
+  },
+  {
+    "Region":"Stony Creek, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":251998.1512795408
+  },
+  {
+    "Region":"Stuarts Draft, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":384572.9664581795
+  },
+  {
+    "Region":"Stuarts Draft, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":407311.5887801059
+  },
+  {
+    "Region":"Stuarts Draft, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":431016.5241422534
+  },
+  {
+    "Region":"Sudley, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":488843.9570339324
+  },
+  {
+    "Region":"Sudley, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":512453.8014196915
+  },
+  {
+    "Region":"Sudley, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":536515.3961264075
+  },
+  {
+    "Region":"Suffolk, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":424440.393452538
+  },
+  {
+    "Region":"Suffolk, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443051.8822782042
+  },
+  {
+    "Region":"Suffolk, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":458135.8330563526
+  },
+  {
+    "Region":"Sugarland Run, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":651791.8059737652
+  },
+  {
+    "Region":"Sugarland Run, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":681798.6672388915
+  },
+  {
+    "Region":"Sugarland Run, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":708111.0166263237
+  },
+  {
+    "Region":"Sully Square, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":619388.4810427718
+  },
+  {
+    "Region":"Sully Square, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":629537.8527478421
+  },
+  {
+    "Region":"Sully Square, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":657860.7022338851
+  },
+  {
+    "Region":"Surry County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":422987.6557516985
+  },
+  {
+    "Region":"Surry County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":471592.9072607314
+  },
+  {
+    "Region":"Surry County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":517701.7648387178
+  },
+  {
+    "Region":"Sussex County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":200283.6532110428
+  },
+  {
+    "Region":"Sussex County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":217970.4485974253
+  },
+  {
+    "Region":"Sussex County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":231318.3984379267
+  },
+  {
+    "Region":"Tazewell County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":144372.531080179
+  },
+  {
+    "Region":"Tazewell County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":146192.7180246412
+  },
+  {
+    "Region":"Tazewell County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":145778.9049011319
+  },
+  {
+    "Region":"Tazewell, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":137723.2180484701
+  },
+  {
+    "Region":"Tazewell, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":145049.9970518131
+  },
+  {
+    "Region":"Tazewell, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":150305.336247624
+  },
+  {
+    "Region":"The Plains, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1513458.855096777
+  },
+  {
+    "Region":"The Plains, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1665761.37386561
+  },
+  {
+    "Region":"The Plains, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1762493.8862146661
+  },
+  {
+    "Region":"Timberlake, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":328917.9545271389
+  },
+  {
+    "Region":"Timberlake, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":344385.9982298167
+  },
+  {
+    "Region":"Timberlake, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":365460.5711555447
+  },
+  {
+    "Region":"Timberville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":291160.9935755476
+  },
+  {
+    "Region":"Timberville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":306619.4475698448
+  },
+  {
+    "Region":"Timberville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":312116.3197660008
+  },
+  {
+    "Region":"Triangle, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":570951.5690978026
+  },
+  {
+    "Region":"Triangle, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":596500.3802121433
+  },
+  {
+    "Region":"Triangle, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":639659.1929278841
+  },
+  {
+    "Region":"Troutville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":308561.1400377556
+  },
+  {
+    "Region":"Troutville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":346941.059637576
+  },
+  {
+    "Region":"Troutville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":391026.9996375552
+  },
+  {
+    "Region":"Tuckahoe, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":506318.542239151
+  },
+  {
+    "Region":"Tuckahoe, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":522411.5572949774
+  },
+  {
+    "Region":"Tuckahoe, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":528805.7406167828
+  },
+  {
+    "Region":"Twin Lakes, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":392300.6231739542
+  },
+  {
+    "Region":"Twin Lakes, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":419509.4418321971
+  },
+  {
+    "Region":"Twin Lakes, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":434116.4095417192
+  },
+  {
+    "Region":"Tysons Corner, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":539121.7513678938
+  },
+  {
+    "Region":"Tysons Corner, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":547936.8539330737
+  },
+  {
+    "Region":"Tysons Corner, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":543009.3991424665
+  },
+  {
+    "Region":"Tysons, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":539121.7513678938
+  },
+  {
+    "Region":"Tysons, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":547936.8539330737
+  },
+  {
+    "Region":"Tysons, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":543009.3991424665
+  },
+  {
+    "Region":"Union Hall, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":873506.2054414825
+  },
+  {
+    "Region":"Union Hall, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":913086.7511744587
+  },
+  {
+    "Region":"Union Hall, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":906756.8836678298
+  },
+  {
+    "Region":"Union Mill, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1483657.0886601452
+  },
+  {
+    "Region":"Union Mill, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1598455.9551761423
+  },
+  {
+    "Region":"Union Mill, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1706020.3769599968
+  },
+  {
+    "Region":"University Center, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":561688.3647861029
+  },
+  {
+    "Region":"University Center, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":593807.5596038057
+  },
+  {
+    "Region":"University Center, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":601495.4805832395
+  },
+  {
+    "Region":"University of Virginia, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":676039.1599065877
+  },
+  {
+    "Region":"University of Virginia, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":735765.2611178402
+  },
+  {
+    "Region":"University of Virginia, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":773350.9488383936
+  },
+  {
+    "Region":"Upperville, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":965682.1322469517
+  },
+  {
+    "Region":"Upperville, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1671087.2862073707
+  },
+  {
+    "Region":"Upperville, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1436176.345462725
+  },
+  {
+    "Region":"Verona, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":328924.9612850972
+  },
+  {
+    "Region":"Verona, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":355610.9817690543
+  },
+  {
+    "Region":"Verona, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":380867.6326400572
+  },
+  {
+    "Region":"Vienna, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1381792.6183972929
+  },
+  {
+    "Region":"Vienna, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1448378.7855548076
+  },
+  {
+    "Region":"Vienna, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1521596.4246475815
+  },
+  {
+    "Region":"Villa Heights, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":130705.0411378559
+  },
+  {
+    "Region":"Villa Heights, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":150194.8745986745
+  },
+  {
+    "Region":"Villa Heights, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":168539.8852277918
+  },
+  {
+    "Region":"Vinton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":284248.7008901671
+  },
+  {
+    "Region":"Vinton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":304711.7011917416
+  },
+  {
+    "Region":"Vinton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":322228.7498537405
+  },
+  {
+    "Region":"Virginia",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":480491.8951901663
+  },
+  {
+    "Region":"Virginia",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":496092.1827340189
+  },
+  {
+    "Region":"Virginia",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":517714.8499278029
+  },
+  {
+    "Region":"Virginia Beach, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":407350.5477339893
+  },
+  {
+    "Region":"Virginia Beach, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":421111.9848188586
+  },
+  {
+    "Region":"Virginia Beach, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":436901.2237861169
+  },
+  {
+    "Region":"Virginia Beach, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":383253.0346442965
+  },
+  {
+    "Region":"Virginia Beach, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":399890.104022864
+  },
+  {
+    "Region":"Virginia Beach, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":416816.4446977433
+  },
+  {
+    "Region":"Wakefield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":654764.90501862
+  },
+  {
+    "Region":"Wakefield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":703188.5755857215
+  },
+  {
+    "Region":"Wakefield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":750857.8623209028
+  },
+  {
+    "Region":"Warren County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":410556.5624430213
+  },
+  {
+    "Region":"Warren County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":426043.966514458
+  },
+  {
+    "Region":"Warren County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":444095.4737079934
+  },
+  {
+    "Region":"Warrenton, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":597768.7139670559
+  },
+  {
+    "Region":"Warrenton, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":632056.5455544899
+  },
+  {
+    "Region":"Warrenton, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":680975.2703849797
+  },
+  {
+    "Region":"Washington County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":301420.6746363018
+  },
+  {
+    "Region":"Washington County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":312494.0062624603
+  },
+  {
+    "Region":"Washington County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":325308.8964469525
+  },
+  {
+    "Region":"Washington, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1213217.8384959712
+  },
+  {
+    "Region":"Washington, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1438455.750796281
+  },
+  {
+    "Region":"Washington, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1582817.9998107564
+  },
+  {
+    "Region":"Waterford, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1129075.3288775582
+  },
+  {
+    "Region":"Waterford, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1266656.3168327131
+  },
+  {
+    "Region":"Waterford, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1392367.6400828206
+  },
+  {
+    "Region":"Waverly, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":217382.7770206791
+  },
+  {
+    "Region":"Waverly, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":236593.7994524899
+  },
+  {
+    "Region":"Waverly, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":257918.0825918536
+  },
+  {
+    "Region":"Waynesboro, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":322654.5553514391
+  },
+  {
+    "Region":"Waynesboro, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":339709.2448324947
+  },
+  {
+    "Region":"Waynesboro, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":356708.807289729
+  },
+  {
+    "Region":"Weber City, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":196749.6905568731
+  },
+  {
+    "Region":"Weber City, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":218435.7255860982
+  },
+  {
+    "Region":"Weber City, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":235375.3016007176
+  },
+  {
+    "Region":"West Falls Church, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":794298.4583497384
+  },
+  {
+    "Region":"West Falls Church, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":820027.6308797859
+  },
+  {
+    "Region":"West Falls Church, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":840615.9087330394
+  },
+  {
+    "Region":"West Gate, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":509098.8717740417
+  },
+  {
+    "Region":"West Gate, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":538750.2504629787
+  },
+  {
+    "Region":"West Gate, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":568872.3104960141
+  },
+  {
+    "Region":"West Point, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":363331.3546039513
+  },
+  {
+    "Region":"West Point, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":386832.1314831718
+  },
+  {
+    "Region":"West Point, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":403690.577051769
+  },
+  {
+    "Region":"West Springfield, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":662062.4410575046
+  },
+  {
+    "Region":"West Springfield, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":686980.3395577443
+  },
+  {
+    "Region":"West Springfield, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":727628.7625464491
+  },
+  {
+    "Region":"Westlake Corner, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":811888.6700310539
+  },
+  {
+    "Region":"Westlake Corner, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":903490.4084571827
+  },
+  {
+    "Region":"Westlake Corner, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":960573.9680305704
+  },
+  {
+    "Region":"Westmoreland County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":340877.818780049
+  },
+  {
+    "Region":"Westmoreland County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":354544.2884244191
+  },
+  {
+    "Region":"Westmoreland County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":362911.5797928757
+  },
+  {
+    "Region":"Weyers Cave, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":388857.4163665734
+  },
+  {
+    "Region":"Weyers Cave, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":415672.1097907194
+  },
+  {
+    "Region":"Weyers Cave, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":430210.3064502181
+  },
+  {
+    "Region":"Williamsburg, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":469354.3343284442
+  },
+  {
+    "Region":"Williamsburg, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":501333.3446652763
+  },
+  {
+    "Region":"Williamsburg, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":539425.7721700713
+  },
+  {
+    "Region":"Winchester, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":419592.3848960865
+  },
+  {
+    "Region":"Winchester, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":443214.507318765
+  },
+  {
+    "Region":"Winchester, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":462592.8225776556
+  },
+  {
+    "Region":"Winchester, VA metro area",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":437580.9628987457
+  },
+  {
+    "Region":"Winchester, VA metro area",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":456105.5595600348
+  },
+  {
+    "Region":"Winchester, VA metro area",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":477601.3099117004
+  },
+  {
+    "Region":"Windsor, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":434788.1489406487
+  },
+  {
+    "Region":"Windsor, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":466529.5552986616
+  },
+  {
+    "Region":"Windsor, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":485255.0577160215
+  },
+  {
+    "Region":"Wintergreen, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":445499.4668385307
+  },
+  {
+    "Region":"Wintergreen, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":472934.266070772
+  },
+  {
+    "Region":"Wintergreen, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":493520.2438399363
+  },
+  {
+    "Region":"Wise County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":164854.081516147
+  },
+  {
+    "Region":"Wise County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":174928.2239473909
+  },
+  {
+    "Region":"Wise County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":180274.790592144
+  },
+  {
+    "Region":"Wise, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":218123.4237934815
+  },
+  {
+    "Region":"Wise, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":249665.0103255541
+  },
+  {
+    "Region":"Wise, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":275042.9486869507
+  },
+  {
+    "Region":"Wolf Trap, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":1512055.3816238809
+  },
+  {
+    "Region":"Wolf Trap, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":1596113.8771696694
+  },
+  {
+    "Region":"Wolf Trap, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":1702924.0633097643
+  },
+  {
+    "Region":"Woodbridge, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":488427.9104662691
+  },
+  {
+    "Region":"Woodbridge, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":508666.1590504819
+  },
+  {
+    "Region":"Woodbridge, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":533830.783370645
+  },
+  {
+    "Region":"Woodburn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":821449.0095097874
+  },
+  {
+    "Region":"Woodburn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":898388.8685919828
+  },
+  {
+    "Region":"Woodburn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":955461.0142525735
+  },
+  {
+    "Region":"Woodlake, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":463325.1521056161
+  },
+  {
+    "Region":"Woodlake, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":479028.9123976424
+  },
+  {
+    "Region":"Woodlake, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":513140.8163147858
+  },
+  {
+    "Region":"Woodlawn, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":440660.6892719541
+  },
+  {
+    "Region":"Woodlawn, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":468032.6743237883
+  },
+  {
+    "Region":"Woodlawn, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":507009.7651722049
+  },
+  {
+    "Region":"Wyndham, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":779904.0969789332
+  },
+  {
+    "Region":"Wyndham, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":800592.6191985068
+  },
+  {
+    "Region":"Wyndham, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":807381.5883685527
+  },
+  {
+    "Region":"Wythe County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":271664.5797742265
+  },
+  {
+    "Region":"Wythe County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":290601.3904333223
+  },
+  {
+    "Region":"Wythe County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":302633.9554855977
+  },
+  {
+    "Region":"York County, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":482285.8750540682
+  },
+  {
+    "Region":"York County, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":511779.4892301608
+  },
+  {
+    "Region":"York County, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":539907.8677959817
+  },
+  {
+    "Region":"Yorkshire, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":494034.3950046265
+  },
+  {
+    "Region":"Yorkshire, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":493305.9971741799
+  },
+  {
+    "Region":"Yorkshire, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":510281.7303461811
+  },
+  {
+    "Region":"Yorktown, VA",
+    "Year":2026,
+    "Avg Predicted Median Sale Price":514078.8378886936
+  },
+  {
+    "Region":"Yorktown, VA",
+    "Year":2027,
+    "Avg Predicted Median Sale Price":538116.4415092408
+  },
+  {
+    "Region":"Yorktown, VA",
+    "Year":2028,
+    "Avg Predicted Median Sale Price":557350.3409432678
+  }
+]

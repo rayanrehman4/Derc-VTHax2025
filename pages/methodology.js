@@ -179,64 +179,6 @@ export default function Methodology() {
         </div>
       </section>
 
-      {/* Data Sources */}
-      <section className="section-padding bg-gray-900">
-        <div className="max-w-4xl mx-auto container-padding">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-white mb-4">Data Sources & Quality</h2>
-            <p className="text-xl text-gray-400">
-              We aggregate data from trusted, authoritative sources to ensure accuracy and reliability.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="card">
-              <h3 className="text-xl font-semibold text-white mb-4">Primary Sources</h3>
-              <ul className="space-y-3 text-gray-300">
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Multiple Listing Service (MLS) data from 200+ markets</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Federal Housing Finance Agency price indices</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Bureau of Labor Statistics income data</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Freddie Mac mortgage rate surveys</span>
-                </li>
-              </ul>
-            </div>
-
-            <div className="card">
-              <h3 className="text-xl font-semibold text-white mb-4">Data Quality Standards</h3>
-              <ul className="space-y-3 text-gray-300">
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Weekly updates for major metropolitan areas</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Automated anomaly detection and validation</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>Manual review of outliers and significant changes</span>
-                </li>
-                <li className="flex items-start">
-                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-3 flex-shrink-0" />
-                  <span>99.9% uptime and data availability</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* Assumptions */}
       <section className="section-padding">
         <div className="max-w-6xl mx-auto container-padding">
@@ -289,41 +231,6 @@ export default function Methodology() {
                     </ul>
                   </div>
                 )}
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Glossary */}
-      <section className="section-padding bg-gray-900">
-        <div className="max-w-4xl mx-auto container-padding">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-white mb-4">Glossary</h2>
-            <p className="text-xl text-gray-400">
-              Key terms and definitions used throughout our platform.
-            </p>
-          </div>
-
-          <div className="space-y-4">
-            {glossary.map((item, index) => (
-              <div 
-                key={item.term}
-                className="card"
-                style={{ 
-                  animationDelay: `${index * 50}ms`,
-                  opacity: 0,
-                  animation: 'slideUp 0.4s ease-out forwards'
-                }}
-              >
-                <div className="flex flex-col md:flex-row md:items-start">
-                  <div className="md:w-1/3 mb-2 md:mb-0">
-                    <h3 className="font-semibold text-white">{item.term}</h3>
-                  </div>
-                  <div className="md:w-2/3">
-                    <p className="text-gray-300 leading-relaxed">{item.definition}</p>
-                  </div>
-                </div>
               </div>
             ))}
           </div>

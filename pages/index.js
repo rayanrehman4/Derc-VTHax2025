@@ -274,8 +274,8 @@ export default function Home() {
               <div className="text-gray-400">Data Points</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-purple-400 mb-2">50K+</div>
-              <div className="text-gray-400">Active Users</div>
+              <div className="text-4xl font-bold text-purple-400 mb-2">500+</div>
+              <div className="text-gray-400">Counties Supported</div>
             </div>
             <div>
               <div className="text-4xl font-bold text-yellow-400 mb-2">99.9%</div>

@@ -1,6 +1,12 @@
 import Layout from '../components/Layout';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
+import { motion } from 'framer-motion';
+import dynamic from 'next/dynamic';
+
+const Player = dynamic(() => import('react-lottie-player').then(mod => ({ default: mod.Player })), {
+  ssr: false
+});
 
 const testimonials = [
   {
@@ -123,7 +129,30 @@ export default function Home() {
       {/* Hero Section */}
 
       <section className="section-padding bg-gradient-to-b from-gray-950 to-gray-900 relative overflow-hidden">
+        {/* Animated Background Elements */}
         <div className="absolute inset-0 bg-grid-pattern opacity-5" style={{ backgroundSize: '20px 20px' }} />
+        <div className="absolute inset-0 overflow-hidden">
+          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-green-500/10 rounded-full blur-3xl animate-pulse" />
+          <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }} />
+          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-purple-500/10 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '2s' }} />
+        </div>
+        
+        {/* Floating Trendline Graphics */}
+        <div className="absolute inset-0 pointer-events-none">
+          <svg className="absolute top-20 left-10 w-32 h-16 text-green-400/20" viewBox="0 0 128 64" fill="none">
+            <path d="M0 48 L32 32 L64 16 L96 8 L128 4" stroke="currentColor" strokeWidth="2" fill="none" />
+            <circle cx="128" cy="4" r="3" fill="currentColor" />
+          </svg>
+          <svg className="absolute top-40 right-20 w-40 h-20 text-blue-400/20" viewBox="0 0 160 80" fill="none">
+            <path d="M0 60 L40 45 L80 30 L120 15 L160 8" stroke="currentColor" strokeWidth="2" fill="none" />
+            <circle cx="160" cy="8" r="3" fill="currentColor" />
+          </svg>
+          <svg className="absolute bottom-32 left-1/4 w-36 h-18 text-purple-400/20" viewBox="0 0 144 72" fill="none">
+            <path d="M0 56 L36 42 L72 28 L108 14 L144 6" stroke="currentColor" strokeWidth="2" fill="none" />
+            <circle cx="144" cy="6" r="3" fill="currentColor" />
+          </svg>
+        </div>
+
         <div className="max-w-7xl mx-auto container-padding relative">
           <div className="text-center">
             <div className="animate-fade-in">
@@ -145,7 +174,7 @@ export default function Home() {
                     >
                       {typedText.slice(splitIndex)}
                     </span>
-                    {!typingDone && <span className="border-r-2 border-white animate-pulse">&nbsp;</span>}
+{!typingDone && <span className="border-r-2 border-white animate-pulse">&nbsp;</span>}
                   </>
                 )}
               </h1>
@@ -157,7 +186,180 @@ export default function Home() {
                   Open Dashboard
                 </Link>
               </div>
+              
+              {/* Interactive Trendline Visualization */}
+              <div className="mt-16 relative">
+                <div className="max-w-4xl mx-auto">
+                  <div className="relative bg-gray-900/30 backdrop-blur-sm border border-gray-800/50 rounded-2xl p-8 overflow-hidden">
+                    {/* Background Pattern */}
+                    <div className="absolute inset-0 opacity-10">
+                      <svg className="w-full h-full" viewBox="0 0 400 200" preserveAspectRatio="none">
+                        <defs>
+                          <linearGradient id="trendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" stopColor="#22c55e" stopOpacity="0.3" />
+                            <stop offset="50%" stopColor="#3b82f6" stopOpacity="0.3" />
+                            <stop offset="100%" stopColor="#8b5cf6" stopOpacity="0.3" />
+                          </linearGradient>
+                        </defs>
+                        <path 
+                          d="M0 150 Q100 120 200 100 T400 80" 
+                          stroke="url(#trendGradient)" 
+                          strokeWidth="3" 
+                          fill="none"
+                          className="animate-pulse"
+                        />
+                        <path 
+                          d="M0 180 Q100 160 200 140 T400 120" 
+                          stroke="url(#trendGradient)" 
+                          strokeWidth="2" 
+                          fill="none" 
+                          opacity="0.6"
+                          className="animate-pulse"
+                          style={{ animationDelay: '0.5s' }}
+                        />
+                      </svg>
+                    </div>
+                    
+                    {/* Content */}
+                    <div className="relative z-10 grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                      <div className="group">
+                        <div className="w-16 h-16 bg-gradient-to-r from-green-400 to-green-600 rounded-full mx-auto mb-4 flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                          <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                          </svg>
+                        </div>
+                        <h3 className="text-lg font-semibold text-white mb-2">Real-Time Trends</h3>
+                        <p className="text-gray-400 text-sm">Live market data updated weekly</p>
+                      </div>
+                      
+                      <div className="group">
+                        <div className="w-16 h-16 bg-gradient-to-r from-blue-400 to-blue-600 rounded-full mx-auto mb-4 flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                          <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                          </svg>
+                        </div>
+                        <h3 className="text-lg font-semibold text-white mb-2">Market Analysis</h3>
+                        <p className="text-gray-400 text-sm">Deep insights across 200+ metros</p>
+                      </div>
+                      
+                      <div className="group">
+                        <div className="w-16 h-16 bg-gradient-to-r from-purple-400 to-purple-600 rounded-full mx-auto mb-4 flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                          <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                          </svg>
+                        </div>
+                        <h3 className="text-lg font-semibold text-white mb-2">Affordability Focus</h3>
+                        <p className="text-gray-400 text-sm">Income-based calculations you can trust</p>
+                      </div>
+                    </div>
+                    
+                    {/* Animated Dots */}
+                    <div className="absolute top-4 right-4 flex space-x-1">
+                      <div className="w-2 h-2 bg-green-400 rounded-full animate-ping" />
+                      <div className="w-2 h-2 bg-blue-400 rounded-full animate-ping" style={{ animationDelay: '0.5s' }} />
+                      <div className="w-2 h-2 bg-purple-400 rounded-full animate-ping" style={{ animationDelay: '1s' }} />
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Lottie Animations Section */}
+      <section className="section-padding bg-gradient-to-b from-gray-900 to-gray-950">
+        <div className="max-w-7xl mx-auto container-padding">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+              Discover Housing <span className="gradient-text">Intelligence</span>
+            </h2>
+            <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+              Powerful tools to navigate today's housing market with confidence
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+            {/* Magnifying Glass Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-green-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/magnify.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.8}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-green-400 transition-colors">
+                  Explore Homes
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Search and analyze properties across 200+ metro areas with detailed affordability insights
+                </p>
+              </div>
+            </motion.div>
+
+            {/* Line Chart Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-blue-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/linechart.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.7}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-blue-400 transition-colors">
+                  Track Trends
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Monitor market trends and price movements with interactive charts and historical data
+                </p>
+              </div>
+            </motion.div>
+
+            {/* For Sale Sign Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.3 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-purple-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/forsale.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.6}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-purple-400 transition-colors">
+                  See Listings
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Access real-time market data and discover opportunities in your target areas
+                </p>
+              </div>
+            </motion.div>
           </div>
         </div>
       </section>

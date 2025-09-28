@@ -4,20 +4,20 @@ import { useState, useEffect } from 'react';
 
 const testimonials = [
   {
-    name: "Sarah Chen",
+    name: "Farooq Khan",
     role: "Real Estate Agent",
     content: "Affordly has become my go-to resource for helping clients understand market conditions. The data is clear, accurate, and always up-to-date.",
     avatar: "SC"
   },
   {
-    name: "Michael Rodriguez",
+    name: "Neal Shah",
     role: "Financial Advisor",
     content: "The affordability insights help me guide my clients' investment decisions. The dashboard makes complex housing data accessible and actionable.",
     avatar: "MR"
   },
   {
-    name: "Emily Johnson",
-    role: "First-Time Homebuyer",
+    name: "Lebron James",
+    role: "First-Time Homebuyer & Local Basketball Player",
     content: "I found my affordable market using Affordly's data. The platform showed me exactly where my income could support homeownership.",
     avatar: "EJ"
   }

@@ -2,32 +2,32 @@ import Layout from '../components/Layout';
 
 const timeline = [
   {
-    year: '2019',
+    year: 'Sep 2025',
     title: 'Founded',
     description: 'Affordly was founded with a mission to make housing data accessible to everyone.'
   },
   {
-    year: '2020',
+    year: 'Sep 2025',
     title: 'First Dashboard',
     description: 'Launched our flagship Housing Affordability Dashboard with data from 50 major metros.'
   },
   {
-    year: '2021',
-    title: 'Series A',
-    description: 'Raised $10M Series A to expand coverage and build predictive analytics capabilities.'
+    year: 'Sep 2025',
+    title: 'Expanded Coverage',
+    description: 'Expanded coverage and built predictive analytics capabilities.'
   },
   {
-    year: '2022',
+    year: 'Sep 2025',
     title: 'API Launch',
     description: 'Released public API, enabling developers and enterprises to integrate our data.'
   },
   {
-    year: '2023',
+    year: 'Sep 2025',
     title: 'National Coverage',
     description: 'Achieved complete coverage of all US metropolitan areas with 200+ markets.'
   },
   {
-    year: '2024',
+    year: 'Sep 2025',
     title: 'AI Integration',
     description: 'Introduced machine learning models for market predictions and affordability forecasting.'
   }
@@ -36,22 +36,22 @@ const timeline = [
 const leadership = [
   {
     name: 'Charan Sama',
-    role: 'Senior Machine Learning',
+    role: 'Co-Founder',
     image: 'CS'
   },
   {
     name: 'Rayan Rehman',
-    role: 'Senior Cybersecurity',
+    role: 'Co-Founder',
     image: 'RR'
   },
   {
     name: 'Dhruv Shah',
-    role: 'Senior Computer Science',
+    role: 'Co-Founder',
     image: 'DS'
   },
   {
     name: 'Eshaan Salvi',
-    role: 'Senior Machine Learning',
+    role: 'Co-Founder',
     image: 'ES'
   }
 ];

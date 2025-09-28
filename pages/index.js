@@ -1,8 +1,12 @@
 import Layout from '../components/Layout';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import { Player } from 'react-lottie-player';
 import { motion } from 'framer-motion';
+import dynamic from 'next/dynamic';
+
+const Player = dynamic(() => import('react-lottie-player').then(mod => ({ default: mod.Player })), {
+  ssr: false
+});
 
 const testimonials = [
   {

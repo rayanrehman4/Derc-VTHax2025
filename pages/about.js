@@ -35,25 +35,25 @@ const timeline = [
 
 const leadership = [
   {
-    name: 'Sarah Chen',
-    role: 'CEO & Co-Founder',
+    name: 'Charan Sama',
+    role: 'Senior Computer Engineering',
     bio: 'Former Goldman Sachs real estate analyst with 10+ years in housing finance.',
     image: 'SC'
   },
   {
-    name: 'Michael Rodriguez',
+    name: 'Rayan Rehman',
     role: 'CTO & Co-Founder',
     bio: 'Ex-Google engineer specializing in large-scale data systems and analytics.',
     image: 'MR'
   },
   {
-    name: 'Emily Johnson',
+    name: 'Dhruv Shah',
     role: 'VP of Data Science',
     bio: 'PhD in Economics from MIT, former Federal Reserve research economist.',
     image: 'EJ'
   },
   {
-    name: 'David Park',
+    name: 'Eshaan Salvi',
     role: 'VP of Product',
     bio: 'Former Zillow product leader with expertise in real estate technology.',
     image: 'DP'

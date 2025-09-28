@@ -272,7 +272,21 @@ export default function Home() {
                 </button>
                 {openFaq === index && (
                   <div className="px-6 pb-4 text-gray-400 leading-relaxed">
-                    {faq.answer}
+                    {faq.question === "How can I see future housing price trends?" ? (
+                      <div>
+                        {faq.answer}
+                        <div className="mt-4">
+                          <Link href="/forecasting" className="inline-flex items-center text-green-400 hover:text-green-300 font-medium transition-colors">
+                            Explore Price Forecasts
+                            <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          </Link>
+                        </div>
+                      </div>
+                    ) : (
+                      faq.answer
+                    )}
                   </div>
                 )}
               </div>

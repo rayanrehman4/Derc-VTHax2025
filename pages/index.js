@@ -106,7 +106,7 @@ export default function Home() {
               <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
                 Housing Affordability
                 <br />
-                <span className="gradient-text">Made Simple</span>
+                <span className="gradient-text">Means to You</span>
               </h1>
               
               <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">

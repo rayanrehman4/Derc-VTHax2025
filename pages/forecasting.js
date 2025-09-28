@@ -358,21 +358,41 @@ export default function Forecasting() {
 
     // Simulate API call delay
     setTimeout(() => {
-      if (state.toLowerCase() === 'virginia') {
+      if (state.toLowerCase() === 'california') {
+        // Use the hardcoded California data
         setForecastData(californiaData);
-        // Process data for county selection
         const processed = processCountyData(californiaData);
         setProcessedCounties(processed);
-        // Auto-select top 3 most expensive for demo
         const top3 = processed.sort((a, b) => b[2028] - a[2028]).slice(0, 3);
         setSelectedCounties(top3);
+      } else if (state.toLowerCase() === 'virginia') {
+        // Load Virginia data from the JSON file
+        loadVirginiaData();
       } else {
         // For other states, show no data message
         setForecastData([]);
         setProcessedCounties([]);
+        setSelectedCounties([]);
       }
       setIsLoading(false);
     }, 1000);
+  };
+
+  const loadVirginiaData = async () => {
+    try {
+      const response = await fetch('/data/housing_forecast_2026_2028Va (1).json');
+      const virginiaData = await response.json();
+      setForecastData(virginiaData);
+      const processed = processCountyData(virginiaData);
+      setProcessedCounties(processed);
+      const top3 = processed.sort((a, b) => b[2028] - a[2028]).slice(0, 3);
+      setSelectedCounties(top3);
+    } catch (error) {
+      console.error('Error loading Virginia data:', error);
+      setForecastData([]);
+      setProcessedCounties([]);
+      setSelectedCounties([]);
+    }
   };
 
   const formatCurrency = (amount) => {
@@ -648,7 +668,7 @@ export default function Forecasting() {
                     No forecast data available for {selectedState}
                   </div>
                   <div className="text-gray-500 text-sm">
-                    Currently, we only have forecast data for Virginia. More states coming soon!
+                    Currently, we only have forecast data for California and Virginia. More states coming soon!
                   </div>
                 </div>
               )}

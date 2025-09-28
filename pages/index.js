@@ -169,8 +169,7 @@ export default function Home() {
                       {typedText.slice(splitIndex)}
                     </span>
 {!typingDone && <span className="border-r-2 border-white animate-pulse">&nbsp;</span>}
-                  </                    }
->
+                  </>
                 )}
               </h1>
               <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
@@ -275,8 +274,8 @@ export default function Home() {
               <div className="text-gray-400">Data Points</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-purple-400 mb-2">500+</div>
-              <div className="text-gray-400">Counties Supported</div>
+              <div className="text-4xl font-bold text-purple-400 mb-2">50K+</div>
+              <div className="text-gray-400">Active Users</div>
             </div>
             <div>
               <div className="text-4xl font-bold text-yellow-400 mb-2">99.9%</div>

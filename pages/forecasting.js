@@ -358,7 +358,7 @@ export default function Forecasting() {
 
     // Simulate API call delay
     setTimeout(() => {
-      if (state.toLowerCase() === 'california') {
+      if (state.toLowerCase() === 'virginia') {
         setForecastData(californiaData);
         // Process data for county selection
         const processed = processCountyData(californiaData);
@@ -410,7 +410,7 @@ export default function Forecasting() {
     ];
 
     const datasets = selectedCounties.map((county, index) => ({
-      label: county.region.replace(', CA metro area', ''),
+      label: county.region.replace(', VA metro area', '').replace(', VA', ''),
       data: [county[2026], county[2027], county[2028]],
       borderColor: colors[index % colors.length],
       backgroundColor: colors[index % colors.length] + '20',
@@ -616,7 +616,7 @@ export default function Forecasting() {
                           .sort((a, b) => b[2028] - a[2028])
                           .map((county) => {
                             const growth = ((county[2028] - county[2026]) / county[2026] * 100);
-                            const region = county.region.replace(', CA metro area', '');
+                            const region = county.region.replace(', VA metro area', '').replace(', VA', '');
                             return (
                               <tr key={region} className="border-b border-gray-800 hover:bg-gray-800/30">
                                 <td className="py-3 px-4 text-white font-medium">{region}</td>
@@ -648,7 +648,7 @@ export default function Forecasting() {
                     No forecast data available for {selectedState}
                   </div>
                   <div className="text-gray-500 text-sm">
-                    Currently, we only have forecast data for California. More states coming soon!
+                    Currently, we only have forecast data for Virginia. More states coming soon!
                   </div>
                 </div>
               )}

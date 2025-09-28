@@ -162,16 +162,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
                   <li><Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">Contact</Link></li>
                 </ul>
               </div>
-
-              {/* Resources */}
-              <div>
-                <h3 className="text-white font-semibold mb-4">Resources</h3>
-                <ul className="space-y-2">
-                  <li><a href="mailto:support@affordly.com" className="text-gray-400 hover:text-white transition-colors text-sm">Support</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors text-sm">Privacy Policy</a></li>
-                  <li><a href="#" className="text-gray-400 hover:text-white transition-colors text-sm">Terms of Service</a></li>
-                </ul>
-              </div>
             </div>
 
             <div className="border-t border-gray-800/50 mt-8 pt-8 text-center">

@@ -169,7 +169,6 @@ export default function Home() {
                       {typedText.slice(splitIndex)}
                     </span>
                     {!typingDone && <span className="border-r-2 border-white animate-pulse">&nbsp;</span>}
-                    }
                   </>
                 )}
               </h1>

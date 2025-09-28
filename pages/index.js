@@ -1,6 +1,8 @@
 import Layout from '../components/Layout';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
+import { Player } from 'react-lottie-player';
+import { motion } from 'framer-motion';
 
 const testimonials = [
   {
@@ -257,6 +259,103 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Lottie Animations Section */}
+      <section className="section-padding bg-gradient-to-b from-gray-900 to-gray-950">
+        <div className="max-w-7xl mx-auto container-padding">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+              Discover Housing <span className="gradient-text">Intelligence</span>
+            </h2>
+            <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+              Powerful tools to navigate today's housing market with confidence
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+            {/* Magnifying Glass Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-green-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/magnify.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.8}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-green-400 transition-colors">
+                  Explore Homes
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Search and analyze properties across 200+ metro areas with detailed affordability insights
+                </p>
+              </div>
+            </motion.div>
+
+            {/* Line Chart Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-blue-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/linechart.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.7}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-blue-400 transition-colors">
+                  Track Trends
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Monitor market trends and price movements with interactive charts and historical data
+                </p>
+              </div>
+            </motion.div>
+
+            {/* For Sale Sign Animation */}
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.3 }}
+              viewport={{ once: true }}
+              className="text-center"
+            >
+              <div className="relative bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 shadow-2xl hover:shadow-purple-500/10 transition-all duration-300 group">
+                <div className="w-32 h-32 mx-auto mb-6 flex items-center justify-center">
+                  <Player
+                    autoplay
+                    loop
+                    src="/animations/forsale.json"
+                    style={{ height: '128px', width: '128px' }}
+                    speed={0.6}
+                  />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-purple-400 transition-colors">
+                  See Listings
+                </h3>
+                <p className="text-gray-400 leading-relaxed">
+                  Access real-time market data and discover opportunities in your target areas
+                </p>
+              </div>
+            </motion.div>
           </div>
         </div>
       </section>

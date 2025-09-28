@@ -36,7 +36,7 @@ const timeline = [
 const leadership = [
   {
     name: 'Charan Sama',
-    role: 'Senior Computer Engineering',
+    role: 'Senior Machine Learning',
     image: 'CS'
   },
   {
@@ -51,7 +51,7 @@ const leadership = [
   },
   {
     name: 'Eshaan Salvi',
-    role: 'Senior Computer Engineering',
+    role: 'Senior Machine Learning',
     image: 'ES'
   }
 ];

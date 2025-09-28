@@ -14,7 +14,6 @@ const Layout = ({ children, title = 'Affordly', description = 'Housing Affordabi
     { name: 'Forecasting', href: '/forecasting' },
     { name: 'Methodology', href: '/methodology' },
     { name: 'About', href: '/about' },
-    { name: 'Contact', href: '/contact' },
   ];
 
   return (

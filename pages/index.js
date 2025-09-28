@@ -104,7 +104,7 @@ export default function Home() {
           <div className="text-center">
             <div className="animate-fade-in">
               <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-                Housing Affordability
+                Find What a Neighborhood
                 <br />
                 <span className="gradient-text">Means to You</span>
               </h1>

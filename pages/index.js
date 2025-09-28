@@ -110,7 +110,7 @@ export default function Home() {
           return prev;
         }
       });
-    }, 140);
+    }, 100); // faster typing
     return () => clearInterval(typeInterval);
   }, []);
 

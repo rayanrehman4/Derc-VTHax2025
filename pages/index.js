@@ -80,14 +80,38 @@ const faqs = [
 ];
 
 export default function Home() {
+
   const [currentTestimonial, setCurrentTestimonial] = useState(0);
   const [openFaq, setOpenFaq] = useState(null);
+  const fullPhrase = "Find What a Neighborhood Means to You ";
+  const splitIndex = "Find What a Neighborhood ".length;
+  const [typedText, setTypedText] = useState("");
+  const [typingDone, setTypingDone] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentTestimonial((prev) => (prev + 1) % testimonials.length);
     }, 5000);
     return () => clearInterval(timer);
+  }, []);
+
+  useEffect(() => {
+    let i = 0;
+    setTypedText("");
+    setTypingDone(false);
+    const typeInterval = setInterval(() => {
+      setTypedText((prev) => {
+        if (i < fullPhrase.length) {
+          i++;
+          return fullPhrase.slice(0, i);
+        } else {
+          clearInterval(typeInterval);
+          setTypingDone(true);
+          return prev;
+        }
+      });
+    }, 140);
+    return () => clearInterval(typeInterval);
   }, []);
 
   return (
@@ -97,34 +121,41 @@ export default function Home() {
       canonical="https://affordly.com"
     >
       {/* Hero Section */}
+
       <section className="section-padding bg-gradient-to-b from-gray-950 to-gray-900 relative overflow-hidden">
         <div className="absolute inset-0 bg-grid-pattern opacity-5" style={{ backgroundSize: '20px 20px' }} />
-        
         <div className="max-w-7xl mx-auto container-padding relative">
           <div className="text-center">
             <div className="animate-fade-in">
               <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-                Find What a Neighborhood
-                <br />
-                <span className="gradient-text">Means to You</span>
+                {typedText.length <= splitIndex ? (
+                  <span>{typedText}<span className="border-r-2 border-white animate-pulse">&nbsp;</span></span>
+                ) : (
+                  <>
+                    <span>{typedText.slice(0, splitIndex)}</span>
+                    <br />
+                    <span
+                      className="bg-clip-text text-transparent font-bold"
+                      style={{
+                        backgroundImage:
+                          "linear-gradient(to right, #22c55e, #3b82f6)",
+                        WebkitBackgroundClip: "text",
+                        WebkitTextFillColor: "transparent"
+                      }}
+                    >
+                      {typedText.slice(splitIndex)}
+                    </span>
+                    {!typingDone && <span className="border-r-2 border-white animate-pulse">&nbsp;</span>}
+                  </>
+                )}
               </h1>
-              
               <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
                 Track income requirements to buy homes across America. Each city is a "ticker," each price tells a story.
               </p>
-              
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
                 <Link href="/dashboard" className="btn-primary text-lg px-8 py-4 hover:scale-105">
                   Open Dashboard
                 </Link>
-              </div>
-            </div>
-
-            {/* Trust Indicators */}
-            <div className="animate-slide-up">
-              <p className="text-gray-400 text-sm mb-4">Trusted by professionals at</p>
-              <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
-                <div className="text-2xl font-bold text-gray-500">Goldman Sachs</div>
               </div>
             </div>
           </div>

@@ -36,22 +36,22 @@ const timeline = [
 const leadership = [
   {
     name: 'Charan Sama',
-    role: 'Co-Founder',
+    role: 'CEO & Co-Founder with 3+ years in the Maching Learning Business',
     image: 'CS'
   },
   {
     name: 'Rayan Rehman',
-    role: 'Co-Founder',
+    role: 'CEO & Co-Founder with 3+ Years in the Cybersecurity Industry',
     image: 'RR'
   },
   {
     name: 'Dhruv Shah',
-    role: 'Co-Founder',
+    role: 'CTO & Co-Founder with 3+ Years in the Software Engineering Market',
     image: 'DS'
   },
   {
     name: 'Eshaan Salvi',
-    role: 'Co-Founder',
+    role: 'CFO & Co-Founder with 3+ years in the Machine Learning Inudstry',
     image: 'ES'
   }
 ];
@@ -214,40 +214,6 @@ export default function About() {
         </div>
       </section>
 
-      {/* Press */}
-      <section className="section-padding">
-        <div className="max-w-4xl mx-auto container-padding">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-white mb-4">In the Press</h2>
-            <p className="text-xl text-gray-400">Recognition from leading media outlets</p>
-          </div>
-
-          <div className="card">
-            <div className="text-center">
-              <p className="text-lg text-gray-300 mb-6 italic">
-                "Affordly is democratizing access to housing market data, providing insights that were 
-                previously available only to industry insiders."
-              </p>
-              <p className="text-green-400 font-semibold">— TechCrunch</p>
-            </div>
-          </div>
-
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-12 opacity-60">
-            <div className="text-center">
-              <div className="text-2xl font-bold text-gray-500">Wall Street Journal</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-gray-500">Forbes</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-gray-500">Bloomberg</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-gray-500">Reuters</div>
-            </div>
-          </div>
-        </div>
-      </section>
     </Layout>
   );
 }

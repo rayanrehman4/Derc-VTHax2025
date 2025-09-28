@@ -74,10 +74,6 @@ const faqs = [
     answer: "Our forecasting tool provides predicted median home prices for the next 3 years across different metro areas. You can compare multiple regions and see which markets are expected to become more or less affordable over time."
   },
   {
-    question: "Is there a mobile app?",
-    answer: "Currently, we offer a fully responsive web platform optimized for mobile devices. A dedicated mobile app is in development for 2024."
-  },
-  {
     question: "Do you offer enterprise solutions?",
     answer: "Yes, we provide custom enterprise solutions including white-label dashboards, API access, and dedicated support for real estate companies, financial institutions, and government agencies."
   }

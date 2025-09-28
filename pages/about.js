@@ -37,8 +37,8 @@ const leadership = [
   {
     name: 'Charan Sama',
     role: 'Senior Computer Engineering',
-    bio: 'Former Goldman Sachs real estate analyst with 10+ years in housing finance.',
-    image: 'SC'
+    ge
+    image: 'CS'
   },
   {
     name: 'Rayan Rehman',

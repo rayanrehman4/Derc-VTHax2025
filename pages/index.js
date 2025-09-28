@@ -19,11 +19,7 @@ const testimonials = [
     name: "Lebron James",
     role: "First-Time Homebuyer & Local Basketball Player",
     content: "I found my affordable market using Affordly's data. The platform showed me exactly where my income could support homeownership.",
-<<<<<<< HEAD
-    avatar: "LBJ"
-=======
     avatar: "LJ"
->>>>>>> abf3d3f003887b09c06fbaa7742989094079ed9f
   }
 ];
 
